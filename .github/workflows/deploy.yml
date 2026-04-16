@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       SITE_BASE_URL: https://never-nude.github.io
-      SITE_PATH_PREFIX: /wpcna
+      SITE_PATH_PREFIX: /wpcna2
     steps:
       - name: Checkout
         uses: actions/checkout@v4
