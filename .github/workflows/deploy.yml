@@ -22,6 +22,7 @@ jobs:
       SITE_BASE_URL: https://never-nude.github.io
       SITE_PATH_PREFIX: /wpcna2
       CANONICAL_PATH_PREFIX: /wpcna2
+      ASK_WHITE_PLAINS_API_URL: ${{ vars.ASK_WHITE_PLAINS_API_URL }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4

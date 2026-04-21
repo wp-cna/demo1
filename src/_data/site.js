@@ -15,6 +15,7 @@ module.exports = {
   email: "info@wpcna.org",
   contactFormAction: "https://formsubmit.co/info@wpcna.org",
   contactFormSubject: "WPCNA website contact",
+  askWhitePlainsApiUrl: process.env.ASK_WHITE_PLAINS_API_URL || "",
   // Posting form submits to a Cloudflare Worker — URL set after worker deploy
   postingApiUrl: process.env.POSTING_API_URL || "https://wpcna-posting.YOUR_SUBDOMAIN.workers.dev",
   location: "White Plains, New York",

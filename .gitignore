@@ -1,5 +1,8 @@
 node_modules
+worker/node_modules
 _site
 .DS_Store
 
 .claude/
+worker/.dev.vars*
+worker/.wrangler/

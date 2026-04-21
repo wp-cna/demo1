@@ -51,7 +51,7 @@ Eleventy will serve the site locally and watch for changes.
 npm run build
 ```
 
-The production-ready static site will be generated in `_site/`.
+The production-ready static site will be generated in `_site/`, and the Ask White Plains retrieval index will also be regenerated.
 
 ## Daily Automatic Event Refresh
 
@@ -89,9 +89,15 @@ That updates `src/_data/events.auto.json` locally without changing any templates
 
 This project is configured to publish as a GitHub Pages project site at:
 
-`https://never-nude.github.io/wpcna/`
+`https://never-nude.github.io/wpcna2/`
 
-In production, the build uses the `/wpcna/` path prefix so links and assets resolve correctly on GitHub Pages.
+In production, the build uses the `/wpcna2/` path prefix so links and assets resolve correctly on GitHub Pages.
+
+## Ask White Plains
+
+The site now includes a grounded AI feature at [`/ask/`](./src/ask/index.njk).
+
+Implementation and deployment notes for the static frontend, retrieval index, and Cloudflare Worker backend live in [`docs/ask-white-plains.md`](./docs/ask-white-plains.md).
 
 ## How To Edit Or Add Events
 

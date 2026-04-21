@@ -7,6 +7,13 @@
     "eyebrow": "WPCNA"
   },
   {
+    "title": "Ask White Plains (Beta)",
+    "summary": "Ask grounded questions about neighborhoods, WPCNA, agendas, events, community posting, and local resources already covered on the site.",
+    "url": "/ask/",
+    "ctaLabel": "Open Ask White Plains",
+    "eyebrow": "Beta"
+  },
+  {
     "title": "Neighborhood workshop materials",
     "summary": "Useful material for people trying to start a neighborhood association, revive one, or figure out the next step.",
     "url": "/workshops/",

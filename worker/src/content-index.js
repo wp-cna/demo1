@@ -1,0 +1,1518 @@
+export default {
+  "generatedAt": "2026-04-21T20:36:42.861Z",
+  "itemCount": 168,
+  "items": [
+    {
+      "id": "page:/",
+      "sourceId": "page:/",
+      "title": "What's Happening in White Plains",
+      "url": "/",
+      "type": "home",
+      "excerpt": "A neighborhood-centered guide to events, civic life, and useful local information around White Plains.",
+      "text": "A neighborhood-centered guide to events, civic life, and useful local information around White Plains.\n\nWhite Plains, New York\n\nWhat's happening in White Plains\n\nEvents, neighborhoods, and civic life in the county seat of Westchester.\n\nWPCNA helps keep neighborhood concerns, local events, and civic information easier to follow across White Plains.\n\nUpcoming68 events\n\nNeighborhoods43\n\nSourcesCity, Library, BID, WPPAC\n\nWhite Plains\n\nA closer look at the city\n\nViews pulled from the older WPCNA site, carried forward here so the homepage feels rooted in the place it serves.\n\nGolden hour\n\nAerial view\n\nComing Up\n\nUpcoming events\n\nA curated selection of public meetings, arts events, downtown happenings, and neighborhood programs.\n\nCatch Me If You Can\n\nApr 10, 2026 - May 3, 2026\n\nA spring run of the musical at the White Plains Performing Arts Center.\n\nCreating a Compelling College Application this Summer\n\nApr 21, 2026\n\nProgram for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…\n\nWhite Plains in 1776 (History via Igloo)\n\nApr 22, 2026\n\nLearn about events in White Plains during the crucial year of 1776.\n\nLifting Up Westchester\n\nApr 22, 2026\n\nVictor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area.\n\nLearn about 3D Printing (in the Igloo)\n\nApr 22, 2026\n\nLearn about 3D printing and how to use the Library's 3D printing services.\n\nGetting Started with Genealogy\n\nApr 23, 2026\n\nJoin educator and genealogist Dennis Richmond, Jr.\n\nNeighborhoods\n\nExplore White Plains\n\n43 neighborhoods from Downtown to Saxon Woods.\n\nCentral White Plains\n\nDowntown\n\nDowntown is the most walkable and built-up part of White Plains, centered on the Metro-North station, Mamaroneck Avenue, restaurants, shopping, and a growing collection of newer apartment buildings.\n\nCentral White Plains\n\nChurch Street\n\nChurch Street sits just off Downtown and shares much of its convenience, but at a slightly calmer scale.\n\nCentral White Plains\n\nGovernment Center\n\nGovernment Center is one of the most central parts of White Plains and gives the surrounding streets an established, civic feel.\n\nCentral White Plains\n\nHealth Center\n\nHealth Center is shaped by White Plains Hospital and the medical offices around it, which gives the area a familiar, everyday rhythm.\n\nCentral White Plains\n\nWinbrook\n\nWinbrook is close to the center of the city and has long been one of White Plains' better-known residential areas.\n\nCentral White Plains\n\nGateway\n\nGateway lives up to its name as the stretch between the city center and the residential neighborhoods around it.\n\nWest Side and Near-Downtown Neighborhoods\n\nBattle Hill"
+    },
+    {
+      "id": "page:/about/",
+      "sourceId": "page:/about/",
+      "title": "About WPCNA",
+      "url": "/about/",
+      "type": "wpcna",
+      "excerpt": "Learn what WPCNA is and how it helps connect neighborhoods across White Plains.",
+      "text": "Learn what WPCNA is and how it helps connect neighborhoods across White Plains.\n\nAbout\n\nAbout WPCNA\n\nThe White Plains Council of Neighborhood Associations brings neighborhood groups together across the city.\n\nWhat WPCNA is\n\nThe White Plains Council of Neighborhood Associations coordinates neighborhood associations across White Plains and helps keep communication open between neighborhoods, city government, and the public.\n\nWhy this site exists\n\nWhite Plains has a busy downtown, active neighborhood associations, public meetings, local organizations, and city notices moving at the same time. This site is meant to pull the most useful pieces together in one place so residents can see what is happening, find neighborhood context, and stay connected to public life around the city.\n\nThat is why the site brings together what's happening around White Plains, a guide to the city's neighborhoods, meeting agendas, and a few practical pages people tend to need again and again.\n\nHow residents use it\n\nYou can use this site to follow neighborhood-relevant events, get a clearer sense of different parts of White Plains, review WPCNA agendas, and send information to the council for possible posting. It is meant to be useful, plainspoken, and easy to check without digging through several different sites.\n\nWPCNA itself is made up of representatives from neighborhood associations throughout White Plains. The council serves as a place to share information, raise concerns, and keep neighborhoods in touch with each other and with the wider community.\n\nContact\n\nGet in touch\n\nQuestions, updates, or neighborhood news can be sent here.\n\nLeadership\n\nArchived officer list\n\nUntil a current roster is reposted, the archived 2018 WPCNA site listed these officers:\n\nCo-Presidents: Bill Brady and Andrew Custodio\n\nVice Presidents: Ron Palmer and Christopher Price\n\nTreasurer: Tom Osbeck\n\nRecording Secretary: Ruthmarie Hicks\n\nCorresponding Secretary: Louis Bruno\n\nHow WPCNA works\n\nBy-laws and committees\n\nThe archived WPCNA site also pointed residents to the council's by-laws and committee work. Those pieces help give neighborhood associations a structure for sharing information, tracking issues, and taking on citywide topics together.\n\nIf you need help finding governance materials or want to ask how WPCNA is organized, use the contact form and the council can point you in the right direction.\n\nGet Involved\n\nAttend a meeting\n\nWPCNA usually meets on the second Tuesday of the month at 7:00 p.m. Meetings are held in person at the White Plains Board of Education building (5 Homeside Lane) or online via Zoom, depending on the agenda. Format and timing can shift month to month, so check the latest agenda before you go.\n\nMeetings are open to anyone interested in civic life in White Plains."
+    },
+    {
+      "id": "page:/agendas/",
+      "sourceId": "page:/agendas/",
+      "title": "Meeting Agendas & Minutes",
+      "url": "/agendas/",
+      "type": "agendas",
+      "excerpt": "WPCNA monthly meeting agendas, minutes, and recordings.",
+      "text": "WPCNA monthly meeting agendas, minutes, and recordings.\n\nWPCNA\n\nMeeting agendas & minutes\n\nWPCNA meets monthly (typically the second Tuesday at 7:00 p.m.). Meeting minutes from each session are posted here as they become available.\n\nRecent\n\nLatest meetings\n\nMinutes from the most recent WPCNA meetings.\n\nFebruary 10, 2026\n\nCNA Meeting Minutes — February 10, 2026\n\nJanuary 13, 2026\n\nCNA Meeting Minutes — January 13, 2026\n\nDecember 9, 2025\n\nCNA Meeting Minutes — December 9, 2025\n\nArchive\n\nPast meeting minutes\n\nOlder minutes and agendas, going back to early 2024.\n\nNovember 12, 2025\n\nCNA Meeting Minutes — November 12, 2025\n\nOctober 14, 2025\n\nCNA Meeting Minutes — October 14, 2025\n\nSeptember 9, 2025\n\nCNA Meeting Minutes — September 9, 2025\n\nJune 10, 2025\n\nCNA Meeting Minutes — June 10, 2025\n\nFeatured a Zoom session with Westchester County Executive Ken Jenkins.\n\nMay 13, 2025\n\nCNA Meeting Minutes — May 13, 2025\n\nApril 8, 2025\n\nCNA Meeting Minutes — April 8, 2025\n\nFebruary 11, 2025\n\nCNA Meeting Minutes — February 11, 2025\n\nJanuary 14, 2025\n\nCNA Meeting Minutes — January 14, 2025\n\nDecember 10, 2024\n\nCNA Meeting Minutes — December 10, 2024\n\nNovember 12, 2024\n\nCNA Meeting Minutes — November 12, 2024\n\nOctober 8, 2024\n\nCNA Meeting Minutes — October 8, 2024\n\nSeptember 10, 2024\n\nCNA Meeting Minutes — September 10, 2024\n\nJune 26, 2024\n\nWPCNA Meeting Agenda — June 26, 2024\n\nMay 7, 2024\n\nCNA Meeting Minutes — May 7, 2024\n\nApril 9, 2024\n\nCNA Meeting Minutes — April 9, 2024\n\nMarch 12, 2024\n\nCNA Meeting Minutes — March 12, 2024\n\nFebruary 13, 2024\n\nCNA Meeting Minutes — February 13, 2024"
+    },
+    {
+      "id": "page:/community-posting/",
+      "sourceId": "page:/community-posting/",
+      "title": "Community Posting",
+      "url": "/community-posting/",
+      "type": "community-posting",
+      "excerpt": "How to submit community-relevant information to WPCNA for review and posting on the site.",
+      "text": "How to submit community-relevant information to WPCNA for review and posting on the site.\n\nCommunity\n\nCommunity posting\n\nWPCNA shares community-relevant information from residents and local organizations. Here is how it works.\n\nHow community posting works\n\nWPCNA accepts submissions from residents and community organizations for information that is relevant to White Plains neighborhoods. All submissions are reviewed before anything is posted or shared.\n\nThis is a curated, community-serving channel — not an open bulletin board. We share things that help residents stay informed about civic life, neighborhood activity, and public-interest events in White Plains.\n\nWhat we share\n\nCommunity events (school picnics, neighborhood gatherings, block parties)\n\nNeighborhood initiatives (cleanups, safety walks, beautification efforts)\n\nCivic and educational programs\n\nCity notices (hydrant flushing, road work, public hearings)\n\nSustainability and awareness campaigns\n\nLocal nonprofit and community organization announcements\n\nWhat we don't share\n\nYard sales or personal listings\n\nBusiness advertising or promotions\n\nCommercial services or solicitations\n\nUnreviewed or anonymous submissions\n\nEverything posted through WPCNA should be community-serving, non-commercial, and relevant to White Plains residents.\n\nHow to submit\n\nSend your information to info@wpcna.org with a clear subject line and the details you would like shared. Please include:\n\nA brief description of what you are sharing\n\nRelevant dates, times, and locations\n\nA contact name and organization (if applicable)\n\nAny links or attachments\n\nWPCNA reviews all submissions. Not everything sent will be posted, and we may edit for clarity or length. If you have questions about whether something fits, just ask.\n\nSubmit\n\nSend us your information\n\nCommunity-relevant submissions can be sent by email. All posts are reviewed by WPCNA before sharing.\n\nGuiding principle\n\nCommunity-first\n\nWPCNA is a civic resource, not a classifieds board. Everything we share should serve the broader community and help residents stay connected to neighborhood life in White Plains."
+    },
+    {
+      "id": "page:/events/",
+      "sourceId": "page:/events/",
+      "title": "Events",
+      "url": "/events/",
+      "type": "events",
+      "excerpt": "A selective calendar of events, meetings, and public life around White Plains.",
+      "text": "A selective calendar of events, meetings, and public life around White Plains.\n\nEvents\n\nEvents in White Plains\n\nA curated calendar pulling together events from across the city, with upcoming events first.\n\nUpcoming\n\nEvents most likely to matter to White Plains residents.\n\nCatch Me If You Can\n\nApr 10, 2026 - May 3, 2026\n\nA spring run of the musical at the White Plains Performing Arts Center.\n\nCreating a Compelling College Application this Summer\n\nApr 21, 2026\n\nProgram for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…\n\nWhite Plains in 1776 (History via Igloo)\n\nApr 22, 2026\n\nLearn about events in White Plains during the crucial year of 1776.\n\nLifting Up Westchester\n\nApr 22, 2026\n\nVictor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area.\n\nLearn about 3D Printing (in the Igloo)\n\nApr 22, 2026\n\nLearn about 3D printing and how to use the Library's 3D printing services.\n\nGetting Started with Genealogy\n\nApr 23, 2026\n\nJoin educator and genealogist Dennis Richmond, Jr.\n\nDowntown White Plains Wing Walk 2026\n\nApr 25, 2026\n\nA ticketed wing tasting across downtown White Plains, with voting and stops at local restaurants.\n\nYouth Leadership Institute\n\nApr 25, 2026\n\nAlpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha…\n\nThe Revolutionary: Samuel Adams by Stacy Schiff\n\nApr 25, 2026\n\nSpace is limited for this free event.\n\nSoap Making Class\n\nApr 26, 2026\n\nEver wondered how a few simple oils can turn into a luxurious, bubbly bar of soap?\n\nBrown Bag Luncheon Series: Meet Your County Legislators\n\nApr 27, 2026\n\nOur County Legislators Jewel Williams Johnson and Jennifer Puja will join us to talk about their role and responsibilities and the structure of our county…\n\nWuthering Heights Tea Party & Discussion\n\nApr 28, 2026\n\nThe recent movie adaptation of Emily Bront&euml;'s novel Wuthering Heights has brought renewed interest to the enduring classic.\n\nElder Law 101\n\nApr 28, 2026\n\nPatty Bave, Esq. and Regina Matos, Esq. from the law firm Kommer, Bave & Ciccone will lead a discussion of Elder Law Topics including: legal documents,…\n\nRenter Safe Housing Incentive Program\n\nApr 28, 2026\n\nWere you a renter in 2021 and impacted by Hurricane Ida?\n\nRobert the Guitar Guy\n\nApr 29, 2026\n\nLocal favorite Robert the Guitar Guy comes to the Library!\n\nUnderstanding Your Finances & Growing in Financial Literacy\n\nApr 29, 2026\n\nApril is National Financial Literacy Month.\n\nTips for Successful Interviewing\n\nApr 29, 2026"
+    },
+    {
+      "id": "page:/events/arbor-day-white-plains-2025/",
+      "sourceId": "page:/events/arbor-day-white-plains-2025/",
+      "title": "Arbor Day in White Plains",
+      "url": "/events/arbor-day-white-plains-2025/",
+      "type": "event",
+      "excerpt": "An Arbor Day event shared through the WPCNA archive and kept here with its flyer.",
+      "text": "An Arbor Day event shared through the WPCNA archive and kept here with its flyer.\n\nCommunity\n\nArbor Day in White Plains\n\nAn Arbor Day event shared through the WPCNA archive and kept here with its flyer.\n\nAbout this event\n\nWPCNA archived this Arbor Day flyer for Friday, April 25, 2025.\n\nThe flyer is still here if you want to look back at the event or keep a record of past White Plains community programming.\n\nMore links\n\nOpen flyer (PDF)\n\nWPCNA archive\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nFriday, April 25, 2025\n\nTime\n\nSee details\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nWPCNA archive\n\nMore Events\n\nRelated events\n\nSt. Patrick's Day Celebration\n\nMar 13, 2026\n\nSt. Patrick's Day Celebration is listed on the official White Plains city calendar. It is set for Community Center, 65 Mitchell Pl., White Plains, NY…\n\nSpring/Summer Program Registration Begins\n\nMar 16, 2026\n\nSpring/Summer Program Registration Begins in White Plains. Check the city page for current details.\n\nThe Spot\n\nMar 20, 2026\n\nThe Spot at White Plains Community Center. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/blocktoberfest-2025/",
+      "sourceId": "page:/events/blocktoberfest-2025/",
+      "title": "Block-toberfest",
+      "url": "/events/blocktoberfest-2025/",
+      "type": "event",
+      "excerpt": "A free fall block party with music, games, vendors, and family activities downtown.",
+      "text": "A free fall block party with music, games, vendors, and family activities downtown.\n\nSeasonal\n\nBlock-toberfest\n\nA free fall block party with music, games, vendors, and family activities downtown.\n\nAbout this event\n\nBlock-toberfest took place on Sunday, October 26, 2025 from 1:00 p.m. to 6:00 p.m. on Mamaroneck Avenue.\n\nThe BID used it as a fall downtown block party after its usual Oktoberfest plans changed, with music, food, games, and seasonal activities.\n\nMore links\n\nOpen flyer (PDF)\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nSunday, October 26, 2025\n\nTime\n\n1:00 PM - 6:00 PM\n\nLocation\n\nMamaroneck Avenue Streetscape\n\nAddress\n\nMamaroneck Avenue between Maple Avenue and East Post Road, White Plains, NY 10601\n\nSource\n\nWhite Plains BID\n\nMore Events\n\nRelated events\n\nDowntown White Plains Holiday Market\n\nDec 5, 2025 - Dec 14, 2025\n\nAn indoor holiday market with local vendors in the former Barnes & Noble space at City Center.\n\nRock the Block 2025\n\nMay 21, 2025 - Aug 27, 2025\n\nA downtown summer series with live music, food, and family activities on Mamaroneck Avenue.\n\nDowntown White Plains Wing Walk 2025\n\nApr 26, 2025\n\nA downtown wing tasting with voting, timed entry, and stops at restaurants around White Plains."
+    },
+    {
+      "id": "page:/events/catch-me-if-you-can-2026/",
+      "sourceId": "page:/events/catch-me-if-you-can-2026/",
+      "title": "Catch Me If You Can",
+      "url": "/events/catch-me-if-you-can-2026/",
+      "type": "event",
+      "excerpt": "A spring run of the musical at the White Plains Performing Arts Center.",
+      "text": "A spring run of the musical at the White Plains Performing Arts Center.\n\nArts\n\nCatch Me If You Can\n\nA spring run of the musical at the White Plains Performing Arts Center.\n\nAbout this event\n\nWhite Plains Performing Arts Center is running Catch Me If You Can from April 10 through May 3, 2026.\n\nAccording to the theater, tickets range from $53 to $71. Check the show page for performance dates and seat availability.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nFriday, April 10, 2026 to May 3, 2026\n\nTime\n\nSee details\n\nLocation\n\nWhite Plains Performing Arts Center\n\nAddress\n\n11 City Place, 3rd Floor, White Plains, NY 10601\n\nSource\n\nWhite Plains Performing Arts Center\n\nMore Events\n\nRelated events\n\nAnastasia: Youth Edition\n\nJun 29, 2026 - Jul 18, 2026\n\nAnastasia: The Musical is the spectacular new musical about discovering who you are and defining who you’re meant to be.\n\nSchool Of Rock: Young Actors\n\nJul 20, 2026 - Aug 8, 2026\n\nAndrew Lloyd Webber’s School of Rock: Young Actors Edition is a dynamic, one-hour version of the musical based on the hit movie.\n\nTBA! May 2026\n\nAug 10, 2026 - Aug 22, 2026\n\nWe plan to announce this title in May pending the release of the rights to a brand new Broadway JR title based on a Dreamworks Animated Film Franchise!"
+    },
+    {
+      "id": "page:/events/city-budget-public-hearing-and-adoption-of-final-budget-2026-05-25/",
+      "sourceId": "page:/events/city-budget-public-hearing-and-adoption-of-final-budget-2026-05-25/",
+      "title": "Budget Public Hearing and Adoption of Final Budget",
+      "url": "/events/city-budget-public-hearing-and-adoption-of-final-budget-2026-05-25/",
+      "type": "event",
+      "excerpt": "Public city meeting in White Plains. Check the city page for the agenda and current details.",
+      "text": "Public city meeting in White Plains. Check the city page for the agenda and current details.\n\nCivic\n\nBudget Public Hearing and Adoption of Final Budget\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nAbout this event\n\nBudget Public Hearing and Adoption of Final Budget is on the City of White Plains calendar.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, May 25, 2026\n\nTime\n\n7:00 PM - 8:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMay 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nHistoric Preservation Meeting\n\nMay 5, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nCommon Council Meeting\n\nJul 6, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-capital-projects-board-meeting-2026-03-24/",
+      "sourceId": "page:/events/city-capital-projects-board-meeting-2026-03-24/",
+      "title": "Capital Projects Board Meeting",
+      "url": "/events/city-capital-projects-board-meeting-2026-03-24/",
+      "type": "event",
+      "excerpt": "Public meeting at Capital Projects Board Meeting. Check the city page for the agenda and current details.",
+      "text": "Public meeting at Capital Projects Board Meeting. Check the city page for the agenda and current details.\n\nCivic\n\nCapital Projects Board Meeting\n\nPublic meeting at Capital Projects Board Meeting. Check the city page for the agenda and current details.\n\nAbout this event\n\nCapital Projects Board Meeting is on the City of White Plains calendar for Capital Projects Board Meeting.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nTuesday, March 24, 2026\n\nTime\n\n1:00 PM - 1:30 PM\n\nLocation\n\nCapital Projects Board Meeting\n\nAddress\n\nTuesday, March 24, 2026 1:00 P.M., Mayor’s Conference Room - 2nd floor, 255 Main Street, White Plains, NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMar 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nTransportation Commission Meeting\n\nMar 17, 2026\n\nPublic meeting at City Hall Common Council Chambers. Check the city page for the agenda and current details.\n\nPlanning Board Meeting\n\nMar 17, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-common-council-meeting-2026-03-04/",
+      "sourceId": "page:/events/city-common-council-meeting-2026-03-04/",
+      "title": "Common Council Meeting",
+      "url": "/events/city-common-council-meeting-2026-03-04/",
+      "type": "event",
+      "excerpt": "Public meeting at Common Council Chamber. Check the city page for the agenda and current details.",
+      "text": "Public meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCivic\n\nCommon Council Meeting\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nAbout this event\n\nCommon Council Meeting is on the City of White Plains calendar for Common Council Chamber.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nWednesday, March 4, 2026\n\nTime\n\n7:00 PM\n\nLocation\n\nCommon Council Chamber\n\nAddress\n\n255 Main Street, 2nd Floor, White Plains NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTransportation Commission Meeting\n\nMar 17, 2026\n\nPublic meeting at City Hall Common Council Chambers. Check the city page for the agenda and current details.\n\nPlanning Board Meeting\n\nMar 17, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nCapital Projects Board Meeting\n\nMar 24, 2026\n\nPublic meeting at Capital Projects Board Meeting. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-common-council-meeting-2026-05-04/",
+      "sourceId": "page:/events/city-common-council-meeting-2026-05-04/",
+      "title": "Common Council Meeting",
+      "url": "/events/city-common-council-meeting-2026-05-04/",
+      "type": "event",
+      "excerpt": "Public meeting at Common Council Chamber. Check the city page for the agenda and current details.",
+      "text": "Public meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCivic\n\nCommon Council Meeting\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nAbout this event\n\nCommon Council Meeting is on the City of White Plains calendar for Common Council Chamber.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, May 4, 2026\n\nTime\n\n7:00 PM\n\nLocation\n\nCommon Council Chamber\n\nAddress\n\n255 Main Street, 2nd Floor, White Plains NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nJul 6, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCommon Council Meeting\n\nAug 3, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCommon Council Meeting\n\nSep 8, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-common-council-meeting-2026-07-06/",
+      "sourceId": "page:/events/city-common-council-meeting-2026-07-06/",
+      "title": "Common Council Meeting",
+      "url": "/events/city-common-council-meeting-2026-07-06/",
+      "type": "event",
+      "excerpt": "Public meeting at Common Council Chamber. Check the city page for the agenda and current details.",
+      "text": "Public meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCivic\n\nCommon Council Meeting\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nAbout this event\n\nCommon Council Meeting is on the City of White Plains calendar for Common Council Chamber.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, July 6, 2026\n\nTime\n\n7:00 PM\n\nLocation\n\nCommon Council Chamber\n\nAddress\n\n255 Main Street, 2nd Floor, White Plains NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMay 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCommon Council Meeting\n\nAug 3, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCommon Council Meeting\n\nSep 8, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-common-council-meeting-2026-08-03/",
+      "sourceId": "page:/events/city-common-council-meeting-2026-08-03/",
+      "title": "Common Council Meeting",
+      "url": "/events/city-common-council-meeting-2026-08-03/",
+      "type": "event",
+      "excerpt": "Public meeting at Common Council Chamber. Check the city page for the agenda and current details.",
+      "text": "Public meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCivic\n\nCommon Council Meeting\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nAbout this event\n\nCommon Council Meeting is on the City of White Plains calendar for Common Council Chamber.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, August 3, 2026\n\nTime\n\n7:00 PM\n\nLocation\n\nCommon Council Chamber\n\nAddress\n\n255 Main Street, 2nd Floor, White Plains NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMay 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCommon Council Meeting\n\nJul 6, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCommon Council Meeting\n\nSep 8, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-common-council-meeting-2026-09-08/",
+      "sourceId": "page:/events/city-common-council-meeting-2026-09-08/",
+      "title": "Common Council Meeting",
+      "url": "/events/city-common-council-meeting-2026-09-08/",
+      "type": "event",
+      "excerpt": "Public meeting at Common Council Chamber. Check the city page for the agenda and current details.",
+      "text": "Public meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCivic\n\nCommon Council Meeting\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nAbout this event\n\nCommon Council Meeting is on the City of White Plains calendar for Common Council Chamber.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nTuesday, September 8, 2026\n\nTime\n\n7:00 PM - 9:00 PM\n\nLocation\n\nCommon Council Chamber\n\nAddress\n\n255 Main Street, 2nd Floor, White Plains NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMay 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCommon Council Meeting\n\nJul 6, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCommon Council Meeting\n\nAug 3, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-common-council-work-session-2026-03-30/",
+      "sourceId": "page:/events/city-common-council-work-session-2026-03-30/",
+      "title": "Common Council Work Session",
+      "url": "/events/city-common-council-work-session-2026-03-30/",
+      "type": "event",
+      "excerpt": "Public city meeting in White Plains. Check the city page for the agenda and current details.",
+      "text": "Public city meeting in White Plains. Check the city page for the agenda and current details.\n\nCivic\n\nCommon Council Work Session\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nAbout this event\n\nCommon Council Work Session is on the City of White Plains calendar.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nMonday, March 30, 2026\n\nTime\n\n6:30 PM - 7:30 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMar 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nTransportation Commission Meeting\n\nMar 17, 2026\n\nPublic meeting at City Hall Common Council Chambers. Check the city page for the agenda and current details.\n\nZoning Board of Appeals\n\nMar 4, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-community-development-annual-action-plan-public-hearing-2-2026-04-13/",
+      "sourceId": "page:/events/city-community-development-annual-action-plan-public-hearing-2-2026-04-13/",
+      "title": "Community Development: Annual Action Plan Public Hearing 2",
+      "url": "/events/city-community-development-annual-action-plan-public-hearing-2-2026-04-13/",
+      "type": "event",
+      "excerpt": "Public city meeting in White Plains. Check the city page for the agenda and current details.",
+      "text": "Public city meeting in White Plains. Check the city page for the agenda and current details.\n\nCivic\n\nCommunity Development: Annual Action Plan Public Hearing 2\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nAbout this event\n\nCommunity Development: Annual Action Plan Public Hearing 2 is on the City of White Plains calendar.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nMonday, April 13, 2026\n\nTime\n\n6:30 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMar 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nZoning Board of Appeals\n\nMar 4, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nDesign Review Board\n\nMar 11, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-conservation-board-meeting-2026-04-20/",
+      "sourceId": "page:/events/city-conservation-board-meeting-2026-04-20/",
+      "title": "Conservation Board Meeting",
+      "url": "/events/city-conservation-board-meeting-2026-04-20/",
+      "type": "event",
+      "excerpt": "Public city meeting in White Plains. Check the city page for the agenda and current details.",
+      "text": "Public city meeting in White Plains. Check the city page for the agenda and current details.\n\nCivic\n\nConservation Board Meeting\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nAbout this event\n\nConservation Board Meeting is on the City of White Plains calendar.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nMonday, April 20, 2026\n\nTime\n\n7:30 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMar 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nTransportation Commission Meeting\n\nMar 17, 2026\n\nPublic meeting at City Hall Common Council Chambers. Check the city page for the agenda and current details.\n\nPlanning Board Meeting\n\nMar 17, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-design-review-board-2026-03-11/",
+      "sourceId": "page:/events/city-design-review-board-2026-03-11/",
+      "title": "Design Review Board",
+      "url": "/events/city-design-review-board-2026-03-11/",
+      "type": "event",
+      "excerpt": "Public city meeting in White Plains. Check the city page for the agenda and current details.",
+      "text": "Public city meeting in White Plains. Check the city page for the agenda and current details.\n\nCivic\n\nDesign Review Board\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nAbout this event\n\nDesign Review Board is on the City of White Plains calendar.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nWednesday, March 11, 2026\n\nTime\n\n7:00 PM - 9:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMar 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nZoning Board of Appeals\n\nMar 4, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nTransportation Commission Meeting\n\nMar 17, 2026\n\nPublic meeting at City Hall Common Council Chambers. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-design-review-board-2026-04-13/",
+      "sourceId": "page:/events/city-design-review-board-2026-04-13/",
+      "title": "Design Review Board",
+      "url": "/events/city-design-review-board-2026-04-13/",
+      "type": "event",
+      "excerpt": "Public city meeting in White Plains. Check the city page for the agenda and current details.",
+      "text": "Public city meeting in White Plains. Check the city page for the agenda and current details.\n\nCivic\n\nDesign Review Board\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nAbout this event\n\nDesign Review Board is on the City of White Plains calendar.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nMonday, April 13, 2026\n\nTime\n\n7:00 PM - 9:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMar 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nZoning Board of Appeals\n\nMar 4, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nDesign Review Board\n\nMar 11, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-ebersole-ice-show-2026-03-21/",
+      "sourceId": "page:/events/city-ebersole-ice-show-2026-03-21/",
+      "title": "Ebersole Ice Show",
+      "url": "/events/city-ebersole-ice-show-2026-03-21/",
+      "type": "event",
+      "excerpt": "Ebersole Ice Show at Ebersole Ice Rink. Check the city page for current details.",
+      "text": "Ebersole Ice Show at Ebersole Ice Rink. Check the city page for current details.\n\nArts\n\nEbersole Ice Show\n\nEbersole Ice Show at Ebersole Ice Rink. Check the city page for current details.\n\nAbout this event\n\nEbersole Ice Show is on the City of White Plains calendar for Ebersole Ice Rink.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nSaturday, March 21, 2026\n\nTime\n\n5:00 PM\n\nLocation\n\nEbersole Ice Rink\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMar 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nZoning Board of Appeals\n\nMar 4, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nDesign Review Board\n\nMar 11, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-funny-bunny-egg-hunt-2026-03-28/",
+      "sourceId": "page:/events/city-funny-bunny-egg-hunt-2026-03-28/",
+      "title": "Funny Bunny Egg Hunt",
+      "url": "/events/city-funny-bunny-egg-hunt-2026-03-28/",
+      "type": "event",
+      "excerpt": "Funny Bunny Egg Hunt at White Plains High School - North Gym. Check the city page for current details.",
+      "text": "Funny Bunny Egg Hunt at White Plains High School - North Gym. Check the city page for current details.\n\nFamily\n\nFunny Bunny Egg Hunt\n\nFunny Bunny Egg Hunt at White Plains High School - North Gym. Check the city page for current details.\n\nAbout this event\n\nFunny Bunny Egg Hunt is on the City of White Plains calendar for White Plains High School - North Gym.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nSaturday, March 28, 2026\n\nTime\n\n9:00 AM - 2:00 PM\n\nLocation\n\nWhite Plains High School - North Gym\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nSt. Patrick's Day Parade\n\nMar 14, 2026\n\nSt. Patrick's Day Parade is listed on the official White Plains city calendar. It is set for Mamaroneck Ave., White Plains, NY.\n\nIntergenerational Family Feud Game Night\n\nApr 9, 2026\n\nIntergenerational Family Feud Game Night at White Plains Community Center. Check the city page for current details.\n\nLittle League Parade\n\nApr 18, 2026\n\nLittle League Parade at Gillie Field. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-historic-preservation-meeting-2026-05-05/",
+      "sourceId": "page:/events/city-historic-preservation-meeting-2026-05-05/",
+      "title": "Historic Preservation Meeting",
+      "url": "/events/city-historic-preservation-meeting-2026-05-05/",
+      "type": "event",
+      "excerpt": "Public city meeting in White Plains. Check the city page for the agenda and current details.",
+      "text": "Public city meeting in White Plains. Check the city page for the agenda and current details.\n\nCivic\n\nHistoric Preservation Meeting\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nAbout this event\n\nHistoric Preservation Meeting is on the City of White Plains calendar.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nTuesday, May 5, 2026\n\nTime\n\n7:00 PM - 9:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMay 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCommon Council Meeting\n\nJul 6, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nCommon Council Meeting\n\nAug 3, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-independence-day-celebration-2026-07-02/",
+      "sourceId": "page:/events/city-independence-day-celebration-2026-07-02/",
+      "title": "Independence Day Celebration",
+      "url": "/events/city-independence-day-celebration-2026-07-02/",
+      "type": "event",
+      "excerpt": "Independence Day Celebration at White Plains High School Field. Check the city page for current details.",
+      "text": "Independence Day Celebration at White Plains High School Field. Check the city page for current details.\n\nCommunity\n\nIndependence Day Celebration\n\nIndependence Day Celebration at White Plains High School Field. Check the city page for current details.\n\nAbout this event\n\nIndependence Day Celebration is on the City of White Plains calendar for White Plains High School Field.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nThursday, July 2, 2026\n\nTime\n\n6:30 PM - 9:30 PM\n\nLocation\n\nWhite Plains High School Field\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-intergenerational-family-feud-game-night-2026-04-09/",
+      "sourceId": "page:/events/city-intergenerational-family-feud-game-night-2026-04-09/",
+      "title": "Intergenerational Family Feud Game Night",
+      "url": "/events/city-intergenerational-family-feud-game-night-2026-04-09/",
+      "type": "event",
+      "excerpt": "Intergenerational Family Feud Game Night at White Plains Community Center. Check the city page for current details.",
+      "text": "Intergenerational Family Feud Game Night at White Plains Community Center. Check the city page for current details.\n\nFamily\n\nIntergenerational Family Feud Game Night\n\nIntergenerational Family Feud Game Night at White Plains Community Center. Check the city page for current details.\n\nAbout this event\n\nIntergenerational Family Feud Game Night is on the City of White Plains calendar for White Plains Community Center.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nThursday, April 9, 2026\n\nTime\n\n5:30 PM - 8:00 PM\n\nLocation\n\nWhite Plains Community Center\n\nAddress\n\n65 Mitchell Place, White Plains, NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nSt. Patrick's Day Parade\n\nMar 14, 2026\n\nSt. Patrick's Day Parade is listed on the official White Plains city calendar. It is set for Mamaroneck Ave., White Plains, NY.\n\nFunny Bunny Egg Hunt\n\nMar 28, 2026\n\nFunny Bunny Egg Hunt at White Plains High School - North Gym. Check the city page for current details.\n\nLittle League Parade\n\nApr 18, 2026\n\nLittle League Parade at Gillie Field. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-juneteenth-parade-and-festival-2026-06-13/",
+      "sourceId": "page:/events/city-juneteenth-parade-and-festival-2026-06-13/",
+      "title": "Juneteenth Parade and Festival",
+      "url": "/events/city-juneteenth-parade-and-festival-2026-06-13/",
+      "type": "event",
+      "excerpt": "Juneteenth Parade and Festival at Mamaroneck Ave. &amp; Court St.. Check the city page for current details.",
+      "text": "Juneteenth Parade and Festival at Mamaroneck Ave. &amp; Court St.. Check the city page for current details.\n\nFamily\n\nJuneteenth Parade and Festival\n\nJuneteenth Parade and Festival at Mamaroneck Ave. & Court St.. Check the city page for current details.\n\nAbout this event\n\nJuneteenth Parade and Festival is on the City of White Plains calendar for Mamaroneck Ave. & Court St..\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSaturday, June 13, 2026\n\nTime\n\n11:00 AM - 5:00 PM\n\nLocation\n\nMamaroneck Ave. & Court St.\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nSt. Patrick's Day Parade\n\nMar 14, 2026\n\nSt. Patrick's Day Parade is listed on the official White Plains city calendar. It is set for Mamaroneck Ave., White Plains, NY.\n\nMemorial Day Parade & Ceremony\n\nMay 25, 2026\n\nMemorial Day Parade & Ceremony at Church St. to White Plains Rural Cemetery. Check the city page for current details.\n\nSoccer Fest: Flag Parade\n\nJun 11, 2026\n\nSoccer Fest: Flag Parade in White Plains. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-little-league-parade-2026-04-18/",
+      "sourceId": "page:/events/city-little-league-parade-2026-04-18/",
+      "title": "Little League Parade",
+      "url": "/events/city-little-league-parade-2026-04-18/",
+      "type": "event",
+      "excerpt": "Little League Parade at Gillie Field. Check the city page for current details.",
+      "text": "Little League Parade at Gillie Field. Check the city page for current details.\n\nFamily\n\nLittle League Parade\n\nLittle League Parade at Gillie Field. Check the city page for current details.\n\nAbout this event\n\nLittle League Parade is on the City of White Plains calendar for Gillie Field.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nSaturday, April 18, 2026\n\nTime\n\n11:00 AM - 12:00 PM\n\nLocation\n\nGillie Field\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nSt. Patrick's Day Parade\n\nMar 14, 2026\n\nSt. Patrick's Day Parade is listed on the official White Plains city calendar. It is set for Mamaroneck Ave., White Plains, NY.\n\nFunny Bunny Egg Hunt\n\nMar 28, 2026\n\nFunny Bunny Egg Hunt at White Plains High School - North Gym. Check the city page for current details.\n\nIntergenerational Family Feud Game Night\n\nApr 9, 2026\n\nIntergenerational Family Feud Game Night at White Plains Community Center. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-memorial-day-parade-and-ceremony-2026-05-25/",
+      "sourceId": "page:/events/city-memorial-day-parade-and-ceremony-2026-05-25/",
+      "title": "Memorial Day Parade &amp; Ceremony",
+      "url": "/events/city-memorial-day-parade-and-ceremony-2026-05-25/",
+      "type": "event",
+      "excerpt": "Memorial Day Parade &amp; Ceremony at Church St. to White Plains Rural Cemetery. Check the city page for current details.",
+      "text": "Memorial Day Parade &amp; Ceremony at Church St. to White Plains Rural Cemetery. Check the city page for current details.\n\nFamily\n\nMemorial Day Parade & Ceremony\n\nMemorial Day Parade & Ceremony at Church St. to White Plains Rural Cemetery. Check the city page for current details.\n\nAbout this event\n\nMemorial Day Parade & Ceremony is on the City of White Plains calendar for Church St. to White Plains Rural Cemetery.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, May 25, 2026\n\nTime\n\n10:00 AM - 11:00 AM\n\nLocation\n\nChurch St. to White Plains Rural Cemetery\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nSoccer Fest: Flag Parade\n\nJun 11, 2026\n\nSoccer Fest: Flag Parade in White Plains. Check the city page for current details.\n\nJuneteenth Parade and Festival\n\nJun 13, 2026\n\nJuneteenth Parade and Festival at Mamaroneck Ave. & Court St.. Check the city page for current details.\n\nSoccer Fest: Family Movie Night: Air Bud World Pup (2001)\n\nJul 9, 2026\n\nSoccer Fest: Family Movie Night: Air Bud World Pup (2001) in White Plains. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-monthly-educational-speaker-series-2026-03-18/",
+      "sourceId": "page:/events/city-monthly-educational-speaker-series-2026-03-18/",
+      "title": "Monthly Educational Speaker Series",
+      "url": "/events/city-monthly-educational-speaker-series-2026-03-18/",
+      "type": "event",
+      "excerpt": "Monthly Educational Speaker Series at White Plains Community Center. Check the city page for current details.",
+      "text": "Monthly Educational Speaker Series at White Plains Community Center. Check the city page for current details.\n\nWorkshop\n\nMonthly Educational Speaker Series\n\nMonthly Educational Speaker Series at White Plains Community Center. Check the city page for current details.\n\nAbout this event\n\nMonthly Educational Speaker Series is on the City of White Plains calendar for White Plains Community Center.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nWednesday, March 18, 2026\n\nTime\n\n12:15 PM - 1:15 PM\n\nLocation\n\nWhite Plains Community Center\n\nAddress\n\n65 Mitchell Place. White Plains, NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nMonthly Educational Speaker Series\n\nApr 8, 2026\n\nMonthly Educational Speaker Series at White Plains Community Center. Check the city page for current details.\n\nWPCNA Neighborhood Workshop\n\nMar 11, 2025\n\nWorkshop materials from WPCNA's first annual session for people starting or reviving neighborhood associations.\n\nSt. Patrick's Day Celebration\n\nMar 13, 2026\n\nSt. Patrick's Day Celebration is listed on the official White Plains city calendar. It is set for Community Center, 65 Mitchell Pl., White Plains, NY…"
+    },
+    {
+      "id": "page:/events/city-monthly-educational-speaker-series-2026-04-08/",
+      "sourceId": "page:/events/city-monthly-educational-speaker-series-2026-04-08/",
+      "title": "Monthly Educational Speaker Series",
+      "url": "/events/city-monthly-educational-speaker-series-2026-04-08/",
+      "type": "event",
+      "excerpt": "Monthly Educational Speaker Series at White Plains Community Center. Check the city page for current details.",
+      "text": "Monthly Educational Speaker Series at White Plains Community Center. Check the city page for current details.\n\nWorkshop\n\nMonthly Educational Speaker Series\n\nMonthly Educational Speaker Series at White Plains Community Center. Check the city page for current details.\n\nAbout this event\n\nMonthly Educational Speaker Series is on the City of White Plains calendar for White Plains Community Center.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nWednesday, April 8, 2026\n\nTime\n\n12:15 PM - 1:15 PM\n\nLocation\n\nWhite Plains Community Center\n\nAddress\n\n65 Mitchell Place, White Plains, NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nMonthly Educational Speaker Series\n\nMar 18, 2026\n\nMonthly Educational Speaker Series at White Plains Community Center. Check the city page for current details.\n\nWPCNA Neighborhood Workshop\n\nMar 11, 2025\n\nWorkshop materials from WPCNA's first annual session for people starting or reviving neighborhood associations.\n\nSt. Patrick's Day Celebration\n\nMar 13, 2026\n\nSt. Patrick's Day Celebration is listed on the official White Plains city calendar. It is set for Community Center, 65 Mitchell Pl., White Plains, NY…"
+    },
+    {
+      "id": "page:/events/city-national-night-out-2026-08-04/",
+      "sourceId": "page:/events/city-national-night-out-2026-08-04/",
+      "title": "National Night Out",
+      "url": "/events/city-national-night-out-2026-08-04/",
+      "type": "event",
+      "excerpt": "National Night Out at S. Lexington Ave.. Check the city page for current details.",
+      "text": "National Night Out at S. Lexington Ave.. Check the city page for current details.\n\nCommunity\n\nNational Night Out\n\nNational Night Out at S. Lexington Ave.. Check the city page for current details.\n\nAbout this event\n\nNational Night Out is on the City of White Plains calendar for S. Lexington Ave..\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nTuesday, August 4, 2026\n\nTime\n\n7:00 PM\n\nLocation\n\nS. Lexington Ave.\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-outdoor-arts-festival-2026-06-06/",
+      "sourceId": "page:/events/city-outdoor-arts-festival-2026-06-06/",
+      "title": "Outdoor Arts Festival",
+      "url": "/events/city-outdoor-arts-festival-2026-06-06/",
+      "type": "event",
+      "excerpt": "Outdoor Arts Festival at Tibbits Park. Check the city page for current details.",
+      "text": "Outdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nCommunity\n\nOutdoor Arts Festival\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nAbout this event\n\nOutdoor Arts Festival is on the City of White Plains calendar for Tibbits Park.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSaturday, June 6, 2026\n\nTime\n\n10:00 AM - 5:00 PM\n\nLocation\n\nTibbits Park\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nPride LGBTQ+ Festival\n\nJun 7, 2026\n\nPride LGBTQ+ Festival at Court St./Renaissance Plaza. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-outdoor-arts-festival-2026-06-07/",
+      "sourceId": "page:/events/city-outdoor-arts-festival-2026-06-07/",
+      "title": "Outdoor Arts Festival",
+      "url": "/events/city-outdoor-arts-festival-2026-06-07/",
+      "type": "event",
+      "excerpt": "Outdoor Arts Festival at Tibbits Park. Check the city page for current details.",
+      "text": "Outdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nCommunity\n\nOutdoor Arts Festival\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nAbout this event\n\nOutdoor Arts Festival is on the City of White Plains calendar for Tibbits Park.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSunday, June 7, 2026\n\nTime\n\n10:00 AM - 5:00 PM\n\nLocation\n\nTibbits Park\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nPride LGBTQ+ Festival\n\nJun 7, 2026\n\nPride LGBTQ+ Festival at Court St./Renaissance Plaza. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-outdoor-pools-open-2026-06-14/",
+      "sourceId": "page:/events/city-outdoor-pools-open-2026-06-14/",
+      "title": "Outdoor Pools Open",
+      "url": "/events/city-outdoor-pools-open-2026-06-14/",
+      "type": "event",
+      "excerpt": "Outdoor Pools Open at Gardella Pool - Ferris Ave.. Check the city page for current details.",
+      "text": "Outdoor Pools Open at Gardella Pool - Ferris Ave.. Check the city page for current details.\n\nCommunity\n\nOutdoor Pools Open\n\nOutdoor Pools Open at Gardella Pool - Ferris Ave.. Check the city page for current details.\n\nAbout this event\n\nOutdoor Pools Open is on the City of White Plains calendar for Gardella Pool - Ferris Ave..\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSunday, June 14, 2026\n\nTime\n\n12:00 PM - 6:30 PM\n\nLocation\n\nGardella Pool - Ferris Ave.\n\nAddress\n\nKittrell Pool - Fisher Ave.\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-peruvian-flag-raising-2026-07-26/",
+      "sourceId": "page:/events/city-peruvian-flag-raising-2026-07-26/",
+      "title": "Peruvian Flag Raising",
+      "url": "/events/city-peruvian-flag-raising-2026-07-26/",
+      "type": "event",
+      "excerpt": "Peruvian Flag Raising at Renaissance Plaza Park. Check the city page for current details.",
+      "text": "Peruvian Flag Raising at Renaissance Plaza Park. Check the city page for current details.\n\nCommunity\n\nPeruvian Flag Raising\n\nPeruvian Flag Raising at Renaissance Plaza Park. Check the city page for current details.\n\nAbout this event\n\nPeruvian Flag Raising is on the City of White Plains calendar for Renaissance Plaza Park.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSunday, July 26, 2026\n\nTime\n\n10:00 AM - 11:30 AM\n\nLocation\n\nRenaissance Plaza Park\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-planning-board-meeting-2026-03-17/",
+      "sourceId": "page:/events/city-planning-board-meeting-2026-03-17/",
+      "title": "Planning Board Meeting",
+      "url": "/events/city-planning-board-meeting-2026-03-17/",
+      "type": "event",
+      "excerpt": "Public city meeting in White Plains. Check the city page for the agenda and current details.",
+      "text": "Public city meeting in White Plains. Check the city page for the agenda and current details.\n\nCivic\n\nPlanning Board Meeting\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nAbout this event\n\nPlanning Board Meeting is on the City of White Plains calendar.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nTuesday, March 17, 2026\n\nTime\n\n7:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMar 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nTransportation Commission Meeting\n\nMar 17, 2026\n\nPublic meeting at City Hall Common Council Chambers. Check the city page for the agenda and current details.\n\nCapital Projects Board Meeting\n\nMar 24, 2026\n\nPublic meeting at Capital Projects Board Meeting. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-pride-lgbtq-festival-2026-06-07/",
+      "sourceId": "page:/events/city-pride-lgbtq-festival-2026-06-07/",
+      "title": "Pride LGBTQ+ Festival",
+      "url": "/events/city-pride-lgbtq-festival-2026-06-07/",
+      "type": "event",
+      "excerpt": "Pride LGBTQ+ Festival at Court St./Renaissance Plaza. Check the city page for current details.",
+      "text": "Pride LGBTQ+ Festival at Court St./Renaissance Plaza. Check the city page for current details.\n\nCommunity\n\nPride LGBTQ+ Festival\n\nPride LGBTQ+ Festival at Court St./Renaissance Plaza. Check the city page for current details.\n\nAbout this event\n\nPride LGBTQ+ Festival is on the City of White Plains calendar for Court St./Renaissance Plaza.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSunday, June 7, 2026\n\nTime\n\n11:00 AM - 5:00 PM\n\nLocation\n\nCourt St./Renaissance Plaza\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-block-party-and-fan-fest-2026-06-14/",
+      "sourceId": "page:/events/city-soccer-fest-block-party-and-fan-fest-2026-06-14/",
+      "title": "Soccer Fest: Block Party and Fan Fest",
+      "url": "/events/city-soccer-fest-block-party-and-fan-fest-2026-06-14/",
+      "type": "event",
+      "excerpt": "Soccer Fest: Block Party and Fan Fest in White Plains. Check the city page for current details.",
+      "text": "Soccer Fest: Block Party and Fan Fest in White Plains. Check the city page for current details.\n\nCommunity\n\nSoccer Fest: Block Party and Fan Fest\n\nSoccer Fest: Block Party and Fan Fest in White Plains. Check the city page for current details.\n\nAbout this event\n\nSoccer Fest: Block Party and Fan Fest is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSunday, June 14, 2026\n\nTime\n\n12:00 PM - 9:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-crochet-kick-off-crafting-the-classic-soccer-ball-2026-06-15/",
+      "sourceId": "page:/events/city-soccer-fest-crochet-kick-off-crafting-the-classic-soccer-ball-2026-06-15/",
+      "title": "Soccer Fest: Crochet Kick-off! Crafting the Classic Soccer Ball",
+      "url": "/events/city-soccer-fest-crochet-kick-off-crafting-the-classic-soccer-ball-2026-06-15/",
+      "type": "event",
+      "excerpt": "Soccer Fest - Crochet Kick-off!",
+      "text": "Soccer Fest - Crochet Kick-off!\n\nCommunity\n\nSoccer Fest: Crochet Kick-off! Crafting the Classic Soccer Ball\n\nSoccer Fest - Crochet Kick-off!\n\nAbout this event\n\nSoccer Fest: Crochet Kick-off! Crafting the Classic Soccer Ball is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, June 15, 2026\n\nTime\n\n2:00 PM - 3:30 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-crochet-kick-off-crafting-the-classic-soccer-ball-2026-06-16/",
+      "sourceId": "page:/events/city-soccer-fest-crochet-kick-off-crafting-the-classic-soccer-ball-2026-06-16/",
+      "title": "Soccer Fest: Crochet Kick-Off! Crafting the Classic Soccer Ball",
+      "url": "/events/city-soccer-fest-crochet-kick-off-crafting-the-classic-soccer-ball-2026-06-16/",
+      "type": "event",
+      "excerpt": "Soccer Fest - Crochet Kick-Off!",
+      "text": "Soccer Fest - Crochet Kick-Off!\n\nCommunity\n\nSoccer Fest: Crochet Kick-Off! Crafting the Classic Soccer Ball\n\nSoccer Fest - Crochet Kick-Off!\n\nAbout this event\n\nSoccer Fest: Crochet Kick-Off! Crafting the Classic Soccer Ball is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nTuesday, June 16, 2026\n\nTime\n\n2:00 PM - 3:30 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-family-movie-night-air-bud-world-pup-2001-2026-07-09/",
+      "sourceId": "page:/events/city-soccer-fest-family-movie-night-air-bud-world-pup-2001-2026-07-09/",
+      "title": "Soccer Fest: Family Movie Night: Air Bud World Pup (2001)",
+      "url": "/events/city-soccer-fest-family-movie-night-air-bud-world-pup-2001-2026-07-09/",
+      "type": "event",
+      "excerpt": "Soccer Fest: Family Movie Night: Air Bud World Pup (2001) in White Plains. Check the city page for current details.",
+      "text": "Soccer Fest: Family Movie Night: Air Bud World Pup (2001) in White Plains. Check the city page for current details.\n\nFamily\n\nSoccer Fest: Family Movie Night: Air Bud World Pup (2001)\n\nSoccer Fest: Family Movie Night: Air Bud World Pup (2001) in White Plains. Check the city page for current details.\n\nAbout this event\n\nSoccer Fest: Family Movie Night: Air Bud World Pup (2001) is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nThursday, July 9, 2026\n\nTime\n\n8:30 PM - 10:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nMemorial Day Parade & Ceremony\n\nMay 25, 2026\n\nMemorial Day Parade & Ceremony at Church St. to White Plains Rural Cemetery. Check the city page for current details.\n\nSoccer Fest: Flag Parade\n\nJun 11, 2026\n\nSoccer Fest: Flag Parade in White Plains. Check the city page for current details.\n\nJuneteenth Parade and Festival\n\nJun 13, 2026\n\nJuneteenth Parade and Festival at Mamaroneck Ave. & Court St.. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-flag-parade-2026-06-11/",
+      "sourceId": "page:/events/city-soccer-fest-flag-parade-2026-06-11/",
+      "title": "Soccer Fest: Flag Parade",
+      "url": "/events/city-soccer-fest-flag-parade-2026-06-11/",
+      "type": "event",
+      "excerpt": "Soccer Fest: Flag Parade in White Plains. Check the city page for current details.",
+      "text": "Soccer Fest: Flag Parade in White Plains. Check the city page for current details.\n\nFamily\n\nSoccer Fest: Flag Parade\n\nSoccer Fest: Flag Parade in White Plains. Check the city page for current details.\n\nAbout this event\n\nSoccer Fest: Flag Parade is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nThursday, June 11, 2026\n\nTime\n\n6:45 PM - 7:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nMemorial Day Parade & Ceremony\n\nMay 25, 2026\n\nMemorial Day Parade & Ceremony at Church St. to White Plains Rural Cemetery. Check the city page for current details.\n\nJuneteenth Parade and Festival\n\nJun 13, 2026\n\nJuneteenth Parade and Festival at Mamaroneck Ave. & Court St.. Check the city page for current details.\n\nSoccer Fest: Family Movie Night: Air Bud World Pup (2001)\n\nJul 9, 2026\n\nSoccer Fest: Family Movie Night: Air Bud World Pup (2001) in White Plains. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-opening-ceremony-2026-06-11/",
+      "sourceId": "page:/events/city-soccer-fest-opening-ceremony-2026-06-11/",
+      "title": "Soccer Fest: Opening Ceremony",
+      "url": "/events/city-soccer-fest-opening-ceremony-2026-06-11/",
+      "type": "event",
+      "excerpt": "Soccer Fest: Opening Ceremony in White Plains. Check the city page for current details.",
+      "text": "Soccer Fest: Opening Ceremony in White Plains. Check the city page for current details.\n\nCommunity\n\nSoccer Fest: Opening Ceremony\n\nSoccer Fest: Opening Ceremony in White Plains. Check the city page for current details.\n\nAbout this event\n\nSoccer Fest: Opening Ceremony is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nThursday, June 11, 2026\n\nTime\n\n5:00 PM - 6:45 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-opening-ceremony-presentation-2026-06-11/",
+      "sourceId": "page:/events/city-soccer-fest-opening-ceremony-presentation-2026-06-11/",
+      "title": "Soccer Fest: Opening Ceremony Presentation",
+      "url": "/events/city-soccer-fest-opening-ceremony-presentation-2026-06-11/",
+      "type": "event",
+      "excerpt": "Soccer Fest: Opening Ceremony Presentation in White Plains. Check the city page for current details.",
+      "text": "Soccer Fest: Opening Ceremony Presentation in White Plains. Check the city page for current details.\n\nCommunity\n\nSoccer Fest: Opening Ceremony Presentation\n\nSoccer Fest: Opening Ceremony Presentation in White Plains. Check the city page for current details.\n\nAbout this event\n\nSoccer Fest: Opening Ceremony Presentation is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nThursday, June 11, 2026\n\nTime\n\n7:00 PM - 8:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-soccer-themed-bingo-and-luncheon-2026-06-11/",
+      "sourceId": "page:/events/city-soccer-fest-soccer-themed-bingo-and-luncheon-2026-06-11/",
+      "title": "Soccer Fest: Soccer Themed Bingo and Luncheon",
+      "url": "/events/city-soccer-fest-soccer-themed-bingo-and-luncheon-2026-06-11/",
+      "type": "event",
+      "excerpt": "Soccer Fest: Soccer Themed Bingo and Luncheon in White Plains. Check the city page for current details.",
+      "text": "Soccer Fest: Soccer Themed Bingo and Luncheon in White Plains. Check the city page for current details.\n\nCommunity\n\nSoccer Fest: Soccer Themed Bingo and Luncheon\n\nSoccer Fest: Soccer Themed Bingo and Luncheon in White Plains. Check the city page for current details.\n\nAbout this event\n\nSoccer Fest: Soccer Themed Bingo and Luncheon is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nThursday, June 11, 2026\n\nTime\n\n12:00 PM - 2:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-soccer-video-game-tournament-2026-06-13/",
+      "sourceId": "page:/events/city-soccer-fest-soccer-video-game-tournament-2026-06-13/",
+      "title": "Soccer Fest: Soccer Video Game Tournament",
+      "url": "/events/city-soccer-fest-soccer-video-game-tournament-2026-06-13/",
+      "type": "event",
+      "excerpt": "Soccer Fest: Soccer Video Game Tournament in White Plains. Check the city page for current details.",
+      "text": "Soccer Fest: Soccer Video Game Tournament in White Plains. Check the city page for current details.\n\nCommunity\n\nSoccer Fest: Soccer Video Game Tournament\n\nSoccer Fest: Soccer Video Game Tournament in White Plains. Check the city page for current details.\n\nAbout this event\n\nSoccer Fest: Soccer Video Game Tournament is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSaturday, June 13, 2026\n\nTime\n\n3:00 PM - 5:30 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-story-time-with-a-professional-soccer-player-2026-06-28/",
+      "sourceId": "page:/events/city-soccer-fest-story-time-with-a-professional-soccer-player-2026-06-28/",
+      "title": "Soccer Fest: Story Time with a Professional Soccer Player",
+      "url": "/events/city-soccer-fest-story-time-with-a-professional-soccer-player-2026-06-28/",
+      "type": "event",
+      "excerpt": "Soccer Fest: Story Time with a Professional Soccer Player in White Plains. Check the city page for current details.",
+      "text": "Soccer Fest: Story Time with a Professional Soccer Player in White Plains. Check the city page for current details.\n\nCommunity\n\nSoccer Fest: Story Time with a Professional Soccer Player\n\nSoccer Fest: Story Time with a Professional Soccer Player in White Plains. Check the city page for current details.\n\nAbout this event\n\nSoccer Fest: Story Time with a Professional Soccer Player is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSunday, June 28, 2026\n\nTime\n\n2:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-stronger-safer-smarter-injury-prevention-for-athletes-2026-06-16/",
+      "sourceId": "page:/events/city-soccer-fest-stronger-safer-smarter-injury-prevention-for-athletes-2026-06-16/",
+      "title": "Soccer Fest: Stronger, Safer, Smarter: Injury Prevention for Athletes",
+      "url": "/events/city-soccer-fest-stronger-safer-smarter-injury-prevention-for-athletes-2026-06-16/",
+      "type": "event",
+      "excerpt": "Soccer Fest: Stronger, Safer, Smarter: Injury Prevention for Athletes in White Plains. Check the city page for current details.",
+      "text": "Soccer Fest: Stronger, Safer, Smarter: Injury Prevention for Athletes in White Plains. Check the city page for current details.\n\nCommunity\n\nSoccer Fest: Stronger, Safer, Smarter: Injury Prevention for Athletes\n\nSoccer Fest: Stronger, Safer, Smarter: Injury Prevention for Athletes in White Plains. Check the city page for current details.\n\nAbout this event\n\nSoccer Fest: Stronger, Safer, Smarter: Injury Prevention for Athletes is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nTuesday, June 16, 2026\n\nTime\n\n2:00 PM - 3:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-watch-party-2026-06-27/",
+      "sourceId": "page:/events/city-soccer-fest-watch-party-2026-06-27/",
+      "title": "Soccer Fest: Watch Party",
+      "url": "/events/city-soccer-fest-watch-party-2026-06-27/",
+      "type": "event",
+      "excerpt": "Soccer Fest: Watch Party in White Plains. Check the city page for current details.",
+      "text": "Soccer Fest: Watch Party in White Plains. Check the city page for current details.\n\nCommunity\n\nSoccer Fest: Watch Party\n\nSoccer Fest: Watch Party in White Plains. Check the city page for current details.\n\nAbout this event\n\nSoccer Fest: Watch Party is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSaturday, June 27, 2026\n\nTime\n\n4:00 PM - 1:30 AM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-watch-party-2026-06-28/",
+      "sourceId": "page:/events/city-soccer-fest-watch-party-2026-06-28/",
+      "title": "Soccer Fest: Watch Party",
+      "url": "/events/city-soccer-fest-watch-party-2026-06-28/",
+      "type": "event",
+      "excerpt": "Soccer Fest: Watch Party in White Plains. Check the city page for current details.",
+      "text": "Soccer Fest: Watch Party in White Plains. Check the city page for current details.\n\nCommunity\n\nSoccer Fest: Watch Party\n\nSoccer Fest: Watch Party in White Plains. Check the city page for current details.\n\nAbout this event\n\nSoccer Fest: Watch Party is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSunday, June 28, 2026\n\nTime\n\n4:00 PM - 1:30 AM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-watch-party-2026-07-11/",
+      "sourceId": "page:/events/city-soccer-fest-watch-party-2026-07-11/",
+      "title": "Soccer Fest: Watch Party",
+      "url": "/events/city-soccer-fest-watch-party-2026-07-11/",
+      "type": "event",
+      "excerpt": "Soccer Fest: Watch Party in White Plains. Check the city page for current details.",
+      "text": "Soccer Fest: Watch Party in White Plains. Check the city page for current details.\n\nCommunity\n\nSoccer Fest: Watch Party\n\nSoccer Fest: Watch Party in White Plains. Check the city page for current details.\n\nAbout this event\n\nSoccer Fest: Watch Party is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSaturday, July 11, 2026\n\nTime\n\n4:00 PM - 11:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-soccer-fest-watch-party-brazil-v-scotland-2026-06-24/",
+      "sourceId": "page:/events/city-soccer-fest-watch-party-brazil-v-scotland-2026-06-24/",
+      "title": "Soccer Fest: Watch Party: Brazil v. Scotland",
+      "url": "/events/city-soccer-fest-watch-party-brazil-v-scotland-2026-06-24/",
+      "type": "event",
+      "excerpt": "Soccer Fest - Watch Party: Brazil v.",
+      "text": "Soccer Fest - Watch Party: Brazil v.\n\nCommunity\n\nSoccer Fest: Watch Party: Brazil v. Scotland\n\nSoccer Fest - Watch Party: Brazil v.\n\nAbout this event\n\nSoccer Fest: Watch Party: Brazil v. Scotland is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nWednesday, June 24, 2026\n\nTime\n\n5:30 PM - 8:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nTennis Courts Open\n\nMay 11, 2026\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-spring-summer-program-registration-begins-2026-03-16/",
+      "sourceId": "page:/events/city-spring-summer-program-registration-begins-2026-03-16/",
+      "title": "Spring/Summer Program Registration Begins",
+      "url": "/events/city-spring-summer-program-registration-begins-2026-03-16/",
+      "type": "event",
+      "excerpt": "Spring/Summer Program Registration Begins in White Plains. Check the city page for current details.",
+      "text": "Spring/Summer Program Registration Begins in White Plains. Check the city page for current details.\n\nCommunity\n\nSpring/Summer Program Registration Begins\n\nSpring/Summer Program Registration Begins in White Plains. Check the city page for current details.\n\nAbout this event\n\nSpring/Summer Program Registration Begins is on the City of White Plains calendar.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nMonday, March 16, 2026\n\nTime\n\n8:30 AM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nSt. Patrick's Day Celebration\n\nMar 13, 2026\n\nSt. Patrick's Day Celebration is listed on the official White Plains city calendar. It is set for Community Center, 65 Mitchell Pl., White Plains, NY…\n\nThe Spot\n\nMar 20, 2026\n\nThe Spot at White Plains Community Center. Check the city page for current details.\n\nWhite Plains Center Local Development Corporation\n\nMar 24, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-st-patrick-s-day-celebration-2026-03-13/",
+      "sourceId": "page:/events/city-st-patrick-s-day-celebration-2026-03-13/",
+      "title": "St. Patrick&#39;s Day Celebration",
+      "url": "/events/city-st-patrick-s-day-celebration-2026-03-13/",
+      "type": "event",
+      "excerpt": "St. Patrick&#39;s Day Celebration is listed on the official White Plains city calendar. It is set for Community Center, 65 Mitchell Pl., White Plains, NY…",
+      "text": "St. Patrick&#39;s Day Celebration is listed on the official White Plains city calendar. It is set for Community Center, 65 Mitchell Pl., White Plains, NY…\n\nCommunity\n\nSt. Patrick's Day Celebration\n\nSt. Patrick's Day Celebration is listed on the official White Plains city calendar. It is set for Community Center, 65 Mitchell Pl., White Plains, NY…\n\nAbout this event\n\nSt. Patrick's Day Celebration is on the City of White Plains calendar for Community Center.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nFriday, March 13, 2026\n\nTime\n\n11:30 AM - 1:30 PM\n\nLocation\n\nCommunity Center\n\nAddress\n\n65 Mitchell Pl., White Plains, NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nThe Spot\n\nMar 20, 2026\n\nThe Spot at White Plains Community Center. Check the city page for current details.\n\nSpring/Summer Program Registration Begins\n\nMar 16, 2026\n\nSpring/Summer Program Registration Begins in White Plains. Check the city page for current details.\n\nWhite Plains Center Local Development Corporation\n\nMar 24, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-st-patrick-s-day-parade-2026-03-14/",
+      "sourceId": "page:/events/city-st-patrick-s-day-parade-2026-03-14/",
+      "title": "St. Patrick&#39;s Day Parade",
+      "url": "/events/city-st-patrick-s-day-parade-2026-03-14/",
+      "type": "event",
+      "excerpt": "St. Patrick&#39;s Day Parade is listed on the official White Plains city calendar. It is set for Mamaroneck Ave., White Plains, NY.",
+      "text": "St. Patrick&#39;s Day Parade is listed on the official White Plains city calendar. It is set for Mamaroneck Ave., White Plains, NY.\n\nFamily\n\nSt. Patrick's Day Parade\n\nSt. Patrick's Day Parade is listed on the official White Plains city calendar. It is set for Mamaroneck Ave., White Plains, NY.\n\nAbout this event\n\nSt. Patrick's Day Parade is on the City of White Plains calendar for Mamaroneck Ave..\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nSaturday, March 14, 2026\n\nTime\n\n12:00 PM - 3:00 PM\n\nLocation\n\nMamaroneck Ave.\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nFunny Bunny Egg Hunt\n\nMar 28, 2026\n\nFunny Bunny Egg Hunt at White Plains High School - North Gym. Check the city page for current details.\n\nIntergenerational Family Feud Game Night\n\nApr 9, 2026\n\nIntergenerational Family Feud Game Night at White Plains Community Center. Check the city page for current details.\n\nLittle League Parade\n\nApr 18, 2026\n\nLittle League Parade at Gillie Field. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-tennis-courts-open-2026-05-11/",
+      "sourceId": "page:/events/city-tennis-courts-open-2026-05-11/",
+      "title": "Tennis Courts Open",
+      "url": "/events/city-tennis-courts-open-2026-05-11/",
+      "type": "event",
+      "excerpt": "Tennis Courts Open at Gillie Park. Check the city page for current details.",
+      "text": "Tennis Courts Open at Gillie Park. Check the city page for current details.\n\nCommunity\n\nTennis Courts Open\n\nTennis Courts Open at Gillie Park. Check the city page for current details.\n\nAbout this event\n\nTennis Courts Open is on the City of White Plains calendar for Gillie Park.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, May 11, 2026\n\nTime\n\n8:00 AM - 9:00 PM\n\nLocation\n\nGillie Park\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Check the city page for current details.\n\nPride LGBTQ+ Festival\n\nJun 7, 2026\n\nPride LGBTQ+ Festival at Court St./Renaissance Plaza. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-the-spot-2026-03-20/",
+      "sourceId": "page:/events/city-the-spot-2026-03-20/",
+      "title": "The Spot",
+      "url": "/events/city-the-spot-2026-03-20/",
+      "type": "event",
+      "excerpt": "The Spot at White Plains Community Center. Check the city page for current details.",
+      "text": "The Spot at White Plains Community Center. Check the city page for current details.\n\nCommunity\n\nThe Spot\n\nThe Spot at White Plains Community Center. Check the city page for current details.\n\nAbout this event\n\nThe Spot is on the City of White Plains calendar for White Plains Community Center.\n\nCheck the city page for current details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nFriday, March 20, 2026\n\nTime\n\n6:00 PM - 9:00 PM\n\nLocation\n\nWhite Plains Community Center\n\nAddress\n\n65 Mitchell Place, White Plains, NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nSt. Patrick's Day Celebration\n\nMar 13, 2026\n\nSt. Patrick's Day Celebration is listed on the official White Plains city calendar. It is set for Community Center, 65 Mitchell Pl., White Plains, NY…\n\nSpring/Summer Program Registration Begins\n\nMar 16, 2026\n\nSpring/Summer Program Registration Begins in White Plains. Check the city page for current details.\n\nWhite Plains Center Local Development Corporation\n\nMar 24, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-transportation-commission-meeting-2026-03-17/",
+      "sourceId": "page:/events/city-transportation-commission-meeting-2026-03-17/",
+      "title": "Transportation Commission Meeting",
+      "url": "/events/city-transportation-commission-meeting-2026-03-17/",
+      "type": "event",
+      "excerpt": "Public meeting at City Hall Common Council Chambers. Check the city page for the agenda and current details.",
+      "text": "Public meeting at City Hall Common Council Chambers. Check the city page for the agenda and current details.\n\nCivic\n\nTransportation Commission Meeting\n\nPublic meeting at City Hall Common Council Chambers. Check the city page for the agenda and current details.\n\nAbout this event\n\nTransportation Commission Meeting is on the City of White Plains calendar for City Hall Common Council Chambers.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nTuesday, March 17, 2026\n\nTime\n\n9:15 AM - 10:15 AM\n\nLocation\n\nCity Hall Common Council Chambers\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMar 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nPlanning Board Meeting\n\nMar 17, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nCapital Projects Board Meeting\n\nMar 24, 2026\n\nPublic meeting at Capital Projects Board Meeting. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-white-plains-center-local-development-corporation-2026-03-24/",
+      "sourceId": "page:/events/city-white-plains-center-local-development-corporation-2026-03-24/",
+      "title": "White Plains Center Local Development Corporation",
+      "url": "/events/city-white-plains-center-local-development-corporation-2026-03-24/",
+      "type": "event",
+      "excerpt": "Public city meeting in White Plains. Check the city page for the agenda and current details.",
+      "text": "Public city meeting in White Plains. Check the city page for the agenda and current details.\n\nCommunity\n\nWhite Plains Center Local Development Corporation\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nAbout this event\n\nWhite Plains Center Local Development Corporation is on the City of White Plains calendar.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nTuesday, March 24, 2026\n\nTime\n\n1:30 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nSt. Patrick's Day Celebration\n\nMar 13, 2026\n\nSt. Patrick's Day Celebration is listed on the official White Plains city calendar. It is set for Community Center, 65 Mitchell Pl., White Plains, NY…\n\nSpring/Summer Program Registration Begins\n\nMar 16, 2026\n\nSpring/Summer Program Registration Begins in White Plains. Check the city page for current details.\n\nThe Spot\n\nMar 20, 2026\n\nThe Spot at White Plains Community Center. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/city-white-plains-urban-renewal-agency-special-meeting-2026-03-31/",
+      "sourceId": "page:/events/city-white-plains-urban-renewal-agency-special-meeting-2026-03-31/",
+      "title": "White Plains Urban Renewal Agency Special Meeting",
+      "url": "/events/city-white-plains-urban-renewal-agency-special-meeting-2026-03-31/",
+      "type": "event",
+      "excerpt": "Public city meeting in White Plains. Check the city page for the agenda and current details.",
+      "text": "Public city meeting in White Plains. Check the city page for the agenda and current details.\n\nCivic\n\nWhite Plains Urban Renewal Agency Special Meeting\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nAbout this event\n\nWhite Plains Urban Renewal Agency Special Meeting is on the City of White Plains calendar.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nTuesday, March 31, 2026\n\nTime\n\n2:30 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMar 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nTransportation Commission Meeting\n\nMar 17, 2026\n\nPublic meeting at City Hall Common Council Chambers. Check the city page for the agenda and current details.\n\nPlanning Board Meeting\n\nMar 17, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-zoning-board-of-appeals-2026-03-04/",
+      "sourceId": "page:/events/city-zoning-board-of-appeals-2026-03-04/",
+      "title": "Zoning Board of Appeals",
+      "url": "/events/city-zoning-board-of-appeals-2026-03-04/",
+      "type": "event",
+      "excerpt": "Public city meeting in White Plains. Check the city page for the agenda and current details.",
+      "text": "Public city meeting in White Plains. Check the city page for the agenda and current details.\n\nCivic\n\nZoning Board of Appeals\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nAbout this event\n\nZoning Board of Appeals is on the City of White Plains calendar.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nWednesday, March 4, 2026\n\nTime\n\n7:00 PM - 9:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMar 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nDesign Review Board\n\nMar 11, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nTransportation Commission Meeting\n\nMar 17, 2026\n\nPublic meeting at City Hall Common Council Chambers. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/city-zoning-board-of-appeals-2026-04-01/",
+      "sourceId": "page:/events/city-zoning-board-of-appeals-2026-04-01/",
+      "title": "Zoning Board of Appeals",
+      "url": "/events/city-zoning-board-of-appeals-2026-04-01/",
+      "type": "event",
+      "excerpt": "Public city meeting in White Plains. Check the city page for the agenda and current details.",
+      "text": "Public city meeting in White Plains. Check the city page for the agenda and current details.\n\nCivic\n\nZoning Board of Appeals\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nAbout this event\n\nZoning Board of Appeals is on the City of White Plains calendar.\n\nCheck the city page for the agenda, any location updates, and last-minute changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nWednesday, April 1, 2026\n\nTime\n\n7:00 PM - 9:00 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMar 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nZoning Board of Appeals\n\nMar 4, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details.\n\nDesign Review Board\n\nMar 11, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/common-council-meeting-april-2026/",
+      "sourceId": "page:/events/common-council-meeting-april-2026/",
+      "title": "Common Council Meeting",
+      "url": "/events/common-council-meeting-april-2026/",
+      "type": "event",
+      "excerpt": "A public Common Council meeting at City Hall.",
+      "text": "A public Common Council meeting at City Hall.\n\nCivic\n\nCommon Council Meeting\n\nA public Common Council meeting at City Hall.\n\nAbout this event\n\nThe White Plains city calendar lists this Common Council meeting for Monday, April 6, 2026 at 7:00 p.m. in the Common Council Chamber on the second floor of City Hall.\n\nIf you want to keep up with local decisions, this is a good one to have on your radar.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nMonday, April 6, 2026\n\nTime\n\n7:00 PM\n\nLocation\n\nCommon Council Chamber, City Hall\n\nAddress\n\n255 Main Street, 2nd Floor, White Plains, NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nCommon Council Meeting\n\nMar 4, 2026\n\nPublic meeting at Common Council Chamber. Check the city page for the agenda and current details.\n\nTransportation Commission Meeting\n\nMar 17, 2026\n\nPublic meeting at City Hall Common Council Chambers. Check the city page for the agenda and current details.\n\nPlanning Board Meeting\n\nMar 17, 2026\n\nPublic city meeting in White Plains. Check the city page for the agenda and current details."
+    },
+    {
+      "id": "page:/events/downtown-holiday-market-2025/",
+      "sourceId": "page:/events/downtown-holiday-market-2025/",
+      "title": "Downtown White Plains Holiday Market",
+      "url": "/events/downtown-holiday-market-2025/",
+      "type": "event",
+      "excerpt": "An indoor holiday market with local vendors in the former Barnes &amp; Noble space at City Center.",
+      "text": "An indoor holiday market with local vendors in the former Barnes &amp; Noble space at City Center.\n\nSeasonal\n\nDowntown White Plains Holiday Market\n\nAn indoor holiday market with local vendors in the former Barnes & Noble space at City Center.\n\nAbout this event\n\nThe Downtown White Plains Holiday Market ran from December 5 through December 14, 2025, from 11:00 a.m. to 7:00 p.m. each day.\n\nIt brought local vendors into the former Barnes & Noble space at City Center for a stretch of holiday shopping downtown.\n\nMore links\n\nOpen flyer (PDF)\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nFriday, December 5, 2025 to December 14, 2025\n\nTime\n\n11:00 AM - 7:00 PM\n\nLocation\n\nWhite Plains City Center, former Barnes & Noble space\n\nAddress\n\nWhite Plains City Center, White Plains, NY 10601\n\nSource\n\nWhite Plains BID\n\nMore Events\n\nRelated events\n\nBlock-toberfest\n\nOct 26, 2025\n\nA free fall block party with music, games, vendors, and family activities downtown.\n\nDowntown White Plains Wing Walk 2025\n\nApr 26, 2025\n\nA downtown wing tasting with voting, timed entry, and stops at restaurants around White Plains.\n\nRock the Block 2025\n\nMay 21, 2025 - Aug 27, 2025\n\nA downtown summer series with live music, food, and family activities on Mamaroneck Avenue."
+    },
+    {
+      "id": "page:/events/downtown-revitalization-initiative-2024/",
+      "sourceId": "page:/events/downtown-revitalization-initiative-2024/",
+      "title": "Downtown Revitalization Initiative Public Workshop",
+      "url": "/events/downtown-revitalization-initiative-2024/",
+      "type": "event",
+      "excerpt": "A public workshop on downtown White Plains priorities like open space, public art, and bike lanes.",
+      "text": "A public workshop on downtown White Plains priorities like open space, public art, and bike lanes.\n\nCivic\n\nDowntown Revitalization Initiative Public Workshop\n\nA public workshop on downtown White Plains priorities like open space, public art, and bike lanes.\n\nAbout this event\n\nThis public workshop was held on Monday, September 9, 2024 from 6:00 p.m. to 8:00 p.m. as part of the Downtown Revitalization Initiative.\n\nPeople were invited to look at possible downtown projects and weigh in on what mattered most, including public space, art, and bike-friendly improvements.\n\nMore links\n\nOpen flyer (PDF)\n\nCity of White Plains\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nMonday, September 9, 2024\n\nTime\n\n6:00 PM - 8:00 PM\n\nLocation\n\nWhite Plains Public Library Gallery/Auditorium\n\nAddress\n\n100 Martine Avenue, 2nd Floor, White Plains, NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nVision Zero Action Plan Stakeholder Meeting\n\nSep 24, 2024\n\nA stakeholder meeting on White Plains street safety, plan goals, and early findings.\n\nVision Zero Public Meeting\n\nOct 23, 2024\n\nA public meeting about street safety in White Plains and the Vision Zero Action Plan.\n\nFinal Vision Zero Public Meeting\n\nApr 24, 2025\n\nA public meeting on White Plains street safety and the next steps in the Vision Zero plan."
+    },
+    {
+      "id": "page:/events/energize-u-workshop-2026/",
+      "sourceId": "page:/events/energize-u-workshop-2026/",
+      "title": "Energize U Energy Efficiency Workshop",
+      "url": "/events/energize-u-workshop-2026/",
+      "type": "event",
+      "excerpt": "A workshop on lowering energy bills, with dinner and a free conservation kit.",
+      "text": "A workshop on lowering energy bills, with dinner and a free conservation kit.\n\nWorkshop\n\nEnergize U Energy Efficiency Workshop\n\nA workshop on lowering energy bills, with dinner and a free conservation kit.\n\nAbout this event\n\nThis White Plains Public Library workshop is on Monday, April 6, 2026 from 5:30 p.m. to 7:30 p.m. in the Auditorium.\n\nDinner starts at 5:30 p.m., the presentation starts at 6:00 p.m., and the library says registration is required. Each person also gets a free energy conservation kit.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nMonday, April 6, 2026\n\nTime\n\n5:30 PM - 7:30 PM\n\nLocation\n\nWhite Plains Public Library Auditorium\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nFinancial Aid Workshop\n\nMar 30, 2026\n\nPrepare for your financial future with our FAFSA, Scholarship, and Financial Literacy Workshop for high school seniors!\n\nGetting Started with Genealogy\n\nApr 23, 2026\n\nJoin educator and genealogist Dennis Richmond, Jr.\n\nSoap Making Class\n\nApr 26, 2026\n\nEver wondered how a few simple oils can turn into a luxurious, bubbly bar of soap?"
+    },
+    {
+      "id": "page:/events/english-conversation-group-april-2026/",
+      "sourceId": "page:/events/english-conversation-group-april-2026/",
+      "title": "English Conversation Group",
+      "url": "/events/english-conversation-group-april-2026/",
+      "type": "event",
+      "excerpt": "A free drop-in group for adults who want to practice everyday English.",
+      "text": "A free drop-in group for adults who want to practice everyday English.\n\nCommunity\n\nEnglish Conversation Group\n\nA free drop-in group for adults who want to practice everyday English.\n\nAbout this event\n\nThe White Plains Public Library is holding this conversation group on Thursday, April 9, 2026 from 2:00 p.m. to 3:00 p.m. in the Community Room.\n\nIt's meant to help adults practice everyday English in a relaxed setting. No registration is required.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nThursday, April 9, 2026\n\nTime\n\n2:00 PM - 3:00 PM\n\nLocation\n\nWhite Plains Public Library Community Room\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nArbor Day in White Plains\n\nApr 25, 2025\n\nAn Arbor Day event shared through the WPCNA archive and kept here with its flyer.\n\nSt. Patrick's Day Celebration\n\nMar 13, 2026\n\nSt. Patrick's Day Celebration is listed on the official White Plains city calendar. It is set for Community Center, 65 Mitchell Pl., White Plains, NY…\n\nSpring/Summer Program Registration Begins\n\nMar 16, 2026\n\nSpring/Summer Program Registration Begins in White Plains. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/final-vision-zero-public-meeting-2025/",
+      "sourceId": "page:/events/final-vision-zero-public-meeting-2025/",
+      "title": "Final Vision Zero Public Meeting",
+      "url": "/events/final-vision-zero-public-meeting-2025/",
+      "type": "event",
+      "excerpt": "A public meeting on White Plains street safety and the next steps in the Vision Zero plan.",
+      "text": "A public meeting on White Plains street safety and the next steps in the Vision Zero plan.\n\nCivic\n\nFinal Vision Zero Public Meeting\n\nA public meeting on White Plains street safety and the next steps in the Vision Zero plan.\n\nAbout this event\n\nThis Vision Zero public meeting was held on Thursday, April 24, 2025 from 6:00 p.m. to 8:00 p.m. at the White Plains Public Library.\n\nThe discussion focused on safety recommendations, public feedback, and the next phase of the city's Vision Zero Action Plan.\n\nMore links\n\nOpen flyer (PDF)\n\nCity of White Plains\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nThursday, April 24, 2025\n\nTime\n\n6:00 PM - 8:00 PM\n\nLocation\n\nWhite Plains Public Library\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nVision Zero Public Meeting\n\nOct 23, 2024\n\nA public meeting about street safety in White Plains and the Vision Zero Action Plan.\n\nVision Zero Action Plan Stakeholder Meeting\n\nSep 24, 2024\n\nA stakeholder meeting on White Plains street safety, plan goals, and early findings.\n\nDowntown Revitalization Initiative Public Workshop\n\nSep 9, 2024\n\nA public workshop on downtown White Plains priorities like open space, public art, and bike lanes."
+    },
+    {
+      "id": "page:/events/funny-bunny-egg-hunt-2026/",
+      "sourceId": "page:/events/funny-bunny-egg-hunt-2026/",
+      "title": "Funny Bunny Egg Hunt",
+      "url": "/events/funny-bunny-egg-hunt-2026/",
+      "type": "event",
+      "excerpt": "A spring egg hunt for kids, with advance registration and a White Plains High School rain location.",
+      "text": "A spring egg hunt for kids, with advance registration and a White Plains High School rain location.\n\nFamily\n\nFunny Bunny Egg Hunt\n\nA spring egg hunt for kids, with advance registration and a White Plains High School rain location.\n\nAbout this event\n\nWhite Plains Recreation & Parks has the 2026 Funny Bunny Egg Hunt on Saturday, March 28 from 9:00 a.m. to 2:00 p.m.\n\nIf the weather doesn't cooperate, it moves to White Plains High School. Check the city page first for registration and day-of details.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nSaturday, March 28, 2026\n\nTime\n\n9:00 AM - 2:00 PM\n\nLocation\n\nWhite Plains High School North Gym\n\nAddress\n\nWhite Plains High School, White Plains, NY\n\nSource\n\nCity calendar\n\nMore Events\n\nRelated events\n\nSt. Patrick's Day Parade\n\nMar 14, 2026\n\nSt. Patrick's Day Parade is listed on the official White Plains city calendar. It is set for Mamaroneck Ave., White Plains, NY.\n\nFunny Bunny Egg Hunt\n\nMar 28, 2026\n\nFunny Bunny Egg Hunt at White Plains High School - North Gym. Check the city page for current details.\n\nIntergenerational Family Feud Game Night\n\nApr 9, 2026\n\nIntergenerational Family Feud Game Night at White Plains Community Center. Check the city page for current details."
+    },
+    {
+      "id": "page:/events/library-artificial-intelligence-a-i-in-the-igloo-2026-04-09/",
+      "sourceId": "page:/events/library-artificial-intelligence-a-i-in-the-igloo-2026-04-09/",
+      "title": "Artificial Intelligence (A.I.) in the Igloo",
+      "url": "/events/library-artificial-intelligence-a-i-in-the-igloo-2026-04-09/",
+      "type": "event",
+      "excerpt": "Learn about the current state of Artificial Intelligence (A.I.) and some of the exciting possibilities.",
+      "text": "Learn about the current state of Artificial Intelligence (A.I.) and some of the exciting possibilities.\n\nLearning\n\nArtificial Intelligence (A.I.) in the Igloo\n\nLearn about the current state of Artificial Intelligence (A.I.) and some of the exciting possibilities.\n\nAbout this event\n\nLearn about the current state of Artificial Intelligence (A.I.) and some of the exciting possibilities. See it in action! Held in the Library's panoramic Igloo content room (near Trove entrance on 2nd floor), funded by the Library Foundation and Optimum. Presented by Digital Media Specialist Austin Olney. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nThursday, April 9, 2026\n\nTime\n\n12:15 PM - 12:45 PM\n\nLocation\n\nWhite Plains Public Library, The Igloo - Optimum Technology Room\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nWhite Plains in 1776 (History via Igloo)\n\nApr 22, 2026\n\nLearn about events in White Plains during the crucial year of 1776.\n\nLearn about 3D Printing (in the Igloo)\n\nApr 22, 2026\n\nLearn about 3D printing and how to use the Library's 3D printing services.\n\nWestchester During Revolutionary War (History via Igloo)\n\nMay 21, 2026\n\nLearn about Westchester County during the Revolutionary War and what happened throughout the conflict."
+    },
+    {
+      "id": "page:/events/library-brown-bag-luncheon-series-meet-your-county-legislators-2026-04-27/",
+      "sourceId": "page:/events/library-brown-bag-luncheon-series-meet-your-county-legislators-2026-04-27/",
+      "title": "Brown Bag Luncheon Series: Meet Your County Legislators",
+      "url": "/events/library-brown-bag-luncheon-series-meet-your-county-legislators-2026-04-27/",
+      "type": "event",
+      "excerpt": "Our County Legislators Jewel Williams Johnson and Jennifer Puja will join us to talk about their role and responsibilities and the structure of our county…",
+      "text": "Our County Legislators Jewel Williams Johnson and Jennifer Puja will join us to talk about their role and responsibilities and the structure of our county…\n\nCivic\n\nBrown Bag Luncheon Series: Meet Your County Legislators\n\nOur County Legislators Jewel Williams Johnson and Jennifer Puja will join us to talk about their role and responsibilities and the structure of our county…\n\nAbout this event\n\nOur County Legislators Jewel Williams Johnson and Jennifer Puja will join us to talk about their role and responsibilities and the structure of our county government. If you've wondered what the job of the Westchester County Board of Legislators actually is, this is the place to come. Bring your lunch - or buy food in the Library caf&eacute; - and we'll provide drinks and dessert. For more information or questions, contact Beth Kava at bethkava@gmail.com Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, April 27, 2026\n\nTime\n\n12:00 PM - 1:00 PM\n\nLocation\n\nWhite Plains Public Library, Museum Gallery\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nElder Law 101\n\nApr 28, 2026\n\nPatty Bave, Esq. and Regina Matos, Esq. from the law firm Kommer, Bave & Ciccone will lead a discussion of Elder Law Topics including: legal documents,…\n\nYouth Leadership Institute\n\nApr 25, 2026\n\nAlpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha…\n\nYouth Leadership Institute\n\nMay 30, 2026\n\nAlpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha…"
+    },
+    {
+      "id": "page:/events/library-celebrate-aanhpi-heritage-month-craft-making-workshop-2026-05-02/",
+      "sourceId": "page:/events/library-celebrate-aanhpi-heritage-month-craft-making-workshop-2026-05-02/",
+      "title": "Celebrate AANHPI Heritage Month Craft-Making Workshop",
+      "url": "/events/library-celebrate-aanhpi-heritage-month-craft-making-workshop-2026-05-02/",
+      "type": "event",
+      "excerpt": "Join Artist Julia Liu in celebrating Asian American, Native Hawaiian, and Pacific Islander Heritage Month by crafting paper flowers and learning about their…",
+      "text": "Join Artist Julia Liu in celebrating Asian American, Native Hawaiian, and Pacific Islander Heritage Month by crafting paper flowers and learning about their…\n\nWorkshop\n\nCelebrate AANHPI Heritage Month Craft-Making Workshop\n\nJoin Artist Julia Liu in celebrating Asian American, Native Hawaiian, and Pacific Islander Heritage Month by crafting paper flowers and learning about their…\n\nAbout this event\n\nJoin Artist Julia Liu in celebrating Asian American, Native Hawaiian, and Pacific Islander Heritage Month by crafting paper flowers and learning about their significance in Asian culture! Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSaturday, May 2, 2026\n\nTime\n\n2:00 PM - 3:00 PM\n\nLocation\n\nWhite Plains Public Library, Galaxy Hall\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nThreads of Connection\n\nMay 30, 2026\n\nThreads of Connection: Promoting Cultural Understanding Through Creative Learning Ages 8+, Galaxy Hall, Registration Required This interactive workshop…\n\nSoap Making Class\n\nApr 26, 2026\n\nEver wondered how a few simple oils can turn into a luxurious, bubbly bar of soap?\n\nGetting Started with Genealogy\n\nApr 23, 2026\n\nJoin educator and genealogist Dennis Richmond, Jr."
+    },
+    {
+      "id": "page:/events/library-common-ground-let-s-discuss-local-housing-issues-2026-04-14/",
+      "sourceId": "page:/events/library-common-ground-let-s-discuss-local-housing-issues-2026-04-14/",
+      "title": "Common Ground: Let&#39;s Discuss Local Housing Issues",
+      "url": "/events/library-common-ground-let-s-discuss-local-housing-issues-2026-04-14/",
+      "type": "event",
+      "excerpt": "All viewpoints are welcome in this respectful, inclusive space designed to foster dialogue, reflection, and understanding.",
+      "text": "All viewpoints are welcome in this respectful, inclusive space designed to foster dialogue, reflection, and understanding.\n\nLearning\n\nCommon Ground: Let's Discuss Local Housing Issues\n\nAll viewpoints are welcome in this respectful, inclusive space designed to foster dialogue, reflection, and understanding.\n\nAbout this event\n\nAll viewpoints are welcome in this respectful, inclusive space designed to foster dialogue, reflection, and understanding. Using the World Caf&eacute; model, participants will engage in small-group discussions guided by table captains, with opportunities to interact with a variety of voices throughout the evening. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nTuesday, April 14, 2026\n\nTime\n\n6:00 PM - 8:00 PM\n\nLocation\n\nWhite Plains Public Library, Auditorium\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nVirtual Poetry Open Mic\n\nApr 1, 2026\n\nJoin Zork and Tim for our monthly virtual Poetry Open Mic!\n\nArtificial Intelligence (A.I.) in the Igloo\n\nApr 9, 2026\n\nLearn about the current state of Artificial Intelligence (A.I.) and some of the exciting possibilities.\n\nLifting Up Westchester\n\nApr 17, 2026\n\nVictor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area."
+    },
+    {
+      "id": "page:/events/library-creating-a-compelling-college-application-this-summer-2026-04-21/",
+      "sourceId": "page:/events/library-creating-a-compelling-college-application-this-summer-2026-04-21/",
+      "title": "Creating a Compelling College Application this Summer",
+      "url": "/events/library-creating-a-compelling-college-application-this-summer-2026-04-21/",
+      "type": "event",
+      "excerpt": "Program for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…",
+      "text": "Program for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…\n\nLearning\n\nCreating a Compelling College Application this Summer\n\nProgram for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…\n\nAbout this event\n\nProgram for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and their parents understand how to use the upcoming summer productively to create a compelling college application. We will cover the college application process, including current admissions trends, writing the personal statement and supplemental essays, securing strong teacher recommendations, and understanding how students can position themselves to increase their chances of admission. We will also explore why a student's ability to express insights, experiences, and personal growth through their essays is more important than ever. Our presentation will include application strategies, such as the advantages and disadvantages of early decision, early action, and regular decision. We will review the factors students should consider when deciding whether to submit standardized test scores for test optional colleges and universities. We will also explain the different pathways through which students can be admitted to a particular school. We will examine the holistic admissions review process, what admissions officers consider important when evaluating applicants, and how students can develop a compelling narrative that strengthens their applications. We will also discuss the importance of community service and how it offers opportunities for personal growth and character development. Admissions officers place significant emphasis on a student's character and the ways they have contributed to their communities. This program provides a detailed and strategic overview of what students should focus on to make their college applications as compelling as possible. The presentation will be led by Ron Feuchs and Jackie Tepper, partners at Stand Out For College, LLC (www.standoutforcollege.com). Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nTuesday, April 21, 2026\n\nTime\n\n7:30 PM - 8:30 PM\n\nLocation\n\nWhite Plains Public Library\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nCreating a Compelling College Application this Summer\n\nMay 20, 2026"
+    },
+    {
+      "id": "page:/events/library-creating-a-compelling-college-application-this-summer-2026-05-20/",
+      "sourceId": "page:/events/library-creating-a-compelling-college-application-this-summer-2026-05-20/",
+      "title": "Creating a Compelling College Application this Summer",
+      "url": "/events/library-creating-a-compelling-college-application-this-summer-2026-05-20/",
+      "type": "event",
+      "excerpt": "Program for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…",
+      "text": "Program for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…\n\nLearning\n\nCreating a Compelling College Application this Summer\n\nProgram for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…\n\nAbout this event\n\nProgram for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and their parents understand how to use the upcoming summer productively to create a compelling college application. We will cover the college application process, including current admissions trends, writing the personal statement and supplemental essays, securing strong teacher recommendations, and understanding how students can position themselves to increase their chances of admission. We will also explore why a student?s ability to express insights, experiences, and personal growth through their essays is more important than ever. Our presentation will include application strategies, such as the advantages and disadvantages of early decision, early action, and regular decision. We will review the factors students should consider when deciding whether to submit standardized test scores for test optional colleges and universities. We will also explain the different pathways through which students can be admitted to a particular school. We will examine the holistic admissions review process, what admissions officers consider important when evaluating applicants, and how students can develop a compelling narrative that strengthens their applications. We will also discuss the importance of community service and how it offers opportunities for personal growth and character development. Admissions officers place significant emphasis on a student?s character and the ways they have contributed to their communities. This program provides a detailed and strategic overview of what students should focus on to make their college applications as compelling as possible. The presentation will be led by Ron Feuchs and Jackie Tepper, partners at Stand Out For College, LLC (www.standoutforcollege.com). Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nWednesday, May 20, 2026\n\nTime\n\n7:30 PM - 8:30 PM\n\nLocation\n\nWhite Plains Public Library\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nCreating a Compelling College Application this Summer\n\nApr 21, 2026"
+    },
+    {
+      "id": "page:/events/library-earth-day-stories-and-stuff-2026-04-09/",
+      "sourceId": "page:/events/library-earth-day-stories-and-stuff-2026-04-09/",
+      "title": "Earth Day: Stories &amp; Stuff",
+      "url": "/events/library-earth-day-stories-and-stuff-2026-04-09/",
+      "type": "event",
+      "excerpt": "Afternoon stories and craft for grades K-2.",
+      "text": "Afternoon stories and craft for grades K-2.\n\nLearning\n\nEarth Day: Stories & Stuff\n\nAfternoon stories and craft for grades K-2.\n\nAbout this event\n\nAfternoon stories and craft for grades K-2. We will read an Earth Day story and make a fun craft you can take home! Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nThursday, April 9, 2026\n\nTime\n\n4:30 PM - 5:30 PM\n\nLocation\n\nWhite Plains Public Library, Galaxy Hall\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nRobert the Guitar Guy\n\nApr 29, 2026\n\nLocal favorite Robert the Guitar Guy comes to the Library!\n\nOver the Rainbow and Through the Woods\n\nMay 17, 2026\n\nPack your (imaginary) bags and join musical educator Rebecca Schoffer for a joyful, interactive sing-along celebrating Jewish American Heritage Month!\n\nFriends Spring Concert Presents: Gin Fizz\n\nMay 3, 2026\n\nThe Friends presents The American Songbook featuring Gin Fizz: The \"Great American Songbook\" is the canon of the most important and influential…"
+    },
+    {
+      "id": "page:/events/library-elder-law-101-2026-04-28/",
+      "sourceId": "page:/events/library-elder-law-101-2026-04-28/",
+      "title": "Elder Law 101",
+      "url": "/events/library-elder-law-101-2026-04-28/",
+      "type": "event",
+      "excerpt": "Patty Bave, Esq. and Regina Matos, Esq. from the law firm Kommer, Bave &amp; Ciccone will lead a discussion of Elder Law Topics including: legal documents,…",
+      "text": "Patty Bave, Esq. and Regina Matos, Esq. from the law firm Kommer, Bave &amp; Ciccone will lead a discussion of Elder Law Topics including: legal documents,…\n\nCivic\n\nElder Law 101\n\nPatty Bave, Esq. and Regina Matos, Esq. from the law firm Kommer, Bave & Ciccone will lead a discussion of Elder Law Topics including: legal documents,…\n\nAbout this event\n\nPatty Bave, Esq. and Regina Matos, Esq. from the law firm Kommer, Bave & Ciccone will lead a discussion of Elder Law Topics including: legal documents, trusts, asset preservation, long-term care, tax strategies, Medicaid planning, and senior financial tips. Registration is recommended. Please click the red \"Register\" button to sign up for this great workshop. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nTuesday, April 28, 2026\n\nTime\n\n2:00 PM - 3:00 PM\n\nLocation\n\nWhite Plains Public Library, Community Room\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nBrown Bag Luncheon Series: Meet Your County Legislators\n\nApr 27, 2026\n\nOur County Legislators Jewel Williams Johnson and Jennifer Puja will join us to talk about their role and responsibilities and the structure of our county…\n\nYouth Leadership Institute\n\nApr 25, 2026\n\nAlpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha…\n\nYouth Leadership Institute\n\nMay 30, 2026\n\nAlpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha…"
+    },
+    {
+      "id": "page:/events/library-film-screening-the-librarians-2026-04-19/",
+      "sourceId": "page:/events/library-film-screening-the-librarians-2026-04-19/",
+      "title": "Film Screening: The Librarians",
+      "url": "/events/library-film-screening-the-librarians-2026-04-19/",
+      "type": "event",
+      "excerpt": "Across the U.S., librarians face the impact of uniting against library collection standards that include restrictions on race-related and LGBTQIA+ content.",
+      "text": "Across the U.S., librarians face the impact of uniting against library collection standards that include restrictions on race-related and LGBTQIA+ content.\n\nLearning\n\nFilm Screening: The Librarians\n\nAcross the U.S., librarians face the impact of uniting against library collection standards that include restrictions on race-related and LGBTQIA+ content.\n\nAbout this event\n\nAcross the U.S., librarians face the impact of uniting against library collection standards that include restrictions on race-related and LGBTQIA+ content. Join us for a screening of the award-winning documentary that will make you think deeply about the role of librarians, censorship, and our changing political landscape. The film screening will conclude with a community discussion of the important themes presented in The Librarians. This event is presented in partnership with the League of Women Voters and Indie Lens. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nSunday, April 19, 2026\n\nTime\n\n2:00 PM - 4:00 PM\n\nLocation\n\nWhite Plains Public Library, Auditorium\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nArtificial Intelligence (A.I.) in the Igloo\n\nApr 9, 2026\n\nLearn about the current state of Artificial Intelligence (A.I.) and some of the exciting possibilities.\n\nCommon Ground: Let's Discuss Local Housing Issues\n\nApr 14, 2026\n\nAll viewpoints are welcome in this respectful, inclusive space designed to foster dialogue, reflection, and understanding.\n\nVirtual Poetry Open Mic\n\nApr 1, 2026\n\nJoin Zork and Tim for our monthly virtual Poetry Open Mic!"
+    },
+    {
+      "id": "page:/events/library-financial-aid-workshop-2026-03-30/",
+      "sourceId": "page:/events/library-financial-aid-workshop-2026-03-30/",
+      "title": "Financial Aid Workshop",
+      "url": "/events/library-financial-aid-workshop-2026-03-30/",
+      "type": "event",
+      "excerpt": "Prepare for your financial future with our FAFSA, Scholarship, and Financial Literacy Workshop for high school seniors!",
+      "text": "Prepare for your financial future with our FAFSA, Scholarship, and Financial Literacy Workshop for high school seniors!\n\nWorkshop\n\nFinancial Aid Workshop\n\nPrepare for your financial future with our FAFSA, Scholarship, and Financial Literacy Workshop for high school seniors!\n\nAbout this event\n\nPrepare for your financial future with our FAFSA, Scholarship, and Financial Literacy Workshop for high school seniors! In this comprehensive session, you'll learn how to navigate the FAFSA process, find and apply for scholarships, and understand the basics of budgeting and saving. Our expert presenters will guide you through filling out the FAFSA form, give tips on securing financial aid, and teach you smart money management skills to set you up for success in college and beyond. Don't miss this opportunity to gain the financial knowledge you need to make informed decisions and reduce stress about paying for college! Hosted in partnership with the C2 Education of Scarsdale. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nMonday, March 30, 2026\n\nTime\n\n4:00 PM - 5:00 PM\n\nLocation\n\nWhite Plains Public Library, Edge Media Lab\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nTips for Successful Interviewing\n\nApr 29, 2026\n\nCareer Coaching Services and White Plains Public Library present a free in-person workshop, 'Tips for Successful Interviewing'.\n\nOvercoming Ageism in the Workplace\n\nMay 13, 2026\n\nHow to protect your career or job search from age bias How to address ageism assumptions and myths.\n\nThreads of Connection\n\nMay 30, 2026\n\nThreads of Connection: Promoting Cultural Understanding Through Creative Learning Ages 8+, Galaxy Hall, Registration Required This interactive workshop…"
+    },
+    {
+      "id": "page:/events/library-friends-spring-concert-presents-gin-fizz-2026-05-03/",
+      "sourceId": "page:/events/library-friends-spring-concert-presents-gin-fizz-2026-05-03/",
+      "title": "Friends Spring Concert Presents: Gin Fizz",
+      "url": "/events/library-friends-spring-concert-presents-gin-fizz-2026-05-03/",
+      "type": "event",
+      "excerpt": "The Friends presents The American Songbook featuring Gin Fizz: The &quot;Great American Songbook&quot; is the canon of the most important and influential…",
+      "text": "The Friends presents The American Songbook featuring Gin Fizz: The &quot;Great American Songbook&quot; is the canon of the most important and influential…\n\nLearning\n\nFriends Spring Concert Presents: Gin Fizz\n\nThe Friends presents The American Songbook featuring Gin Fizz: The \"Great American Songbook\" is the canon of the most important and influential…\n\nAbout this event\n\nThe Friends presents The American Songbook featuring Gin Fizz: The \"Great American Songbook\" is the canon of the most important and influential American popular songs, jazz standards and theatre classics from the early 20th century. Gin Fizz plays these vintage gems with hip, youthful exuberance, while capturing the romance and sophistication of a bygone era. This band of virtuoso musicians is sure to delight music lovers both young and old with their warm and vibrant renditions of these captivating tunes. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSunday, May 3, 2026\n\nTime\n\n2:00 PM - 3:30 PM\n\nLocation\n\nWhite Plains Public Library, Auditorium\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nWhite Plains Sustainability Fair\n\nMay 16, 2026\n\nActivities: Make exploding wildflower seed balls Re-think eating and menus for healthier, sustainable food choices Watch composting demonstrations Learn about…\n\nCreating a Compelling College Application this Summer\n\nApr 21, 2026\n\nProgram for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…\n\nRobert the Guitar Guy\n\nApr 29, 2026\n\nLocal favorite Robert the Guitar Guy comes to the Library!"
+    },
+    {
+      "id": "page:/events/library-future-is-female-2026-05-04/",
+      "sourceId": "page:/events/library-future-is-female-2026-05-04/",
+      "title": "Future is Female",
+      "url": "/events/library-future-is-female-2026-05-04/",
+      "type": "event",
+      "excerpt": "A perfect choice for National Mystery Month!",
+      "text": "A perfect choice for National Mystery Month!\n\nLearning\n\nFuture is Female\n\nA perfect choice for National Mystery Month!\n\nAbout this event\n\nA perfect choice for National Mystery Month! The Washington Post says of this novel: \"Will enthrall crime aficionados, puzzle solvers, Anglophiles, and logophiles...fiendishly clever and marvelously entertaining debut.\" This book can be accessed through audio on Libby and Hoopla, as an e-book in Libby, or in the Library's physical collection. To join, Click This Zoom Link. You can also use the following phone number to call in: +1 929 436 2866 US (New York). Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, May 4, 2026\n\nTime\n\n2:00 PM - 3:00 PM\n\nLocation\n\nWhite Plains Public Library, Ask Staff For More Information\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nWuthering Heights Tea Party & Discussion\n\nApr 28, 2026\n\nThe recent movie adaptation of Emily Bront&euml;'s novel Wuthering Heights has brought renewed interest to the enduring classic.\n\nWhite Plains in 1776 (History via Igloo)\n\nApr 22, 2026\n\nLearn about events in White Plains during the crucial year of 1776.\n\nThe Revolutionary: Samuel Adams by Stacy Schiff\n\nApr 25, 2026\n\nSpace is limited for this free event."
+    },
+    {
+      "id": "page:/events/library-getting-started-with-genealogy-2026-04-23/",
+      "sourceId": "page:/events/library-getting-started-with-genealogy-2026-04-23/",
+      "title": "Getting Started with Genealogy",
+      "url": "/events/library-getting-started-with-genealogy-2026-04-23/",
+      "type": "event",
+      "excerpt": "Join educator and genealogist Dennis Richmond, Jr.",
+      "text": "Join educator and genealogist Dennis Richmond, Jr.\n\nWorkshop\n\nGetting Started with Genealogy\n\nJoin educator and genealogist Dennis Richmond, Jr.\n\nAbout this event\n\nJoin educator and genealogist Dennis Richmond, Jr. for an engaging workshop titled \"Getting Started with Genealogy\" at the White Plains Public Library. This presentation will introduce participants to the basics of family history research, including how to use Ancestry.com, FamilySearch, and physical records to trace your ancestors. Participants will also view real historical documents from Dennis and learn practical tips for building a family tree from the soil up. Laptops will be available so attendees can begin exploring their own family history during the session. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nThursday, April 23, 2026\n\nTime\n\n7:00 PM - 8:00 PM\n\nLocation\n\nWhite Plains Public Library, Community Room\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nUnderstanding Your Finances & Growing in Financial Literacy\n\nApr 29, 2026\n\nApril is National Financial Literacy Month.\n\nTips for Successful Interviewing\n\nApr 29, 2026\n\nCareer Coaching Services and White Plains Public Library present a free in-person workshop, 'Tips for Successful Interviewing'.\n\nSave a Life with Narcan Training\n\nMay 12, 2026\n\nLearn how to recognize and respond to an opioid overdose."
+    },
+    {
+      "id": "page:/events/library-graphic-novel-chat-and-bingo-noodle-and-bao-by-shaina-lu-2026-05-19/",
+      "sourceId": "page:/events/library-graphic-novel-chat-and-bingo-noodle-and-bao-by-shaina-lu-2026-05-19/",
+      "title": "Graphic Novel Chat &amp; BINGO: Noodle &amp; Bao by Shaina Lu",
+      "url": "/events/library-graphic-novel-chat-and-bingo-noodle-and-bao-by-shaina-lu-2026-05-19/",
+      "type": "event",
+      "excerpt": "Join us for some fun by talking about Noodle &amp; Bao by Shaina Lu!",
+      "text": "Join us for some fun by talking about Noodle &amp; Bao by Shaina Lu!\n\nLearning\n\nGraphic Novel Chat & BINGO: Noodle & Bao by Shaina Lu\n\nJoin us for some fun by talking about Noodle & Bao by Shaina Lu!\n\nAbout this event\n\nJoin us for some fun by talking about Noodle & Bao by Shaina Lu! The first 4 students to register will receive a free copy of the graphic novel. Upon registration, please come to the Trove reference desk to pick up your free copy of the graphic novel. Other participants can have a copy placed on hold for them. For best discussion results, please make sure to read the graphic novel before coming to the program. We will also be playing a BINGO game based on Noodle & Bao and snacking on treats. About the Book Noodle & Bao: Momo has lived in Town 99 her entire life. She knows all its quirks and rhythms: the best places to buy fruit, practice tai-chi in the park, and, most of all, get the best meal: Noodle & Bao, run by Momo's best friend, Bao, and their amah, Noodle. But Town 99 is changing. Rent is becoming unaffordable for Momo and her parents, and even Noodle & Bao has been edged out of its storefront, which was just recently bought out by a new business venture--Fanc&eacute; Cafe. Fanc&eacute; is run by the ambitious Ms. Jujube and her henchmen, who claim they're only beautifying Town 99 with good business. Momo knows that's not true, and knows that if she doesn't do something, she'll lose everything she loves about her neighborhood. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nTuesday, May 19, 2026\n\nTime\n\n5:00 PM - 6:00 PM\n\nLocation\n\nWhite Plains Public Library, Galaxy Hall\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nThe Revolutionary: Samuel Adams by Stacy Schiff\n\nApr 25, 2026\n\nSpace is limited for this free event.\n\nWuthering Heights Tea Party & Discussion\n\nApr 28, 2026\n\nThe recent movie adaptation of Emily Bront&euml;'s novel Wuthering Heights has brought renewed interest to the enduring classic.\n\nRobert the Guitar Guy\n\nApr 29, 2026\n\nLocal favorite Robert the Guitar Guy comes to the Library!"
+    },
+    {
+      "id": "page:/events/library-how-to-protect-yourself-against-housing-discrimination-2026-05-04/",
+      "sourceId": "page:/events/library-how-to-protect-yourself-against-housing-discrimination-2026-05-04/",
+      "title": "How to Protect Yourself against Housing Discrimination",
+      "url": "/events/library-how-to-protect-yourself-against-housing-discrimination-2026-05-04/",
+      "type": "event",
+      "excerpt": "How to Protect Yourself against Housing Discrimination Learn how to recognize and protect yourself against housing discrimination.",
+      "text": "How to Protect Yourself against Housing Discrimination Learn how to recognize and protect yourself against housing discrimination.\n\nLearning\n\nHow to Protect Yourself against Housing Discrimination\n\nHow to Protect Yourself against Housing Discrimination Learn how to recognize and protect yourself against housing discrimination.\n\nAbout this event\n\nHow to Protect Yourself against Housing Discrimination Learn how to recognize and protect yourself against housing discrimination. This program will provide an overview of your housing rights, common forms of discrimination, and practical steps you can take if you believe your rights have been violated. This program will also discuss timelines, mediation with landlords and local services available for those who are or may be facing eviction. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, May 4, 2026\n\nTime\n\n6:00 PM - 7:00 PM\n\nLocation\n\nWhite Plains Public Library, Auditorium\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nCreating a Compelling College Application this Summer\n\nApr 21, 2026\n\nProgram for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…\n\nWhite Plains in 1776 (History via Igloo)\n\nApr 22, 2026\n\nLearn about events in White Plains during the crucial year of 1776.\n\nLearn about 3D Printing (in the Igloo)\n\nApr 22, 2026\n\nLearn about 3D printing and how to use the Library's 3D printing services."
+    },
+    {
+      "id": "page:/events/library-learn-about-3d-printing-in-the-igloo-2026-04-22/",
+      "sourceId": "page:/events/library-learn-about-3d-printing-in-the-igloo-2026-04-22/",
+      "title": "Learn about 3D Printing (in the Igloo)",
+      "url": "/events/library-learn-about-3d-printing-in-the-igloo-2026-04-22/",
+      "type": "event",
+      "excerpt": "Learn about 3D printing and how to use the Library&#39;s 3D printing services.",
+      "text": "Learn about 3D printing and how to use the Library&#39;s 3D printing services.\n\nLearning\n\nLearn about 3D Printing (in the Igloo)\n\nLearn about 3D printing and how to use the Library's 3D printing services.\n\nAbout this event\n\nLearn about 3D printing and how to use the Library's 3D printing services. Join us for an engaging demonstration session. Held in the Library's panoramic Igloo content room (near Trove entrance on 2nd floor), funded by the Library Foundation and Optimum. Presented by Digital Media Specialist Austin Olney. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nWednesday, April 22, 2026\n\nTime\n\n5:15 PM - 5:45 PM\n\nLocation\n\nWhite Plains Public Library, The Igloo - Optimum Technology Room\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nWhite Plains in 1776 (History via Igloo)\n\nApr 22, 2026\n\nLearn about events in White Plains during the crucial year of 1776.\n\nWestchester During Revolutionary War (History via Igloo)\n\nMay 21, 2026\n\nLearn about Westchester County during the Revolutionary War and what happened throughout the conflict.\n\nArtificial Intelligence (A.I.) in the Igloo\n\nApr 9, 2026\n\nLearn about the current state of Artificial Intelligence (A.I.) and some of the exciting possibilities."
+    },
+    {
+      "id": "page:/events/library-lifting-up-westchester-2026-04-17/",
+      "sourceId": "page:/events/library-lifting-up-westchester-2026-04-17/",
+      "title": "Lifting Up Westchester",
+      "url": "/events/library-lifting-up-westchester-2026-04-17/",
+      "type": "event",
+      "excerpt": "Victor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area.",
+      "text": "Victor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area.\n\nLearning\n\nLifting Up Westchester\n\nVictor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area.\n\nAbout this event\n\nVictor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nFriday, April 17, 2026\n\nTime\n\n11:30 AM - 1:00 PM\n\nLocation\n\nWhite Plains Public Library, Lobby\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nLifting Up Westchester\n\nApr 22, 2026\n\nVictor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area.\n\nWhite Plains Sustainability Fair\n\nMay 16, 2026\n\nActivities: Make exploding wildflower seed balls Re-think eating and menus for healthier, sustainable food choices Watch composting demonstrations Learn about…\n\nVirtual Poetry Open Mic\n\nApr 1, 2026\n\nJoin Zork and Tim for our monthly virtual Poetry Open Mic!"
+    },
+    {
+      "id": "page:/events/library-lifting-up-westchester-2026-04-22/",
+      "sourceId": "page:/events/library-lifting-up-westchester-2026-04-22/",
+      "title": "Lifting Up Westchester",
+      "url": "/events/library-lifting-up-westchester-2026-04-22/",
+      "type": "event",
+      "excerpt": "Victor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area.",
+      "text": "Victor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area.\n\nLearning\n\nLifting Up Westchester\n\nVictor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area.\n\nAbout this event\n\nVictor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nWednesday, April 22, 2026\n\nTime\n\n12:30 PM - 2:00 PM\n\nLocation\n\nWhite Plains Public Library, Lobby\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nWhite Plains Sustainability Fair\n\nMay 16, 2026\n\nActivities: Make exploding wildflower seed balls Re-think eating and menus for healthier, sustainable food choices Watch composting demonstrations Learn about…\n\nLifting Up Westchester\n\nApr 17, 2026\n\nVictor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area.\n\nCreating a Compelling College Application this Summer\n\nApr 21, 2026\n\nProgram for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…"
+    },
+    {
+      "id": "page:/events/library-over-the-rainbow-and-through-the-woods-2026-05-17/",
+      "sourceId": "page:/events/library-over-the-rainbow-and-through-the-woods-2026-05-17/",
+      "title": "Over the Rainbow and Through the Woods",
+      "url": "/events/library-over-the-rainbow-and-through-the-woods-2026-05-17/",
+      "type": "event",
+      "excerpt": "Pack your (imaginary) bags and join musical educator Rebecca Schoffer for a joyful, interactive sing-along celebrating Jewish American Heritage Month!",
+      "text": "Pack your (imaginary) bags and join musical educator Rebecca Schoffer for a joyful, interactive sing-along celebrating Jewish American Heritage Month!\n\nLearning\n\nOver the Rainbow and Through the Woods\n\nPack your (imaginary) bags and join musical educator Rebecca Schoffer for a joyful, interactive sing-along celebrating Jewish American Heritage Month!\n\nAbout this event\n\nPack your (imaginary) bags and join musical educator Rebecca Schoffer for a joyful, interactive sing-along celebrating Jewish American Heritage Month! Travel through time with songs that journeyed across oceans and generations, from traditional Yiddish folk to American classics, beloved children's music, and pop hits by Jewish American songwriters. Families will clap, move, and sing together, as we explore how music tells stories of home, hope, and the Jewish American experience. Recommended for families with children ages 0-8. ~~~~ Rebecca Schoffer is an experiential educator, musician, and community builder who travels to organizations around the world to lead joyful concerts and teach educator workshops. She serves as Director of Jewish Family Life and the leader of the beloved Shababa community at the 92nd Street Y. She is the founder and creative director of Glowhouse Studio, an independent production house. Her latest musical family film, FLAME, premiered in 2025. She is also a recording artist and singer-songwriter who has released multiple albums of Jewish family music, available everywhere you stream music. A graduate of the Atlantic Theater Conservatory and Tufts University, she is a playwright and director of family theater. She received the 2019 Young Pioneers Award for innovative educators. Learn more at: www.RebeccaSchoffer.com Connect on Instagram: @RebeccaSchofferMusic Watch on YouTube: https://www.youtube.com/@TheRebeccaShow Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSunday, May 17, 2026\n\nTime\n\n2:00 PM - 3:00 PM\n\nLocation\n\nWhite Plains Public Library, Auditorium\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nRobert the Guitar Guy\n\nApr 29, 2026\n\nLocal favorite Robert the Guitar Guy comes to the Library!\n\nFriends Spring Concert Presents: Gin Fizz\n\nMay 3, 2026\n\nThe Friends presents The American Songbook featuring Gin Fizz: The \"Great American Songbook\" is the canon of the most important and influential…\n\nEarth Day: Stories & Stuff\n\nApr 9, 2026\n\nAfternoon stories and craft for grades K-2."
+    },
+    {
+      "id": "page:/events/library-overcoming-ageism-in-the-workplace-2026-05-13/",
+      "sourceId": "page:/events/library-overcoming-ageism-in-the-workplace-2026-05-13/",
+      "title": "Overcoming Ageism in the Workplace",
+      "url": "/events/library-overcoming-ageism-in-the-workplace-2026-05-13/",
+      "type": "event",
+      "excerpt": "How to protect your career or job search from age bias How to address ageism assumptions and myths.",
+      "text": "How to protect your career or job search from age bias How to address ageism assumptions and myths.\n\nWorkshop\n\nOvercoming Ageism in the Workplace\n\nHow to protect your career or job search from age bias How to address ageism assumptions and myths.\n\nAbout this event\n\nHow to protect your career or job search from age bias How to address ageism assumptions and myths. How to modernize your resume, email address, LinkedIn profile and more How AI can assist in your career development Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nWednesday, May 13, 2026\n\nTime\n\n6:00 PM - 7:30 PM\n\nLocation\n\nWhite Plains Public Library, Auditorium\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nTips for Successful Interviewing\n\nApr 29, 2026\n\nCareer Coaching Services and White Plains Public Library present a free in-person workshop, 'Tips for Successful Interviewing'.\n\nThreads of Connection\n\nMay 30, 2026\n\nThreads of Connection: Promoting Cultural Understanding Through Creative Learning Ages 8+, Galaxy Hall, Registration Required This interactive workshop…\n\nFinancial Aid Workshop\n\nMar 30, 2026\n\nPrepare for your financial future with our FAFSA, Scholarship, and Financial Literacy Workshop for high school seniors!"
+    },
+    {
+      "id": "page:/events/library-renter-safe-housing-incentive-program-2026-04-28/",
+      "sourceId": "page:/events/library-renter-safe-housing-incentive-program-2026-04-28/",
+      "title": "Renter Safe Housing Incentive Program",
+      "url": "/events/library-renter-safe-housing-incentive-program-2026-04-28/",
+      "type": "event",
+      "excerpt": "Were you a renter in 2021 and impacted by Hurricane Ida?",
+      "text": "Were you a renter in 2021 and impacted by Hurricane Ida?\n\nLearning\n\nRenter Safe Housing Incentive Program\n\nWere you a renter in 2021 and impacted by Hurricane Ida?\n\nAbout this event\n\nWere you a renter in 2021 and impacted by Hurricane Ida? The Rental Safe Housing Incentive Program can help you move to a safer home. Up to $50,000 in financial assistance is available for those who qualify. Join us and let our team guide you through the application process-getting started is easier than you think! Questions? Email: Intake@communityhousing.org or (845) 330-3948 Ext. 3004. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nTuesday, April 28, 2026\n\nTime\n\n5:00 PM - 7:00 PM\n\nLocation\n\nWhite Plains Public Library, Community Room\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nWhite Plains Sustainability Fair\n\nMay 16, 2026\n\nActivities: Make exploding wildflower seed balls Re-think eating and menus for healthier, sustainable food choices Watch composting demonstrations Learn about…\n\nCreating a Compelling College Application this Summer\n\nApr 21, 2026\n\nProgram for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…\n\nWhite Plains in 1776 (History via Igloo)\n\nApr 22, 2026\n\nLearn about events in White Plains during the crucial year of 1776."
+    },
+    {
+      "id": "page:/events/library-rev250-genealogy-finding-your-patriot-or-loyalist-ancestor-2026-06-04/",
+      "sourceId": "page:/events/library-rev250-genealogy-finding-your-patriot-or-loyalist-ancestor-2026-06-04/",
+      "title": "Rev250 Genealogy: Finding Your Patriot or Loyalist Ancestor",
+      "url": "/events/library-rev250-genealogy-finding-your-patriot-or-loyalist-ancestor-2026-06-04/",
+      "type": "event",
+      "excerpt": "Presented by genealogist Sarah Gutmann, who has given many family history programs for the library.",
+      "text": "Presented by genealogist Sarah Gutmann, who has given many family history programs for the library.\n\nLearning\n\nRev250 Genealogy: Finding Your Patriot or Loyalist Ancestor\n\nPresented by genealogist Sarah Gutmann, who has given many family history programs for the library.\n\nAbout this event\n\nPresented by genealogist Sarah Gutmann, who has given many family history programs for the library. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nThursday, June 4, 2026\n\nTime\n\n7:00 PM - 8:15 PM\n\nLocation\n\nWhite Plains Public Library, Virtual\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nWhite Plains in 1776 (History via Igloo)\n\nApr 22, 2026\n\nLearn about events in White Plains during the crucial year of 1776.\n\nWestchester During Revolutionary War (History via Igloo)\n\nMay 21, 2026\n\nLearn about Westchester County during the Revolutionary War and what happened throughout the conflict.\n\nCreating a Compelling College Application this Summer\n\nApr 21, 2026\n\nProgram for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…"
+    },
+    {
+      "id": "page:/events/library-robert-the-guitar-guy-2026-04-29/",
+      "sourceId": "page:/events/library-robert-the-guitar-guy-2026-04-29/",
+      "title": "Robert the Guitar Guy",
+      "url": "/events/library-robert-the-guitar-guy-2026-04-29/",
+      "type": "event",
+      "excerpt": "Local favorite Robert the Guitar Guy comes to the Library!",
+      "text": "Local favorite Robert the Guitar Guy comes to the Library!\n\nLearning\n\nRobert the Guitar Guy\n\nLocal favorite Robert the Guitar Guy comes to the Library!\n\nAbout this event\n\nLocal favorite Robert the Guitar Guy comes to the Library! Sing and dance with Robert as he plays your favorite songs! Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nWednesday, April 29, 2026\n\nTime\n\n11:00 AM - 12:00 PM\n\nLocation\n\nWhite Plains Public Library, Auditorium\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nOver the Rainbow and Through the Woods\n\nMay 17, 2026\n\nPack your (imaginary) bags and join musical educator Rebecca Schoffer for a joyful, interactive sing-along celebrating Jewish American Heritage Month!\n\nFriends Spring Concert Presents: Gin Fizz\n\nMay 3, 2026\n\nThe Friends presents The American Songbook featuring Gin Fizz: The \"Great American Songbook\" is the canon of the most important and influential…\n\nEarth Day: Stories & Stuff\n\nApr 9, 2026\n\nAfternoon stories and craft for grades K-2."
+    },
+    {
+      "id": "page:/events/library-save-a-life-with-narcan-training-2026-05-12/",
+      "sourceId": "page:/events/library-save-a-life-with-narcan-training-2026-05-12/",
+      "title": "Save a Life with Narcan Training",
+      "url": "/events/library-save-a-life-with-narcan-training-2026-05-12/",
+      "type": "event",
+      "excerpt": "Learn how to recognize and respond to an opioid overdose.",
+      "text": "Learn how to recognize and respond to an opioid overdose.\n\nWorkshop\n\nSave a Life with Narcan Training\n\nLearn how to recognize and respond to an opioid overdose.\n\nAbout this event\n\nLearn how to recognize and respond to an opioid overdose. This free Narcan training includes a two-year certification and a Narcan kit to take home. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nTuesday, May 12, 2026\n\nTime\n\n11:00 AM - 12:00 PM\n\nLocation\n\nWhite Plains Public Library, Edge Media Lab\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nGetting Started with Genealogy\n\nApr 23, 2026\n\nJoin educator and genealogist Dennis Richmond, Jr.\n\nUnderstanding Your Finances & Growing in Financial Literacy\n\nApr 29, 2026\n\nApril is National Financial Literacy Month.\n\nTips for Successful Interviewing\n\nApr 29, 2026\n\nCareer Coaching Services and White Plains Public Library present a free in-person workshop, 'Tips for Successful Interviewing'."
+    },
+    {
+      "id": "page:/events/library-soap-making-class-2026-04-26/",
+      "sourceId": "page:/events/library-soap-making-class-2026-04-26/",
+      "title": "Soap Making Class",
+      "url": "/events/library-soap-making-class-2026-04-26/",
+      "type": "event",
+      "excerpt": "Ever wondered how a few simple oils can turn into a luxurious, bubbly bar of soap?",
+      "text": "Ever wondered how a few simple oils can turn into a luxurious, bubbly bar of soap?\n\nWorkshop\n\nSoap Making Class\n\nEver wondered how a few simple oils can turn into a luxurious, bubbly bar of soap?\n\nAbout this event\n\nEver wondered how a few simple oils can turn into a luxurious, bubbly bar of soap? Join us for a beginner-friendly workshop where we'll show you how to ditch the store-bought chemicals and create your own custom soap at home. Check out the full lineup of sewing and crafting classes here! Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSunday, April 26, 2026\n\nTime\n\n1:00 PM - 2:30 PM\n\nLocation\n\nWhite Plains Public Library, Auditorium\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nThreads of Connection\n\nMay 30, 2026\n\nThreads of Connection: Promoting Cultural Understanding Through Creative Learning Ages 8+, Galaxy Hall, Registration Required This interactive workshop…\n\nTips for Successful Interviewing\n\nApr 29, 2026\n\nCareer Coaching Services and White Plains Public Library present a free in-person workshop, 'Tips for Successful Interviewing'.\n\nOvercoming Ageism in the Workplace\n\nMay 13, 2026\n\nHow to protect your career or job search from age bias How to address ageism assumptions and myths."
+    },
+    {
+      "id": "page:/events/library-the-revolutionary-samuel-adams-by-stacy-schiff-2026-04-25/",
+      "sourceId": "page:/events/library-the-revolutionary-samuel-adams-by-stacy-schiff-2026-04-25/",
+      "title": "The Revolutionary: Samuel Adams by Stacy Schiff",
+      "url": "/events/library-the-revolutionary-samuel-adams-by-stacy-schiff-2026-04-25/",
+      "type": "event",
+      "excerpt": "Space is limited for this free event.",
+      "text": "Space is limited for this free event.\n\nLearning\n\nThe Revolutionary: Samuel Adams by Stacy Schiff\n\nSpace is limited for this free event.\n\nAbout this event\n\nSpace is limited for this free event. Register Here to attend. Note: Seats are not assigned but first come, first served. You can hold a ticket for up to one other guest. Please be prepared to sign in to Eventbrite to reserve your seat. This event is presented by public libraries throughout Westchester County in coordination with the Revolutionary Westchester 250 initiative. Reserve a copy of The Revolutionary: Samuel Adams from any Westchester library. A selection of books written by both authors can be purchased and signed at the event, or you can bring your own copy. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSaturday, April 25, 2026\n\nTime\n\n3:00 PM - 4:30 PM\n\nLocation\n\nWhite Plains Public Library, Ask Staff For More Information\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nCreating a Compelling College Application this Summer\n\nApr 21, 2026\n\nProgram for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…\n\nWhite Plains in 1776 (History via Igloo)\n\nApr 22, 2026\n\nLearn about events in White Plains during the crucial year of 1776.\n\nLearn about 3D Printing (in the Igloo)\n\nApr 22, 2026\n\nLearn about 3D printing and how to use the Library's 3D printing services."
+    },
+    {
+      "id": "page:/events/library-threads-of-connection-2026-05-30/",
+      "sourceId": "page:/events/library-threads-of-connection-2026-05-30/",
+      "title": "Threads of Connection",
+      "url": "/events/library-threads-of-connection-2026-05-30/",
+      "type": "event",
+      "excerpt": "Threads of Connection: Promoting Cultural Understanding Through Creative Learning Ages 8+, Galaxy Hall, Registration Required This interactive workshop…",
+      "text": "Threads of Connection: Promoting Cultural Understanding Through Creative Learning Ages 8+, Galaxy Hall, Registration Required This interactive workshop…\n\nWorkshop\n\nThreads of Connection\n\nThreads of Connection: Promoting Cultural Understanding Through Creative Learning Ages 8+, Galaxy Hall, Registration Required This interactive workshop…\n\nAbout this event\n\nThreads of Connection: Promoting Cultural Understanding Through Creative Learning Ages 8+, Galaxy Hall, Registration Required This interactive workshop introduces participants to traditional Chinese knotting, a decorative art form that has been passed down for generations and is rich in cultural meaning. Participants will learn how knots symbolize ideas such as connection, good luck, unity, and friendship while creating one traditional knot step-by-step. The finished knot can be turned into a simple craft to take home. Through hands-on making, this workshop encourages creativity and cultural understanding. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSaturday, May 30, 2026\n\nTime\n\n11:00 AM - 12:00 PM\n\nLocation\n\nWhite Plains Public Library, Galaxy Hall\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nSoap Making Class\n\nApr 26, 2026\n\nEver wondered how a few simple oils can turn into a luxurious, bubbly bar of soap?\n\nTips for Successful Interviewing\n\nApr 29, 2026\n\nCareer Coaching Services and White Plains Public Library present a free in-person workshop, 'Tips for Successful Interviewing'.\n\nCelebrate AANHPI Heritage Month Craft-Making Workshop\n\nMay 2, 2026\n\nJoin Artist Julia Liu in celebrating Asian American, Native Hawaiian, and Pacific Islander Heritage Month by crafting paper flowers and learning about their…"
+    },
+    {
+      "id": "page:/events/library-tips-for-successful-interviewing-2026-04-29/",
+      "sourceId": "page:/events/library-tips-for-successful-interviewing-2026-04-29/",
+      "title": "Tips for Successful Interviewing",
+      "url": "/events/library-tips-for-successful-interviewing-2026-04-29/",
+      "type": "event",
+      "excerpt": "Career Coaching Services and White Plains Public Library present a free in-person workshop, &#39;Tips for Successful Interviewing&#39;.",
+      "text": "Career Coaching Services and White Plains Public Library present a free in-person workshop, &#39;Tips for Successful Interviewing&#39;.\n\nWorkshop\n\nTips for Successful Interviewing\n\nCareer Coaching Services and White Plains Public Library present a free in-person workshop, 'Tips for Successful Interviewing'.\n\nAbout this event\n\nCareer Coaching Services and White Plains Public Library present a free in-person workshop, 'Tips for Successful Interviewing'. A professional career coach can help you be more confident at your next job interview. &bull; Understand the different types of interviews &bull; Utilize AI tools to prepare effectively &bull; Develop strategies for successful interviewing &bull; Enhance your interview skills and techniques &bull; Make a good impression &bull; Present your qualifications and strengths effectively &bull; Learn best practices for following up after the interview Whether you're a recent college grad, job-seeker, or career-changer, this interviewing workshop will help you stand out in a competitive job market! Don't wait - register today! Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nWednesday, April 29, 2026\n\nTime\n\n6:30 PM - 8:00 PM\n\nLocation\n\nWhite Plains Public Library, Auditorium\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nOvercoming Ageism in the Workplace\n\nMay 13, 2026\n\nHow to protect your career or job search from age bias How to address ageism assumptions and myths.\n\nThreads of Connection\n\nMay 30, 2026\n\nThreads of Connection: Promoting Cultural Understanding Through Creative Learning Ages 8+, Galaxy Hall, Registration Required This interactive workshop…\n\nFinancial Aid Workshop\n\nMar 30, 2026\n\nPrepare for your financial future with our FAFSA, Scholarship, and Financial Literacy Workshop for high school seniors!"
+    },
+    {
+      "id": "page:/events/library-understanding-your-finances-and-growing-in-financial-literacy-2026-04-29/",
+      "sourceId": "page:/events/library-understanding-your-finances-and-growing-in-financial-literacy-2026-04-29/",
+      "title": "Understanding Your Finances &amp; Growing in Financial Literacy",
+      "url": "/events/library-understanding-your-finances-and-growing-in-financial-literacy-2026-04-29/",
+      "type": "event",
+      "excerpt": "April is National Financial Literacy Month.",
+      "text": "April is National Financial Literacy Month.\n\nWorkshop\n\nUnderstanding Your Finances & Growing in Financial Literacy\n\nApril is National Financial Literacy Month.\n\nAbout this event\n\nApril is National Financial Literacy Month. Join this workshop to gain practical tools and insights for creating and managing a budget that works for you. Don't miss out on this opportunity to improve your financial skills and take control of your financial future! Phone Number: 203-900-4235 Zoom Link: https://us02web.zoom.us/j/82644816535?pwd=W8rGKledkmtgnlK0ZkrzFGGArIJ5XN.1 Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nWednesday, April 29, 2026\n\nTime\n\n6:00 PM - 7:00 PM\n\nLocation\n\nWhite Plains Public Library, Rotary Room\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nGetting Started with Genealogy\n\nApr 23, 2026\n\nJoin educator and genealogist Dennis Richmond, Jr.\n\nTips for Successful Interviewing\n\nApr 29, 2026\n\nCareer Coaching Services and White Plains Public Library present a free in-person workshop, 'Tips for Successful Interviewing'.\n\nSave a Life with Narcan Training\n\nMay 12, 2026\n\nLearn how to recognize and respond to an opioid overdose."
+    },
+    {
+      "id": "page:/events/library-virtual-poetry-open-mic-2026-04-01/",
+      "sourceId": "page:/events/library-virtual-poetry-open-mic-2026-04-01/",
+      "title": "Virtual Poetry Open Mic",
+      "url": "/events/library-virtual-poetry-open-mic-2026-04-01/",
+      "type": "event",
+      "excerpt": "Join Zork and Tim for our monthly virtual Poetry Open Mic!",
+      "text": "Join Zork and Tim for our monthly virtual Poetry Open Mic!\n\nLearning\n\nVirtual Poetry Open Mic\n\nJoin Zork and Tim for our monthly virtual Poetry Open Mic!\n\nAbout this event\n\nJoin Zork and Tim for our monthly virtual Poetry Open Mic! If you plan to share your writings and are reading for the first time, please email Tim with a short bio at the address below. This is a virtual event using the Zoom platform. To join, Click This Zoom Link. You can also use the following phone number to call in: +1 929 436 2866 US (New York). Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nWednesday, April 1, 2026\n\nTime\n\n7:00 PM - 9:00 PM\n\nLocation\n\nWhite Plains Public Library, Ask Staff For More Information\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nCommon Ground: Let's Discuss Local Housing Issues\n\nApr 14, 2026\n\nAll viewpoints are welcome in this respectful, inclusive space designed to foster dialogue, reflection, and understanding.\n\nLifting Up Westchester\n\nApr 17, 2026\n\nVictor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area.\n\nVirtual Poetry Open Mic\n\nMay 6, 2026\n\nJoin Zork and Tim for our monthly virtual Poetry Open Mic!"
+    },
+    {
+      "id": "page:/events/library-virtual-poetry-open-mic-2026-05-06/",
+      "sourceId": "page:/events/library-virtual-poetry-open-mic-2026-05-06/",
+      "title": "Virtual Poetry Open Mic",
+      "url": "/events/library-virtual-poetry-open-mic-2026-05-06/",
+      "type": "event",
+      "excerpt": "Join Zork and Tim for our monthly virtual Poetry Open Mic!",
+      "text": "Join Zork and Tim for our monthly virtual Poetry Open Mic!\n\nLearning\n\nVirtual Poetry Open Mic\n\nJoin Zork and Tim for our monthly virtual Poetry Open Mic!\n\nAbout this event\n\nJoin Zork and Tim for our monthly virtual Poetry Open Mic! If you plan to share your writings and are reading for the first time, please email Tim with a short bio at the address below. This is a virtual event using the Zoom platform. To join, Click This Zoom Link. You can also use the following phone number to call in: +1 929 436 2866 US (New York). Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nWednesday, May 6, 2026\n\nTime\n\n7:00 PM - 9:00 PM\n\nLocation\n\nWhite Plains Public Library, Ask Staff For More Information\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nVirtual Poetry Open Mic\n\nApr 1, 2026\n\nJoin Zork and Tim for our monthly virtual Poetry Open Mic!\n\nCreating a Compelling College Application this Summer\n\nApr 21, 2026\n\nProgram for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…\n\nLifting Up Westchester\n\nApr 22, 2026\n\nVictor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area."
+    },
+    {
+      "id": "page:/events/library-westchester-during-revolutionary-war-history-via-igloo-2026-05-21/",
+      "sourceId": "page:/events/library-westchester-during-revolutionary-war-history-via-igloo-2026-05-21/",
+      "title": "Westchester During Revolutionary War (History via Igloo)",
+      "url": "/events/library-westchester-during-revolutionary-war-history-via-igloo-2026-05-21/",
+      "type": "event",
+      "excerpt": "Learn about Westchester County during the Revolutionary War and what happened throughout the conflict.",
+      "text": "Learn about Westchester County during the Revolutionary War and what happened throughout the conflict.\n\nLearning\n\nWestchester During Revolutionary War (History via Igloo)\n\nLearn about Westchester County during the Revolutionary War and what happened throughout the conflict.\n\nAbout this event\n\nLearn about Westchester County during the Revolutionary War and what happened throughout the conflict. Held in the library's panoramic Igloo content room (near Trove entrance on 2nd floor), funded by the Library Foundation and Optimum. Presented by Digital Media Specialist Austin Olney. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nThursday, May 21, 2026\n\nTime\n\n5:00 PM - 5:45 PM\n\nLocation\n\nWhite Plains Public Library, The Igloo - Optimum Technology Room\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nWhite Plains in 1776 (History via Igloo)\n\nApr 22, 2026\n\nLearn about events in White Plains during the crucial year of 1776.\n\nLearn about 3D Printing (in the Igloo)\n\nApr 22, 2026\n\nLearn about 3D printing and how to use the Library's 3D printing services.\n\nArtificial Intelligence (A.I.) in the Igloo\n\nApr 9, 2026\n\nLearn about the current state of Artificial Intelligence (A.I.) and some of the exciting possibilities."
+    },
+    {
+      "id": "page:/events/library-white-plains-in-1776-history-via-igloo-2026-04-22/",
+      "sourceId": "page:/events/library-white-plains-in-1776-history-via-igloo-2026-04-22/",
+      "title": "White Plains in 1776 (History via Igloo)",
+      "url": "/events/library-white-plains-in-1776-history-via-igloo-2026-04-22/",
+      "type": "event",
+      "excerpt": "Learn about events in White Plains during the crucial year of 1776.",
+      "text": "Learn about events in White Plains during the crucial year of 1776.\n\nLearning\n\nWhite Plains in 1776 (History via Igloo)\n\nLearn about events in White Plains during the crucial year of 1776.\n\nAbout this event\n\nLearn about events in White Plains during the crucial year of 1776. Held in the library's panoramic Igloo content room (near Trove entrance on 2nd floor), funded by the Library Foundation and Optimum. Presented by Digital Media Specialist Austin Olney. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nWednesday, April 22, 2026\n\nTime\n\n12:00 PM - 12:45 PM\n\nLocation\n\nWhite Plains Public Library, The Igloo - Optimum Technology Room\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nWestchester During Revolutionary War (History via Igloo)\n\nMay 21, 2026\n\nLearn about Westchester County during the Revolutionary War and what happened throughout the conflict.\n\nLearn about 3D Printing (in the Igloo)\n\nApr 22, 2026\n\nLearn about 3D printing and how to use the Library's 3D printing services.\n\nArtificial Intelligence (A.I.) in the Igloo\n\nApr 9, 2026\n\nLearn about the current state of Artificial Intelligence (A.I.) and some of the exciting possibilities."
+    },
+    {
+      "id": "page:/events/library-white-plains-sustainability-fair-2026-05-16/",
+      "sourceId": "page:/events/library-white-plains-sustainability-fair-2026-05-16/",
+      "title": "White Plains Sustainability Fair",
+      "url": "/events/library-white-plains-sustainability-fair-2026-05-16/",
+      "type": "event",
+      "excerpt": "Activities: Make exploding wildflower seed balls Re-think eating and menus for healthier, sustainable food choices Watch composting demonstrations Learn about…",
+      "text": "Activities: Make exploding wildflower seed balls Re-think eating and menus for healthier, sustainable food choices Watch composting demonstrations Learn about…\n\nLearning\n\nWhite Plains Sustainability Fair\n\nActivities: Make exploding wildflower seed balls Re-think eating and menus for healthier, sustainable food choices Watch composting demonstrations Learn about…\n\nAbout this event\n\nActivities: Make exploding wildflower seed balls Re-think eating and menus for healthier, sustainable food choices Watch composting demonstrations Learn about steps White Plains is undertaking to make it a greener city Discover ways to reduce utility bills and your carbon footprint Get inspired to participate in many Westchester County activities Celebrate community, creativity and conscious living Take home eco-friendly freebies Learn more about EV incentives and credits Connect with new and returning exhibitors All are welcome, no registration is required! Questions? Email whiteplainssustainability@gmail.com Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSaturday, May 16, 2026\n\nTime\n\n1:00 PM - 4:00 PM\n\nLocation\n\nWhite Plains Public Library, Library Plaza\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nCreating a Compelling College Application this Summer\n\nApr 21, 2026\n\nProgram for High School Juniors: Creating a Compelling College Application this Summer We are offering this Zoom presentation to help high school juniors and…\n\nLifting Up Westchester\n\nApr 22, 2026\n\nVictor Ortiz of Lifting Up Westchester will be available to provide information about essential social services available to patrons in the White Plains area.\n\nFriends Spring Concert Presents: Gin Fizz\n\nMay 3, 2026\n\nThe Friends presents The American Songbook featuring Gin Fizz: The \"Great American Songbook\" is the canon of the most important and influential…"
+    },
+    {
+      "id": "page:/events/library-wuthering-heights-tea-party-and-discussion-2026-04-28/",
+      "sourceId": "page:/events/library-wuthering-heights-tea-party-and-discussion-2026-04-28/",
+      "title": "Wuthering Heights Tea Party &amp; Discussion",
+      "url": "/events/library-wuthering-heights-tea-party-and-discussion-2026-04-28/",
+      "type": "event",
+      "excerpt": "The recent movie adaptation of Emily Bront&amp;euml;&#39;s novel Wuthering Heights has brought renewed interest to the enduring classic.",
+      "text": "The recent movie adaptation of Emily Bront&amp;euml;&#39;s novel Wuthering Heights has brought renewed interest to the enduring classic.\n\nLearning\n\nWuthering Heights Tea Party & Discussion\n\nThe recent movie adaptation of Emily Bront&euml;'s novel Wuthering Heights has brought renewed interest to the enduring classic.\n\nAbout this event\n\nThe recent movie adaptation of Emily Bront&euml;'s novel Wuthering Heights has brought renewed interest to the enduring classic. Her gothic story of thwarted love and the resulting vengeance wreaked over two generations continues to enthrall readers. Bront&euml; passed away at age 30, leaving Wuthering Heights as her only novel. Please join us in \"Rotary Room Heights\" for tea, discussion, and to celebrate this masterwork. Many people have used this novel as a creative springboard, and toward the end of our time we will do a little informal creating also. Registration is required. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nTuesday, April 28, 2026\n\nTime\n\n2:00 PM - 3:00 PM\n\nLocation\n\nWhite Plains Public Library, Rotary Room\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nFuture is Female\n\nMay 4, 2026\n\nA perfect choice for National Mystery Month!\n\nWhite Plains in 1776 (History via Igloo)\n\nApr 22, 2026\n\nLearn about events in White Plains during the crucial year of 1776.\n\nThe Revolutionary: Samuel Adams by Stacy Schiff\n\nApr 25, 2026\n\nSpace is limited for this free event."
+    },
+    {
+      "id": "page:/events/library-youth-leadership-institute-2026-04-25/",
+      "sourceId": "page:/events/library-youth-leadership-institute-2026-04-25/",
+      "title": "Youth Leadership Institute",
+      "url": "/events/library-youth-leadership-institute-2026-04-25/",
+      "type": "event",
+      "excerpt": "Alpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha…",
+      "text": "Alpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha…\n\nCivic\n\nYouth Leadership Institute\n\nAlpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha…\n\nAbout this event\n\nAlpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha Youth Leadership Institute (YLI). YLI is a youth-led and highly interactive leadership development program designed to empower and engage youth. Leadership skills will be developed by the \"doing\" approach via interactive workshops, youth-led meetings, committee meetings, committee leadership, and decision making. Registration is required. Leadership Development Activities include: Museums & Exhibits Trips Social Activism Events Community Service Projects Film/Media Projects Visionboard Crafting STEAM Activities Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSaturday, April 25, 2026\n\nTime\n\n2:30 PM - 4:00 PM\n\nLocation\n\nWhite Plains Public Library, Galaxy Hall\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nYouth Leadership Institute\n\nMay 30, 2026\n\nAlpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha…\n\nBrown Bag Luncheon Series: Meet Your County Legislators\n\nApr 27, 2026\n\nOur County Legislators Jewel Williams Johnson and Jennifer Puja will join us to talk about their role and responsibilities and the structure of our county…\n\nElder Law 101\n\nApr 28, 2026\n\nPatty Bave, Esq. and Regina Matos, Esq. from the law firm Kommer, Bave & Ciccone will lead a discussion of Elder Law Topics including: legal documents,…"
+    },
+    {
+      "id": "page:/events/library-youth-leadership-institute-2026-05-30/",
+      "sourceId": "page:/events/library-youth-leadership-institute-2026-05-30/",
+      "title": "Youth Leadership Institute",
+      "url": "/events/library-youth-leadership-institute-2026-05-30/",
+      "type": "event",
+      "excerpt": "Alpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha…",
+      "text": "Alpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha…\n\nCivic\n\nYouth Leadership Institute\n\nAlpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha…\n\nAbout this event\n\nAlpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha Youth Leadership Institute (YLI). YLI is a youth-led and highly interactive leadership development program designed to empower and engage youth. Leadership skills will be developed by the \"doing\" approach via interactive workshops, youth-led meetings, committee meetings, committee leadership, and decision making. Registration is required. Leadership Development Activities include: Museums & Exhibits Trips Social Activism Events Community Service Projects Film/Media Projects Visionboard Crafting STEAM Activities Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSaturday, May 30, 2026\n\nTime\n\n2:30 PM - 4:00 PM\n\nLocation\n\nWhite Plains Public Library, Galaxy Hall\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nYouth Leadership Institute\n\nApr 25, 2026\n\nAlpha Kappa Alpha Sorority, Incorporated Pi Iota Omega Chapter is seeking students ages 10-13 (all genders) to participate in the Alpha Kappa Alpha…\n\nBrown Bag Luncheon Series: Meet Your County Legislators\n\nApr 27, 2026\n\nOur County Legislators Jewel Williams Johnson and Jennifer Puja will join us to talk about their role and responsibilities and the structure of our county…\n\nElder Law 101\n\nApr 28, 2026\n\nPatty Bave, Esq. and Regina Matos, Esq. from the law firm Kommer, Bave & Ciccone will lead a discussion of Elder Law Topics including: legal documents,…"
+    },
+    {
+      "id": "page:/events/rock-the-block-2025/",
+      "sourceId": "page:/events/rock-the-block-2025/",
+      "title": "Rock the Block 2025",
+      "url": "/events/rock-the-block-2025/",
+      "type": "event",
+      "excerpt": "A downtown summer series with live music, food, and family activities on Mamaroneck Avenue.",
+      "text": "A downtown summer series with live music, food, and family activities on Mamaroneck Avenue.\n\nMusic & Family\n\nRock the Block 2025\n\nA downtown summer series with live music, food, and family activities on Mamaroneck Avenue.\n\nAbout this event\n\nThe 2025 Rock the Block series ran from May through August on Mamaroneck Avenue.\n\nIt brought live music, outdoor dining, games, and a lot of foot traffic into downtown White Plains over the summer.\n\nMore links\n\nOpen flyer (PDF)\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nWednesday, May 21, 2025 to August 27, 2025\n\nTime\n\n5:30 PM - 8:30 PM\n\nLocation\n\nMamaroneck Avenue Streetscape\n\nAddress\n\nMamaroneck Avenue between Maple Avenue and East Post Road, White Plains, NY 10601\n\nSource\n\nWhite Plains BID\n\nMore Events\n\nRelated events\n\nDowntown White Plains Rock the Block 2026\n\nMay 20, 2026 - Aug 19, 2026\n\nA free downtown street series with live music, food, games, and room to hang out.\n\nBlock-toberfest\n\nOct 26, 2025\n\nA free fall block party with music, games, vendors, and family activities downtown.\n\nDowntown White Plains Wing Walk 2025\n\nApr 26, 2025\n\nA downtown wing tasting with voting, timed entry, and stops at restaurants around White Plains."
+    },
+    {
+      "id": "page:/events/rock-the-block-2026/",
+      "sourceId": "page:/events/rock-the-block-2026/",
+      "title": "Downtown White Plains Rock the Block 2026",
+      "url": "/events/rock-the-block-2026/",
+      "type": "event",
+      "excerpt": "A free downtown street series with live music, food, games, and room to hang out.",
+      "text": "A free downtown street series with live music, food, games, and room to hang out.\n\nMusic & Family\n\nDowntown White Plains Rock the Block 2026\n\nA free downtown street series with live music, food, games, and room to hang out.\n\nAbout this event\n\nRock the Block is back on four Wednesdays in 2026: May 20, June 17, July 15, and August 19, from 5:30 p.m. to 8:30 p.m.\n\nThe BID turns part of Mamaroneck Avenue into a walkable stretch with music, outdoor dining, mini golf, lawn games, and family activities.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nWednesday, May 20, 2026 to August 19, 2026\n\nTime\n\n5:30 PM - 8:30 PM\n\nLocation\n\nMamaroneck Avenue Streetscape\n\nAddress\n\nMamaroneck Avenue between Maple Avenue and East Post Road, White Plains, NY 10601\n\nSource\n\nWhite Plains BID\n\nMore Events\n\nRelated events\n\nRock the Block 2025\n\nMay 21, 2025 - Aug 27, 2025\n\nA downtown summer series with live music, food, and family activities on Mamaroneck Avenue.\n\nBlock-toberfest\n\nOct 26, 2025\n\nA free fall block party with music, games, vendors, and family activities downtown.\n\nDowntown White Plains Wing Walk 2026\n\nApr 25, 2026\n\nA ticketed wing tasting across downtown White Plains, with voting and stops at local restaurants."
+    },
+    {
+      "id": "page:/events/steam-saturday-april-2026/",
+      "sourceId": "page:/events/steam-saturday-april-2026/",
+      "title": "STEAM Saturday",
+      "url": "/events/steam-saturday-april-2026/",
+      "type": "event",
+      "excerpt": "Hands-on STEAM time for kids in grades 4 through 8 at the White Plains Public Library.",
+      "text": "Hands-on STEAM time for kids in grades 4 through 8 at the White Plains Public Library.\n\nLearning\n\nSTEAM Saturday\n\nHands-on STEAM time for kids in grades 4 through 8 at the White Plains Public Library.\n\nAbout this event\n\nSTEAM Saturday is set for Saturday, April 4, 2026 from 12:00 p.m. to 1:00 p.m. in Galaxy Hall at the White Plains Public Library.\n\nThe library says it's for kids in grades 4 through 8, and tickets are handed out at the Compass Desk in the Trove starting 30 minutes before the program.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nSaturday, April 4, 2026\n\nTime\n\n12:00 PM - 1:00 PM\n\nLocation\n\nWhite Plains Public Library, Galaxy Hall\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nVirtual Poetry Open Mic\n\nApr 1, 2026\n\nJoin Zork and Tim for our monthly virtual Poetry Open Mic!\n\nArtificial Intelligence (A.I.) in the Igloo\n\nApr 9, 2026\n\nLearn about the current state of Artificial Intelligence (A.I.) and some of the exciting possibilities.\n\nEarth Day: Stories & Stuff\n\nApr 9, 2026\n\nAfternoon stories and craft for grades K-2."
+    },
+    {
+      "id": "page:/events/vision-zero-public-meeting-2024/",
+      "sourceId": "page:/events/vision-zero-public-meeting-2024/",
+      "title": "Vision Zero Public Meeting",
+      "url": "/events/vision-zero-public-meeting-2024/",
+      "type": "event",
+      "excerpt": "A public meeting about street safety in White Plains and the Vision Zero Action Plan.",
+      "text": "A public meeting about street safety in White Plains and the Vision Zero Action Plan.\n\nCivic\n\nVision Zero Public Meeting\n\nA public meeting about street safety in White Plains and the Vision Zero Action Plan.\n\nAbout this event\n\nThis Vision Zero public meeting was held on Wednesday, October 23, 2024 from 6:00 p.m. to 8:00 p.m. at the White Plains Public Library Auditorium.\n\nThe goal was to share information, hear questions, and get public feedback on the city's street-safety work.\n\nMore links\n\nOpen flyer (PDF)\n\nCity of White Plains\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nWednesday, October 23, 2024\n\nTime\n\n6:00 PM - 8:00 PM\n\nLocation\n\nWhite Plains Public Library Auditorium\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nFinal Vision Zero Public Meeting\n\nApr 24, 2025\n\nA public meeting on White Plains street safety and the next steps in the Vision Zero plan.\n\nVision Zero Action Plan Stakeholder Meeting\n\nSep 24, 2024\n\nA stakeholder meeting on White Plains street safety, plan goals, and early findings.\n\nDowntown Revitalization Initiative Public Workshop\n\nSep 9, 2024\n\nA public workshop on downtown White Plains priorities like open space, public art, and bike lanes."
+    },
+    {
+      "id": "page:/events/vision-zero-stakeholder-meeting-2024/",
+      "sourceId": "page:/events/vision-zero-stakeholder-meeting-2024/",
+      "title": "Vision Zero Action Plan Stakeholder Meeting",
+      "url": "/events/vision-zero-stakeholder-meeting-2024/",
+      "type": "event",
+      "excerpt": "A stakeholder meeting on White Plains street safety, plan goals, and early findings.",
+      "text": "A stakeholder meeting on White Plains street safety, plan goals, and early findings.\n\nCivic\n\nVision Zero Action Plan Stakeholder Meeting\n\nA stakeholder meeting on White Plains street safety, plan goals, and early findings.\n\nAbout this event\n\nThis stakeholder meeting took place on Tuesday, September 24, 2024 from 6:00 p.m. to 8:00 p.m. in the Common Council Chamber at City Hall.\n\nThe agenda covered plan goals, timing, early analysis, and feedback on safety issues around White Plains.\n\nMore links\n\nOpen flyer (PDF)\n\nCity of White Plains\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nTuesday, September 24, 2024\n\nTime\n\n6:00 PM - 8:00 PM\n\nLocation\n\nCommon Council Chamber, City Hall\n\nAddress\n\n255 Main Street, 2nd Floor, White Plains, NY 10601\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nDowntown Revitalization Initiative Public Workshop\n\nSep 9, 2024\n\nA public workshop on downtown White Plains priorities like open space, public art, and bike lanes.\n\nVision Zero Public Meeting\n\nOct 23, 2024\n\nA public meeting about street safety in White Plains and the Vision Zero Action Plan.\n\nFinal Vision Zero Public Meeting\n\nApr 24, 2025\n\nA public meeting on White Plains street safety and the next steps in the Vision Zero plan."
+    },
+    {
+      "id": "page:/events/wing-walk-2025/",
+      "sourceId": "page:/events/wing-walk-2025/",
+      "title": "Downtown White Plains Wing Walk 2025",
+      "url": "/events/wing-walk-2025/",
+      "type": "event",
+      "excerpt": "A downtown wing tasting with voting, timed entry, and stops at restaurants around White Plains.",
+      "text": "A downtown wing tasting with voting, timed entry, and stops at restaurants around White Plains.\n\nFood & Downtown\n\nDowntown White Plains Wing Walk 2025\n\nA downtown wing tasting with voting, timed entry, and stops at restaurants around White Plains.\n\nAbout this event\n\nWing Walk 2025 took place on Saturday, April 26 from noon to 5:00 p.m. across downtown White Plains.\n\nThe BID page described a full afternoon of tasting and voting, with ticketed entry and participating restaurants across downtown.\n\nMore links\n\nOpen flyer (PDF)\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nSaturday, April 26, 2025\n\nTime\n\n12:00 PM - 5:00 PM\n\nLocation\n\nDowntown White Plains\n\nAddress\n\nMultiple restaurants in downtown White Plains, NY 10601\n\nSource\n\nWhite Plains BID\n\nMore Events\n\nRelated events\n\nDowntown White Plains Wing Walk 2026\n\nApr 25, 2026\n\nA ticketed wing tasting across downtown White Plains, with voting and stops at local restaurants.\n\nBlock-toberfest\n\nOct 26, 2025\n\nA free fall block party with music, games, vendors, and family activities downtown.\n\nDowntown White Plains Holiday Market\n\nDec 5, 2025 - Dec 14, 2025\n\nAn indoor holiday market with local vendors in the former Barnes & Noble space at City Center."
+    },
+    {
+      "id": "page:/events/wing-walk-2026/",
+      "sourceId": "page:/events/wing-walk-2026/",
+      "title": "Downtown White Plains Wing Walk 2026",
+      "url": "/events/wing-walk-2026/",
+      "type": "event",
+      "excerpt": "A ticketed wing tasting across downtown White Plains, with voting and stops at local restaurants.",
+      "text": "A ticketed wing tasting across downtown White Plains, with voting and stops at local restaurants.\n\nFood & Downtown\n\nDowntown White Plains Wing Walk 2026\n\nA ticketed wing tasting across downtown White Plains, with voting and stops at local restaurants.\n\nAbout this event\n\nWing Walk 2026 is on Saturday, April 25 from 12:00 p.m. to 5:00 p.m. around downtown White Plains.\n\nYou'll visit participating restaurants, try their wings, and vote for your favorite. The BID page has ticket info and the full list of stops.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nSaturday, April 25, 2026\n\nTime\n\n12:00 PM - 5:00 PM\n\nLocation\n\nDowntown White Plains\n\nAddress\n\nMultiple restaurants in downtown White Plains, NY 10601\n\nSource\n\nWhite Plains BID\n\nMore Events\n\nRelated events\n\nDowntown White Plains Wing Walk 2025\n\nApr 26, 2025\n\nA downtown wing tasting with voting, timed entry, and stops at restaurants around White Plains.\n\nBlock-toberfest\n\nOct 26, 2025\n\nA free fall block party with music, games, vendors, and family activities downtown.\n\nDowntown White Plains Holiday Market\n\nDec 5, 2025 - Dec 14, 2025\n\nAn indoor holiday market with local vendors in the former Barnes & Noble space at City Center."
+    },
+    {
+      "id": "page:/events/wpcna-neighborhood-workshop-2025/",
+      "sourceId": "page:/events/wpcna-neighborhood-workshop-2025/",
+      "title": "WPCNA Neighborhood Workshop",
+      "url": "/events/wpcna-neighborhood-workshop-2025/",
+      "type": "event",
+      "excerpt": "Workshop materials from WPCNA&#39;s first annual session for people starting or reviving neighborhood associations.",
+      "text": "Workshop materials from WPCNA&#39;s first annual session for people starting or reviving neighborhood associations.\n\nWorkshop\n\nWPCNA Neighborhood Workshop\n\nWorkshop materials from WPCNA's first annual session for people starting or reviving neighborhood associations.\n\nAbout this event\n\nThese materials came from WPCNA's first annual neighborhood workshop on March 11, 2025.\n\nThey're still useful if you're trying to start a neighborhood association, bring one back to life, or figure out what that work looks like in White Plains.\n\nMore links\n\nOpen flyer (PDF)\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nTuesday, March 11, 2025\n\nTime\n\nSee details\n\nLocation\n\nWPCNA Workshop Venue\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nWPCNA workshop materials\n\nMore Events\n\nRelated events\n\nMonthly Educational Speaker Series\n\nMar 18, 2026\n\nMonthly Educational Speaker Series at White Plains Community Center. Check the city page for current details.\n\nFinancial Aid Workshop\n\nMar 30, 2026\n\nPrepare for your financial future with our FAFSA, Scholarship, and Financial Literacy Workshop for high school seniors!\n\nEnergize U Energy Efficiency Workshop\n\nApr 6, 2026\n\nA workshop on lowering energy bills, with dinner and a free conservation kit."
+    },
+    {
+      "id": "page:/events/wppac-anastasia-youth-edition-2026-06-29/",
+      "sourceId": "page:/events/wppac-anastasia-youth-edition-2026-06-29/",
+      "title": "Anastasia: Youth Edition",
+      "url": "/events/wppac-anastasia-youth-edition-2026-06-29/",
+      "type": "event",
+      "excerpt": "Anastasia: The Musical is the spectacular new musical about discovering who you are and defining who you’re meant to be.",
+      "text": "Anastasia: The Musical is the spectacular new musical about discovering who you are and defining who you’re meant to be.\n\nArts\n\nAnastasia: Youth Edition\n\nAnastasia: The Musical is the spectacular new musical about discovering who you are and defining who you’re meant to be.\n\nAbout this event\n\nAnastasia: The Musical is the spectacular new musical about discovering who you are and defining who you’re meant to be. From Tony winners Terrence McNally, Stephen Flaherty and Lynn Ahrens, creators of such Broadway classics as Ragtime and Once On This Island, this dazzling show transports its audience from the twilight of the Russian Empire to the euphoria of Paris in the 1920s, as a brave young woman sets out to discover the mystery of her past. Pursued by a ruthless Soviet officer determined to silence her, Anya enlists the aid of a dashing con man and a lovable ex-aristocrat. Together, they embark on an epic adventure to help her find home, love and family. $1350 (Early Bird) $1500 (Regular) Use the show page for tickets and the full performance schedule.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, June 29, 2026 to July 18, 2026\n\nTime\n\nSee details\n\nLocation\n\nWhite Plains Performing Arts Center\n\nAddress\n\n11 City Place, 3rd Floor, White Plains, NY 10601\n\nSource\n\nWhite Plains Performing Arts Center\n\nMore Events\n\nRelated events\n\nShrek Kids\n\nAug 24, 2026 - Aug 28, 2026\n\nBeauty is in the eye of the ogre in Shrek The Musical KIDS, based on the Oscar-winning DreamWorks Animation film and fantastic Broadway musical.\n\nSchool Of Rock: Young Actors\n\nJul 20, 2026 - Aug 8, 2026\n\nAndrew Lloyd Webber’s School of Rock: Young Actors Edition is a dynamic, one-hour version of the musical based on the hit movie.\n\nCatch Me If You Can\n\nApr 10, 2026 - May 3, 2026\n\nA spring run of the musical at the White Plains Performing Arts Center."
+    },
+    {
+      "id": "page:/events/wppac-school-of-rock-young-actors-2026-07-20/",
+      "sourceId": "page:/events/wppac-school-of-rock-young-actors-2026-07-20/",
+      "title": "School Of Rock: Young Actors",
+      "url": "/events/wppac-school-of-rock-young-actors-2026-07-20/",
+      "type": "event",
+      "excerpt": "Andrew Lloyd Webber’s School of Rock: Young Actors Edition is a dynamic, one-hour version of the musical based on the hit movie.",
+      "text": "Andrew Lloyd Webber’s School of Rock: Young Actors Edition is a dynamic, one-hour version of the musical based on the hit movie.\n\nArts\n\nSchool Of Rock: Young Actors\n\nAndrew Lloyd Webber’s School of Rock: Young Actors Edition is a dynamic, one-hour version of the musical based on the hit movie.\n\nAbout this event\n\nAndrew Lloyd Webber’s School of Rock: Young Actors Edition is a dynamic, one-hour version of the musical based on the hit movie. The tuner follows Dewey Finn, a failed, wannabe rock star who decides to earn an extra bit of cash by posing as a substitute teacher at a prestigious prep school. There he turns a class of straight-A pupils into a guitar-shredding, bass-slapping, mind-blowing rock band. But can he get them to the Battle of the Bands without their parents and the school’s headmistress finding out? Please note this version of the show does NOT require any of the actors to play instruments. $1350 (Early Bird) $1500 (Regular) Use the show page for tickets and the full performance schedule.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, July 20, 2026 to August 8, 2026\n\nTime\n\nSee details\n\nLocation\n\nWhite Plains Performing Arts Center\n\nAddress\n\n11 City Place, 3rd Floor, White Plains, NY 10601\n\nSource\n\nWhite Plains Performing Arts Center\n\nMore Events\n\nRelated events\n\nAnastasia: Youth Edition\n\nJun 29, 2026 - Jul 18, 2026\n\nAnastasia: The Musical is the spectacular new musical about discovering who you are and defining who you’re meant to be.\n\nShrek Kids\n\nAug 24, 2026 - Aug 28, 2026\n\nBeauty is in the eye of the ogre in Shrek The Musical KIDS, based on the Oscar-winning DreamWorks Animation film and fantastic Broadway musical.\n\nCatch Me If You Can\n\nApr 10, 2026 - May 3, 2026\n\nA spring run of the musical at the White Plains Performing Arts Center."
+    },
+    {
+      "id": "page:/events/wppac-shrek-kids-2026-08-24/",
+      "sourceId": "page:/events/wppac-shrek-kids-2026-08-24/",
+      "title": "Shrek Kids",
+      "url": "/events/wppac-shrek-kids-2026-08-24/",
+      "type": "event",
+      "excerpt": "Beauty is in the eye of the ogre in Shrek The Musical KIDS, based on the Oscar-winning DreamWorks Animation film and fantastic Broadway musical.",
+      "text": "Beauty is in the eye of the ogre in Shrek The Musical KIDS, based on the Oscar-winning DreamWorks Animation film and fantastic Broadway musical.\n\nArts\n\nShrek Kids\n\nBeauty is in the eye of the ogre in Shrek The Musical KIDS, based on the Oscar-winning DreamWorks Animation film and fantastic Broadway musical.\n\nAbout this event\n\nBeauty is in the eye of the ogre in Shrek The Musical KIDS, based on the Oscar-winning DreamWorks Animation film and fantastic Broadway musical. It’s a “big bright beautiful world” as everyone’s favorite ogre, Shrek, leads a cast of fairytale misfits on an adventure to rescue a princess and find true acceptance. Part romance and part twisted fairy tale, Shrek KIDS is an irreverently fun show with a powerful message for the whole family. (No Early Bird Discount) $550 (Regular) Use the show page for tickets and the full performance schedule.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, August 24, 2026 to August 28, 2026\n\nTime\n\nSee details\n\nLocation\n\nWhite Plains Performing Arts Center\n\nAddress\n\n11 City Place, 3rd Floor, White Plains, NY 10601\n\nSource\n\nWhite Plains Performing Arts Center\n\nMore Events\n\nRelated events\n\nAnastasia: Youth Edition\n\nJun 29, 2026 - Jul 18, 2026\n\nAnastasia: The Musical is the spectacular new musical about discovering who you are and defining who you’re meant to be.\n\nSchool Of Rock: Young Actors\n\nJul 20, 2026 - Aug 8, 2026\n\nAndrew Lloyd Webber’s School of Rock: Young Actors Edition is a dynamic, one-hour version of the musical based on the hit movie.\n\nCatch Me If You Can\n\nApr 10, 2026 - May 3, 2026\n\nA spring run of the musical at the White Plains Performing Arts Center."
+    },
+    {
+      "id": "page:/events/wppac-tba-may-2026-2026-08-10/",
+      "sourceId": "page:/events/wppac-tba-may-2026-2026-08-10/",
+      "title": "TBA! May 2026",
+      "url": "/events/wppac-tba-may-2026-2026-08-10/",
+      "type": "event",
+      "excerpt": "We plan to announce this title in May pending the release of the rights to a brand new Broadway JR title based on a Dreamworks Animated Film Franchise!",
+      "text": "We plan to announce this title in May pending the release of the rights to a brand new Broadway JR title based on a Dreamworks Animated Film Franchise!\n\nArts\n\nTBA! May 2026\n\nWe plan to announce this title in May pending the release of the rights to a brand new Broadway JR title based on a Dreamworks Animated Film Franchise!\n\nAbout this event\n\nWe plan to announce this title in May pending the release of the rights to a brand new Broadway JR title based on a Dreamworks Animated Film Franchise! Check back for the announcement! $1000 (Early Bird) $1100 (Regular) Use the show page for tickets and the full performance schedule.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, August 10, 2026 to August 22, 2026\n\nTime\n\nSee details\n\nLocation\n\nWhite Plains Performing Arts Center\n\nAddress\n\n11 City Place, 3rd Floor, White Plains, NY 10601\n\nSource\n\nWhite Plains Performing Arts Center\n\nMore Events\n\nRelated events\n\nCatch Me If You Can\n\nApr 10, 2026 - May 3, 2026\n\nA spring run of the musical at the White Plains Performing Arts Center.\n\nAnastasia: Youth Edition\n\nJun 29, 2026 - Jul 18, 2026\n\nAnastasia: The Musical is the spectacular new musical about discovering who you are and defining who you’re meant to be.\n\nSchool Of Rock: Young Actors\n\nJul 20, 2026 - Aug 8, 2026\n\nAndrew Lloyd Webber’s School of Rock: Young Actors Edition is a dynamic, one-hour version of the musical based on the hit movie."
+    },
+    {
+      "id": "page:/handbook/",
+      "sourceId": "page:/handbook/",
+      "title": "CNA Workshop Handbook",
+      "url": "/handbook/",
+      "type": "handbook",
+      "excerpt": "A practical guide from WPCNA's workshop materials for residents starting, reviving, or strengthening a neighborhood association.",
+      "text": "A practical guide from WPCNA's workshop materials for residents starting, reviving, or strengthening a neighborhood association.\n\nCNA Workshop Handbook\n\nA practical guide for White Plains residents who want to start, revive, or strengthen a neighborhood association.\n\nA practical starting point\n\nWPCNA supports residents who want to build stronger neighborhood organizations in White Plains. This handbook grows out of last year's workshop and is meant to be a practical guide for people who are starting fresh, reviving an older association, or figuring out what organized neighborhood work looks like in real life.\n\nThe material below walks through the basics: building a contact list, setting a regular meeting rhythm, working with the City, and staying connected to other neighborhood groups through WPCNA.\n\nWorkshop guide and slides\n\nFull presentation deck from the March 11, 2025 workshop, covering organizing basics, sample agendas, and practical templates.\n\nDownload slides (PDF)\n\nWorkshop flyer\n\nThe original flyer with the workshop date, location, and agenda.\n\nDownload flyer (PDF)\n\nUse it with WPCNA\n\nIf you are thinking about starting a neighborhood association, this is a good first resource. Use it to get oriented, then reach out to WPCNA if you want help talking through the next step, finding out how other associations are organized, or getting connected to the wider council.\n\nGet support\n\nStarting something in your neighborhood?\n\nCommunity members who want to organize their block, revive an association, or get neighbors talking can use this handbook and then contact WPCNA for help.\n\nKeep going\n\nSee the council in action\n\nWPCNA usually meets on the second Tuesday of each month. Recent agendas and minutes are posted on the agendas page."
+    },
+    {
+      "id": "page:/neighborhood-map/",
+      "sourceId": "page:/neighborhood-map/",
+      "title": "Neighborhood Map",
+      "url": "/neighborhood-map/",
+      "type": "map",
+      "excerpt": "A map of the neighborhoods that make up White Plains, New York.",
+      "text": "A map of the neighborhoods that make up White Plains, New York.\n\nWhite Plains\n\nNeighborhood map\n\nA simple map of the neighborhoods that make up White Plains. Use it as a starting point for getting oriented to the city.\n\nMap of White Plains neighborhoods.\n\nExplore\n\nBrowse the neighborhoods\n\nWPCNA tracks every named neighborhood across White Plains, from Downtown to the hills on the city's edge. Each one has its own page with photos, history, and what makes it distinct.\n\nAll neighborhoods\n\nAbout\n\nWhy neighborhoods matter\n\nEach neighborhood has its own character, concerns, and priorities. WPCNA exists to help those neighborhoods stay connected to each other and to the city."
+    },
+    {
+      "id": "page:/neighborhoods/",
+      "sourceId": "page:/neighborhoods/",
+      "title": "White Plains Neighborhoods",
+      "url": "/neighborhoods/",
+      "type": "neighborhoods",
+      "excerpt": "Explore White Plains through an interactive neighborhood map and a citywide neighborhood guide.",
+      "text": "Explore White Plains through an interactive neighborhood map and a citywide neighborhood guide.\n\nNeighborhood Guide\n\nExplore White Plains by neighborhood\n\nStart with the official neighborhood map, then browse the full city guide below. This first interactive pass makes 12 neighborhoods clickable to begin, with Fisher Hill and other key areas live now.\n\nHover or tap one of the highlighted neighborhoods to connect the map and the guide cards. More clickable neighborhoods can be added as this map grows.\n\nFeatured Neighborhoods\n\n12 places to start\n\nThis first set leans on neighborhoods that are clearly represented on the official boundary map, so the interactive experience stays clean and legible from day one.\n\nAll Neighborhoods\n\nBrowse the full White Plains guide\n\n43 neighborhoods, grouped by area so you can move from the city center out toward the north side, east side, Gedney, and the south side.\n\nCentral White Plains\n\nThe city's core, where Downtown, civic buildings, transit, and close-in residential blocks meet.\n\nCentral White Plains\n\nDowntown\n\nDowntown is the most walkable and built-up part of White Plains, centered on the Metro-North station, Mamaroneck Avenue, restaurants, shopping, and a growing collection of newer apartment buildings.\n\nCentral White Plains\n\nChurch Street\n\nChurch Street sits just off Downtown and shares much of its convenience, but at a slightly calmer scale.\n\nCentral White Plains\n\nGovernment Center\n\nGovernment Center is one of the most central parts of White Plains and gives the surrounding streets an established, civic feel.\n\nCentral White Plains\n\nHealth Center\n\nHealth Center is shaped by White Plains Hospital and the medical offices around it, which gives the area a familiar, everyday rhythm.\n\nCentral White Plains\n\nWinbrook\n\nWinbrook is close to the center of the city and has long been one of White Plains' better-known residential areas.\n\nCentral White Plains\n\nGateway\n\nGateway lives up to its name as the stretch between the city center and the residential neighborhoods around it.\n\nWest Side and Near-Downtown Neighborhoods\n\nResidential areas west of the center, plus nearby blocks that stay closely tied to Downtown.\n\nWest Side and Near-Downtown Neighborhoods\n\nBattle Hill\n\nBattle Hill is one of the city's signature historic neighborhoods: the 1776 Battle of White Plains took place largely here and on nearby Dusenbury Hill.\n\nWest Side and Near-Downtown Neighborhoods\n\nFisher Hill\n\nFisher Hill is a small, clearly defined residential pocket near the center of White Plains.\n\nWest Side and Near-Downtown Neighborhoods\n\nHighlands\n\nHighlands is one of the more recognizable close-in residential neighborhoods in White Plains.\n\nWest Side and Near-Downtown Neighborhoods\n\nFulton Street"
+    },
+    {
+      "id": "page:/neighborhoods/battle-hill/",
+      "sourceId": "page:/neighborhoods/battle-hill/",
+      "title": "Battle Hill",
+      "url": "/neighborhoods/battle-hill/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Battle Hill, part of West Side and Near-Downtown Neighborhoods.",
+      "text": "Learn about Battle Hill, part of West Side and Near-Downtown Neighborhoods.\n\nWest Side and Near-Downtown Neighborhoods\n\nBattle Hill\n\nBattle Hill is one of the city's signature historic neighborhoods: the 1776 Battle of White Plains took place largely here and on nearby Dusenbury Hill.\n\nCaptJayRuffins via Wikimedia Commons Source CC BY-SA 4.0\n\nLocal feel\n\nToday it is a settled residential area on higher ground, with a strong local identity and a little more history than most parts of the city.\n\nIn the wider picture\n\nResidential areas west of the center, plus nearby blocks that stay closely tied to Downtown.\n\nThis part of White Plains sits close to the center while keeping a more residential feel, especially on the west side and the blocks just beyond Downtown.\n\nOn the map\n\nBattle Hill shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nBattle Hill\n\nSection\n\nWest Side and Near-Downtown Neighborhoods\n\nLocal anchors\n\nBattle of White Plains, Dusenbury Hill\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nFisher Hill\n\nHighlands\n\nFulton Street\n\nFerris Avenue"
+    },
+    {
+      "id": "page:/neighborhoods/bronx-river/",
+      "sourceId": "page:/neighborhoods/bronx-river/",
+      "title": "Bronx River",
+      "url": "/neighborhoods/bronx-river/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Bronx River, part of West Side and Near-Downtown Neighborhoods.",
+      "text": "Learn about Bronx River, part of West Side and Near-Downtown Neighborhoods.\n\nWest Side and Near-Downtown Neighborhoods\n\nBronx River\n\nBronx River is a narrow edge neighborhood along the western side of White Plains.\n\nGilmore D. Clarke via Wikimedia Commons Source Public domain\n\nLocal feel\n\nIts position gives it a tucked-along-the-corridor feel, with easy access to central White Plains while still feeling a little set apart.\n\nIn the wider picture\n\nResidential areas west of the center, plus nearby blocks that stay closely tied to Downtown.\n\nThis part of White Plains sits close to the center while keeping a more residential feel, especially on the west side and the blocks just beyond Downtown.\n\nOn the map\n\nBronx River shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nBronx River\n\nSection\n\nWest Side and Near-Downtown Neighborhoods\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nBattle Hill\n\nFisher Hill\n\nHighlands\n\nFulton Street"
+    },
+    {
+      "id": "page:/neighborhoods/brook-hills/",
+      "sourceId": "page:/neighborhoods/brook-hills/",
+      "title": "Brook Hills",
+      "url": "/neighborhoods/brook-hills/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Brook Hills, part of Gedney and the South Side.",
+      "text": "Learn about Brook Hills, part of Gedney and the South Side.\n\nGedney and the South Side\n\nBrook Hills\n\nBrook Hills is a small southeastern pocket that feels compact and residential.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIts setting near the lower edge of the city gives it a bit of separation, while the neighborhood itself reads as neat and self-contained.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nBrook Hills shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nBrook Hills\n\nSection\n\nGedney and the South Side\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Farms\n\nGedney Circle\n\nGedney Commons"
+    },
+    {
+      "id": "page:/neighborhoods/bryant-gardens/",
+      "sourceId": "page:/neighborhoods/bryant-gardens/",
+      "title": "Bryant Gardens",
+      "url": "/neighborhoods/bryant-gardens/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Bryant Gardens, part of East Side and Institutional Anchors.",
+      "text": "Learn about Bryant Gardens, part of East Side and Institutional Anchors.\n\nEast Side and Institutional Anchors\n\nBryant Gardens\n\nBryant Gardens is best known for the garden-style cooperative community built there in the early 1950s, with landscaped grounds and a strong sense of internal identity.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nThe name still carries that orderly, residential feel, and it remains one of the more recognizable small-scale neighborhoods in White Plains.\n\nIn the wider picture\n\nEast-side neighborhoods shaped by longtime roads, campuses, and landmark institutions.\n\nThis part of White Plains is shaped by long-established roads, campuses, and institutions alongside residential neighborhoods.\n\nOn the map\n\nBryant Gardens shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nBryant Gardens\n\nSection\n\nEast Side and Institutional Anchors\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nOld Mamaroneck Road\n\nKirkbride Asylum\n\nBurke Institute\n\nHavilands Manor"
+    },
+    {
+      "id": "page:/neighborhoods/burke-institute/",
+      "sourceId": "page:/neighborhoods/burke-institute/",
+      "title": "Burke Institute",
+      "url": "/neighborhoods/burke-institute/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Burke Institute, part of East Side and Institutional Anchors.",
+      "text": "Learn about Burke Institute, part of East Side and Institutional Anchors.\n\nEast Side and Institutional Anchors\n\nBurke Institute\n\nBurke Institute is anchored by the Burke campus on Mamaroneck Avenue, whose rehabilitation hospital opened in 1915.\n\nBoston Public Library via Wikimedia Commons Source CC BY 2.0\n\nLocal feel\n\nThat longstanding institution gives the area a clear identity and a campus-like feel within the larger residential section around it.\n\nIn the wider picture\n\nEast-side neighborhoods shaped by longtime roads, campuses, and landmark institutions.\n\nThis part of White Plains is shaped by long-established roads, campuses, and institutions alongside residential neighborhoods.\n\nOn the map\n\nBurke Institute shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nBurke Institute\n\nSection\n\nEast Side and Institutional Anchors\n\nLocal anchors\n\nMamaroneck Avenue, Burke campus\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nOld Mamaroneck Road\n\nKirkbride Asylum\n\nBryant Gardens\n\nHavilands Manor"
+    },
+    {
+      "id": "page:/neighborhoods/church-street/",
+      "sourceId": "page:/neighborhoods/church-street/",
+      "title": "Church Street",
+      "url": "/neighborhoods/church-street/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Church Street, part of Central White Plains.",
+      "text": "Learn about Church Street, part of Central White Plains.\n\nCentral White Plains\n\nChurch Street\n\nChurch Street sits just off Downtown and shares much of its convenience, but at a slightly calmer scale.\n\nPaul Sableman via Wikimedia Commons Source CC BY 2.0\n\nLocal feel\n\nThe mix of apartment buildings, smaller residential blocks, and longtime local institutions gives it a central location with a more settled feel.\n\nIn the wider picture\n\nThe city's core, where Downtown, civic buildings, transit, and close-in residential blocks meet.\n\nThis part of White Plains is where the city feels most concentrated, with public buildings, major streets, and close-in residential blocks all close together.\n\nOn the map\n\nChurch Street shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nChurch Street\n\nSection\n\nCentral White Plains\n\nLocal anchors\n\nDowntown\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nDowntown\n\nGovernment Center\n\nHealth Center\n\nWinbrook"
+    },
+    {
+      "id": "page:/neighborhoods/colonial-corners/",
+      "sourceId": "page:/neighborhoods/colonial-corners/",
+      "title": "Colonial Corners",
+      "url": "/neighborhoods/colonial-corners/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Colonial Corners, part of Gedney and the South Side.",
+      "text": "Learn about Colonial Corners, part of Gedney and the South Side.\n\nGedney and the South Side\n\nColonial Corners\n\nColonial Corners is a compact residential section near the southern middle of the city.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt feels traditional and familiar, with a straightforward neighborhood presence that fits naturally among the Gedney areas.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nColonial Corners shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nColonial Corners\n\nSection\n\nGedney and the South Side\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Farms\n\nGedney Circle\n\nGedney Commons"
+    },
+    {
+      "id": "page:/neighborhoods/downtown/",
+      "sourceId": "page:/neighborhoods/downtown/",
+      "title": "Downtown",
+      "url": "/neighborhoods/downtown/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Downtown, part of Central White Plains.",
+      "text": "Learn about Downtown, part of Central White Plains.\n\nCentral White Plains\n\nDowntown\n\nDowntown is the most walkable and built-up part of White Plains, centered on the Metro-North station, Mamaroneck Avenue, restaurants, shopping, and a growing collection of newer apartment buildings.\n\nPaul Sableman via Wikimedia Commons Source CC BY 2.0\n\nLocal feel\n\nIt has the most day-to-night energy in the city and the strongest sense of White Plains as a compact urban center.\n\nIn the wider picture\n\nThe city's core, where Downtown, civic buildings, transit, and close-in residential blocks meet.\n\nThis part of White Plains is where the city feels most concentrated, with public buildings, major streets, and close-in residential blocks all close together.\n\nOn the map\n\nDowntown shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nDowntown\n\nSection\n\nCentral White Plains\n\nLocal anchors\n\nMetro-North station, Mamaroneck Avenue\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nChurch Street\n\nGovernment Center\n\nHealth Center\n\nWinbrook"
+    },
+    {
+      "id": "page:/neighborhoods/eastview/",
+      "sourceId": "page:/neighborhoods/eastview/",
+      "title": "Eastview",
+      "url": "/neighborhoods/eastview/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Eastview, part of North and Northeast.",
+      "text": "Learn about Eastview, part of North and Northeast.\n\nNorth and Northeast\n\nEastview\n\nEastview sits east of Downtown and works as one of the city's steady residential neighborhoods.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt has a practical, everyday feel, with a location that keeps the center of White Plains and the eastern side of town close by.\n\nIn the wider picture\n\nNeighborhoods north and east of the center, ranging from prominent corridors to quieter hillside pockets.\n\nThis part of White Plains stretches north and northeast from the center, mixing major corridors with quieter hillside and residential areas.\n\nOn the map\n\nEastview shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nEastview\n\nSection\n\nNorth and Northeast\n\nLocal anchors\n\nDowntown\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nNorth Broadway\n\nGood Counsel\n\nWestminster Ridge\n\nWoodcrest Heights"
+    },
+    {
+      "id": "page:/neighborhoods/ferris-avenue/",
+      "sourceId": "page:/neighborhoods/ferris-avenue/",
+      "title": "Ferris Avenue",
+      "url": "/neighborhoods/ferris-avenue/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Ferris Avenue, part of West Side and Near-Downtown Neighborhoods.",
+      "text": "Learn about Ferris Avenue, part of West Side and Near-Downtown Neighborhoods.\n\nWest Side and Near-Downtown Neighborhoods\n\nFerris Avenue\n\nFerris Avenue follows one of the city's main north-south routes and feels closely tied to the surrounding west side.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nThe area mixes housing with local activity, and its main draw is how easily it links Battle Hill, Downtown, and the neighborhoods to the north.\n\nIn the wider picture\n\nResidential areas west of the center, plus nearby blocks that stay closely tied to Downtown.\n\nThis part of White Plains sits close to the center while keeping a more residential feel, especially on the west side and the blocks just beyond Downtown.\n\nOn the map\n\nFerris Avenue shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nFerris Avenue\n\nSection\n\nWest Side and Near-Downtown Neighborhoods\n\nLocal anchors\n\nDowntown\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nBattle Hill\n\nFisher Hill\n\nHighlands\n\nFulton Street"
+    },
+    {
+      "id": "page:/neighborhoods/fisher-hill/",
+      "sourceId": "page:/neighborhoods/fisher-hill/",
+      "title": "Fisher Hill",
+      "url": "/neighborhoods/fisher-hill/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Fisher Hill, part of West Side and Near-Downtown Neighborhoods.",
+      "text": "Learn about Fisher Hill, part of West Side and Near-Downtown Neighborhoods.\n\nWest Side and Near-Downtown Neighborhoods\n\nFisher Hill\n\nFisher Hill is a small, clearly defined residential pocket near the center of White Plains.\n\nWPCNA Source Site photo\n\nLocal feel\n\nIt has a compact, established feel, with the kind of older homes and quieter streets that give a neighborhood a shape of its own.\n\nIn the wider picture\n\nResidential areas west of the center, plus nearby blocks that stay closely tied to Downtown.\n\nThis part of White Plains sits close to the center while keeping a more residential feel, especially on the west side and the blocks just beyond Downtown.\n\nOn the map\n\nFisher Hill shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nFisher Hill\n\nSection\n\nWest Side and Near-Downtown Neighborhoods\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nBattle Hill\n\nHighlands\n\nFulton Street\n\nFerris Avenue"
+    },
+    {
+      "id": "page:/neighborhoods/fulton-street/",
+      "sourceId": "page:/neighborhoods/fulton-street/",
+      "title": "Fulton Street",
+      "url": "/neighborhoods/fulton-street/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Fulton Street, part of West Side and Near-Downtown Neighborhoods.",
+      "text": "Learn about Fulton Street, part of West Side and Near-Downtown Neighborhoods.\n\nWest Side and Near-Downtown Neighborhoods\n\nFulton Street\n\nFulton Street is a smaller west-side neighborhood with a long-standing residential feel.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt is shaped more by familiar blocks and older housing than by large new development, which gives it a straightforward and established character.\n\nIn the wider picture\n\nResidential areas west of the center, plus nearby blocks that stay closely tied to Downtown.\n\nThis part of White Plains sits close to the center while keeping a more residential feel, especially on the west side and the blocks just beyond Downtown.\n\nOn the map\n\nFulton Street shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nFulton Street\n\nSection\n\nWest Side and Near-Downtown Neighborhoods\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nBattle Hill\n\nFisher Hill\n\nHighlands\n\nFerris Avenue"
+    },
+    {
+      "id": "page:/neighborhoods/gateway/",
+      "sourceId": "page:/neighborhoods/gateway/",
+      "title": "Gateway",
+      "url": "/neighborhoods/gateway/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Gateway, part of Central White Plains.",
+      "text": "Learn about Gateway, part of Central White Plains.\n\nCentral White Plains\n\nGateway\n\nGateway lives up to its name as the stretch between the city center and the residential neighborhoods around it.\n\nMetropolitan Transportation Authority via Wikimedia Commons Source CC BY 2.0\n\nLocal feel\n\nIt feels connected and convenient, with a little breathing room from the busiest blocks while still staying close to them.\n\nIn the wider picture\n\nThe city's core, where Downtown, civic buildings, transit, and close-in residential blocks meet.\n\nThis part of White Plains is where the city feels most concentrated, with public buildings, major streets, and close-in residential blocks all close together.\n\nOn the map\n\nGateway shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nGateway\n\nSection\n\nCentral White Plains\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nDowntown\n\nChurch Street\n\nGovernment Center\n\nHealth Center"
+    },
+    {
+      "id": "page:/neighborhoods/gedney-circle/",
+      "sourceId": "page:/neighborhoods/gedney-circle/",
+      "title": "Gedney Circle",
+      "url": "/neighborhoods/gedney-circle/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Gedney Circle, part of Gedney and the South Side.",
+      "text": "Learn about Gedney Circle, part of Gedney and the South Side.\n\nGedney and the South Side\n\nGedney Circle\n\nGedney Circle is small enough to feel like an enclave, which is part of its appeal.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nThe name suggests a clearly defined pocket within the larger Gedney area, with a residential tone and a strong sense of place.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nGedney Circle shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nGedney Circle\n\nSection\n\nGedney and the South Side\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Farms\n\nGedney Commons\n\nGedney Manor"
+    },
+    {
+      "id": "page:/neighborhoods/gedney-commons/",
+      "sourceId": "page:/neighborhoods/gedney-commons/",
+      "title": "Gedney Commons",
+      "url": "/neighborhoods/gedney-commons/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Gedney Commons, part of Gedney and the South Side.",
+      "text": "Learn about Gedney Commons, part of Gedney and the South Side.\n\nGedney and the South Side\n\nGedney Commons\n\nGedney Commons is one of the smaller Gedney sections, compact and closely tied to its surrounding streets.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt feels approachable and neighborhood-scaled, with the established look that runs through much of the south side.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nGedney Commons shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nGedney Commons\n\nSection\n\nGedney and the South Side\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Farms\n\nGedney Circle\n\nGedney Manor"
+    },
+    {
+      "id": "page:/neighborhoods/gedney-farms/",
+      "sourceId": "page:/neighborhoods/gedney-farms/",
+      "title": "Gedney Farms",
+      "url": "/neighborhoods/gedney-farms/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Gedney Farms, part of Gedney and the South Side.",
+      "text": "Learn about Gedney Farms, part of Gedney and the South Side.\n\nGedney and the South Side\n\nGedney Farms\n\nGedney Farms is one of the classic residential names in White Plains, with roots that trace back to the 1700s and a neighborhood association now marking its 100th year.\n\nJohn Rösch, \"Picturesque White Plains\" (1902), via Internet Archive Source Public domain\n\nLocal feel\n\nIt is known for quiet, tree-lined streets, larger homes, and the kind of traditional character that has made it one of the city's most established addresses.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nGedney Farms shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nGedney Farms\n\nSection\n\nGedney and the South Side\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Circle\n\nGedney Commons\n\nGedney Manor"
+    },
+    {
+      "id": "page:/neighborhoods/gedney-manor/",
+      "sourceId": "page:/neighborhoods/gedney-manor/",
+      "title": "Gedney Manor",
+      "url": "/neighborhoods/gedney-manor/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Gedney Manor, part of Gedney and the South Side.",
+      "text": "Learn about Gedney Manor, part of Gedney and the South Side.\n\nGedney and the South Side\n\nGedney Manor\n\nGedney Manor has a steady, settled feel and sits close to several of the other Gedney neighborhoods.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt reads as residential and long established, with a quieter tone than the city center.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nGedney Manor shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nGedney Manor\n\nSection\n\nGedney and the South Side\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Farms\n\nGedney Circle\n\nGedney Commons"
+    },
+    {
+      "id": "page:/neighborhoods/gedney-meadows/",
+      "sourceId": "page:/neighborhoods/gedney-meadows/",
+      "title": "Gedney Meadows",
+      "url": "/neighborhoods/gedney-meadows/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Gedney Meadows, part of Gedney and the South Side.",
+      "text": "Learn about Gedney Meadows, part of Gedney and the South Side.\n\nGedney and the South Side\n\nGedney Meadows\n\nGedney Meadows has a softer, more tucked-away feel than some of the busier south-side corridors.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nThe area comes across as calm and residential, with a name that fits its gentler character.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nGedney Meadows shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nGedney Meadows\n\nSection\n\nGedney and the South Side\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Farms\n\nGedney Circle\n\nGedney Commons"
+    },
+    {
+      "id": "page:/neighborhoods/gedney-park/",
+      "sourceId": "page:/neighborhoods/gedney-park/",
+      "title": "Gedney Park",
+      "url": "/neighborhoods/gedney-park/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Gedney Park, part of Gedney and the South Side.",
+      "text": "Learn about Gedney Park, part of Gedney and the South Side.\n\nGedney and the South Side\n\nGedney Park\n\nGedney Park sits between the Old Mamaroneck Road corridor and the larger Gedney neighborhoods around it.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt feels central within the south side of White Plains, with a settled residential character and easy connections in several directions.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nGedney Park shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nGedney Park\n\nSection\n\nGedney and the South Side\n\nLocal anchors\n\nOld Mamaroneck Road\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Farms\n\nGedney Circle\n\nGedney Commons\n\nGedney Manor"
+    },
+    {
+      "id": "page:/neighborhoods/good-counsel/",
+      "sourceId": "page:/neighborhoods/good-counsel/",
+      "title": "Good Counsel",
+      "url": "/neighborhoods/good-counsel/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Good Counsel, part of North and Northeast.",
+      "text": "Learn about Good Counsel, part of North and Northeast.\n\nNorth and Northeast\n\nGood Counsel\n\nGood Counsel takes much of its identity from the Good Counsel Complex on North Broadway, a White Plains landmark listed on the State and National Registers of Historic Places.\n\nMagicpiano via Wikimedia Commons Source CC BY-SA 4.0\n\nLocal feel\n\nThat historic campus gives the area a distinctive look and a sense of permanence that sets it apart from the tighter street grid closer to Downtown.\n\nIn the wider picture\n\nNeighborhoods north and east of the center, ranging from prominent corridors to quieter hillside pockets.\n\nThis part of White Plains stretches north and northeast from the center, mixing major corridors with quieter hillside and residential areas.\n\nOn the map\n\nGood Counsel shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nGood Counsel\n\nSection\n\nNorth and Northeast\n\nLocal anchors\n\nNorth Broadway, Good Counsel Complex, Downtown\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nNorth Broadway\n\nWestminster Ridge\n\nWoodcrest Heights\n\nWhite Plains Reservoir"
+    },
+    {
+      "id": "page:/neighborhoods/government-center/",
+      "sourceId": "page:/neighborhoods/government-center/",
+      "title": "Government Center",
+      "url": "/neighborhoods/government-center/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Government Center, part of Central White Plains.",
+      "text": "Learn about Government Center, part of Central White Plains.\n\nCentral White Plains\n\nGovernment Center\n\nGovernment Center is one of the most central parts of White Plains and gives the surrounding streets an established, civic feel.\n\najay_suresh via Wikimedia Commons Source CC BY 2.0\n\nLocal feel\n\nIt is easy to place on the map and easy to move through, with Downtown and several nearby neighborhoods close by.\n\nIn the wider picture\n\nThe city's core, where Downtown, civic buildings, transit, and close-in residential blocks meet.\n\nThis part of White Plains is where the city feels most concentrated, with public buildings, major streets, and close-in residential blocks all close together.\n\nOn the map\n\nGovernment Center shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nGovernment Center\n\nSection\n\nCentral White Plains\n\nLocal anchors\n\nDowntown\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nDowntown\n\nChurch Street\n\nHealth Center\n\nWinbrook"
+    },
+    {
+      "id": "page:/neighborhoods/havilands-manor/",
+      "sourceId": "page:/neighborhoods/havilands-manor/",
+      "title": "Havilands Manor",
+      "url": "/neighborhoods/havilands-manor/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Havilands Manor, part of East Side and Institutional Anchors.",
+      "text": "Learn about Havilands Manor, part of East Side and Institutional Anchors.\n\nEast Side and Institutional Anchors\n\nHavilands Manor\n\nHavilands Manor has a tucked-in east-side setting and a polished residential feel.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt comes across as quiet, well established, and a little removed from the busiest parts of White Plains in a way that gives it its own character.\n\nIn the wider picture\n\nEast-side neighborhoods shaped by longtime roads, campuses, and landmark institutions.\n\nThis part of White Plains is shaped by long-established roads, campuses, and institutions alongside residential neighborhoods.\n\nOn the map\n\nHavilands Manor shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nHavilands Manor\n\nSection\n\nEast Side and Institutional Anchors\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nOld Mamaroneck Road\n\nKirkbride Asylum\n\nBryant Gardens\n\nBurke Institute"
+    },
+    {
+      "id": "page:/neighborhoods/health-center/",
+      "sourceId": "page:/neighborhoods/health-center/",
+      "title": "Health Center",
+      "url": "/neighborhoods/health-center/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Health Center, part of Central White Plains.",
+      "text": "Learn about Health Center, part of Central White Plains.\n\nCentral White Plains\n\nHealth Center\n\nHealth Center is shaped by White Plains Hospital and the medical offices around it, which gives the area a familiar, everyday rhythm.\n\nJim.henderson via Wikimedia Commons Source CC BY 3.0\n\nLocal feel\n\nIt feels central, active, and well connected, with Downtown and nearby residential streets close at hand.\n\nIn the wider picture\n\nThe city's core, where Downtown, civic buildings, transit, and close-in residential blocks meet.\n\nThis part of White Plains is where the city feels most concentrated, with public buildings, major streets, and close-in residential blocks all close together.\n\nOn the map\n\nHealth Center shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nHealth Center\n\nSection\n\nCentral White Plains\n\nLocal anchors\n\nWhite Plains Hospital, Downtown\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nDowntown\n\nChurch Street\n\nGovernment Center\n\nWinbrook"
+    },
+    {
+      "id": "page:/neighborhoods/highlands/",
+      "sourceId": "page:/neighborhoods/highlands/",
+      "title": "Highlands",
+      "url": "/neighborhoods/highlands/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Highlands, part of West Side and Near-Downtown Neighborhoods.",
+      "text": "Learn about Highlands, part of West Side and Near-Downtown Neighborhoods.\n\nWest Side and Near-Downtown Neighborhoods\n\nHighlands\n\nHighlands is one of the more recognizable close-in residential neighborhoods in White Plains.\n\nJohn Rösch, \"Picturesque White Plains\" (1902), via Internet Archive Source Public domain\n\nLocal feel\n\nIt offers a steady mix of houses, apartment buildings, and local streets, with a mature, lived-in character that keeps it feeling grounded even so close to Downtown.\n\nIn the wider picture\n\nResidential areas west of the center, plus nearby blocks that stay closely tied to Downtown.\n\nThis part of White Plains sits close to the center while keeping a more residential feel, especially on the west side and the blocks just beyond Downtown.\n\nOn the map\n\nHighlands shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nHighlands\n\nSection\n\nWest Side and Near-Downtown Neighborhoods\n\nLocal anchors\n\nDowntown\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nBattle Hill\n\nFisher Hill\n\nFulton Street\n\nFerris Avenue"
+    },
+    {
+      "id": "page:/neighborhoods/hillair-circle/",
+      "sourceId": "page:/neighborhoods/hillair-circle/",
+      "title": "Hillair Circle",
+      "url": "/neighborhoods/hillair-circle/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Hillair Circle, part of Gedney and the South Side.",
+      "text": "Learn about Hillair Circle, part of Gedney and the South Side.\n\nGedney and the South Side\n\nHillair Circle\n\nHillair Circle is one of the more clearly enclosed-feeling neighborhoods on the map.\n\nJohn Rösch, \"Picturesque White Plains\" (1902), via Internet Archive Source Public domain\n\nLocal feel\n\nThat small scale gives it a private, neighborhood-first character that stands out in a city with many larger, looser districts.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nHillair Circle shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nHillair Circle\n\nSection\n\nGedney and the South Side\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Farms\n\nGedney Circle\n\nGedney Commons"
+    },
+    {
+      "id": "page:/neighborhoods/holbrooke/",
+      "sourceId": "page:/neighborhoods/holbrooke/",
+      "title": "Holbrooke",
+      "url": "/neighborhoods/holbrooke/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Holbrooke, part of Gedney and the South Side.",
+      "text": "Learn about Holbrooke, part of Gedney and the South Side.\n\nGedney and the South Side\n\nHolbrooke\n\nHolbrooke sits among several south-side neighborhoods and feels modest, established, and local.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt is the kind of small residential section that tends to come into focus once someone starts learning the White Plains map.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nHolbrooke shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nHolbrooke\n\nSection\n\nGedney and the South Side\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Farms\n\nGedney Circle\n\nGedney Commons"
+    },
+    {
+      "id": "page:/neighborhoods/idle-forest/",
+      "sourceId": "page:/neighborhoods/idle-forest/",
+      "title": "Idle Forest",
+      "url": "/neighborhoods/idle-forest/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Idle Forest, part of Gedney and the South Side.",
+      "text": "Learn about Idle Forest, part of Gedney and the South Side.\n\nGedney and the South Side\n\nIdle Forest\n\nIdle Forest is one of the quieter-sounding names on the map, and the area matches that impression.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt feels tucked in and residential, with a softer, lower-profile presence than some of the more prominent White Plains neighborhoods.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nIdle Forest shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nIdle Forest\n\nSection\n\nGedney and the South Side\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Farms\n\nGedney Circle\n\nGedney Commons"
+    },
+    {
+      "id": "page:/neighborhoods/kirkbride-asylum/",
+      "sourceId": "page:/neighborhoods/kirkbride-asylum/",
+      "title": "Kirkbride Asylum",
+      "url": "/neighborhoods/kirkbride-asylum/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Kirkbride Asylum, part of East Side and Institutional Anchors.",
+      "text": "Learn about Kirkbride Asylum, part of East Side and Institutional Anchors.\n\nEast Side and Institutional Anchors\n\nKirkbride Asylum\n\nKirkbride Asylum has one of the most distinctive names on the map, and the area carries a sense of older institutional history and larger grounds.\n\nJohn Rösch, \"Picturesque White Plains\" (1902), via Internet Archive Source Public domain\n\nLocal feel\n\nIt feels different from the tighter city blocks nearby, with a more open layout and a character shaped by place as much as by housing.\n\nIn the wider picture\n\nEast-side neighborhoods shaped by longtime roads, campuses, and landmark institutions.\n\nThis part of White Plains is shaped by long-established roads, campuses, and institutions alongside residential neighborhoods.\n\nOn the map\n\nKirkbride Asylum shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nKirkbride Asylum\n\nSection\n\nEast Side and Institutional Anchors\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nOld Mamaroneck Road\n\nBryant Gardens\n\nBurke Institute\n\nHavilands Manor"
+    },
+    {
+      "id": "page:/neighborhoods/north-broadway/",
+      "sourceId": "page:/neighborhoods/north-broadway/",
+      "title": "North Broadway",
+      "url": "/neighborhoods/north-broadway/",
+      "type": "neighborhood",
+      "excerpt": "Learn about North Broadway, part of North and Northeast.",
+      "text": "Learn about North Broadway, part of North and Northeast.\n\nNorth and Northeast\n\nNorth Broadway\n\nNorth Broadway has one of the most recognizable addresses in White Plains, combining a main route through the city with long-established residential stretches.\n\nMr. Matté via Wikimedia Commons Source CC BY-SA 4.0\n\nLocal feel\n\nIt feels prominent without feeling overly busy, and it carries some of the north side's older character.\n\nIn the wider picture\n\nNeighborhoods north and east of the center, ranging from prominent corridors to quieter hillside pockets.\n\nThis part of White Plains stretches north and northeast from the center, mixing major corridors with quieter hillside and residential areas.\n\nOn the map\n\nNorth Broadway shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nNorth Broadway\n\nSection\n\nNorth and Northeast\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGood Counsel\n\nWestminster Ridge\n\nWoodcrest Heights\n\nWhite Plains Reservoir"
+    },
+    {
+      "id": "page:/neighborhoods/north-street/",
+      "sourceId": "page:/neighborhoods/north-street/",
+      "title": "North Street",
+      "url": "/neighborhoods/north-street/",
+      "type": "neighborhood",
+      "excerpt": "Learn about North Street, part of East Side and Institutional Anchors.",
+      "text": "Learn about North Street, part of East Side and Institutional Anchors.\n\nEast Side and Institutional Anchors\n\nNorth Street\n\nNorth Street covers a broad stretch of the east and southeast side and is one of the roomier-feeling sections of White Plains.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nParts of it are known for larger homes and longer blocks, and the overall impression is residential, established, and spacious.\n\nIn the wider picture\n\nEast-side neighborhoods shaped by longtime roads, campuses, and landmark institutions.\n\nThis part of White Plains is shaped by long-established roads, campuses, and institutions alongside residential neighborhoods.\n\nOn the map\n\nNorth Street shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nNorth Street\n\nSection\n\nEast Side and Institutional Anchors\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nOld Mamaroneck Road\n\nKirkbride Asylum\n\nBryant Gardens\n\nBurke Institute"
+    },
+    {
+      "id": "page:/neighborhoods/old-mamaroneck-road/",
+      "sourceId": "page:/neighborhoods/old-mamaroneck-road/",
+      "title": "Old Mamaroneck Road",
+      "url": "/neighborhoods/old-mamaroneck-road/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Old Mamaroneck Road, part of East Side and Institutional Anchors.",
+      "text": "Learn about Old Mamaroneck Road, part of East Side and Institutional Anchors.\n\nEast Side and Institutional Anchors\n\nOld Mamaroneck Road\n\nOld Mamaroneck Road feels defined by one of the city's long-running routes.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt sits in a useful middle ground between central White Plains and the southeastern residential areas, with a familiar, well-established neighborhood feel.\n\nIn the wider picture\n\nEast-side neighborhoods shaped by longtime roads, campuses, and landmark institutions.\n\nThis part of White Plains is shaped by long-established roads, campuses, and institutions alongside residential neighborhoods.\n\nOn the map\n\nOld Mamaroneck Road shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nOld Mamaroneck Road\n\nSection\n\nEast Side and Institutional Anchors\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nKirkbride Asylum\n\nBryant Gardens\n\nBurke Institute\n\nHavilands Manor"
+    },
+    {
+      "id": "page:/neighborhoods/old-oak-ridge/",
+      "sourceId": "page:/neighborhoods/old-oak-ridge/",
+      "title": "Old Oak Ridge",
+      "url": "/neighborhoods/old-oak-ridge/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Old Oak Ridge, part of North and Northeast.",
+      "text": "Learn about Old Oak Ridge, part of North and Northeast.\n\nNorth and Northeast\n\nOld Oak Ridge\n\nOld Oak Ridge is a small east-side pocket with a tucked-in, private feel.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt reads as residential and somewhat apart from the busier blocks closer to the core, while still staying well placed for getting around.\n\nIn the wider picture\n\nNeighborhoods north and east of the center, ranging from prominent corridors to quieter hillside pockets.\n\nThis part of White Plains stretches north and northeast from the center, mixing major corridors with quieter hillside and residential areas.\n\nOn the map\n\nOld Oak Ridge shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nOld Oak Ridge\n\nSection\n\nNorth and Northeast\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nNorth Broadway\n\nGood Counsel\n\nWestminster Ridge\n\nWoodcrest Heights"
+    },
+    {
+      "id": "page:/neighborhoods/prospect-park/",
+      "sourceId": "page:/neighborhoods/prospect-park/",
+      "title": "Prospect Park",
+      "url": "/neighborhoods/prospect-park/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Prospect Park, part of West Side and Near-Downtown Neighborhoods.",
+      "text": "Learn about Prospect Park, part of West Side and Near-Downtown Neighborhoods.\n\nWest Side and Near-Downtown Neighborhoods\n\nProspect Park\n\nProspect Park is a small southwest pocket with a calm, local feel.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt sits between busier parts of the city, but the neighborhood itself reads as modest, residential, and easygoing.\n\nIn the wider picture\n\nResidential areas west of the center, plus nearby blocks that stay closely tied to Downtown.\n\nThis part of White Plains sits close to the center while keeping a more residential feel, especially on the west side and the blocks just beyond Downtown.\n\nOn the map\n\nProspect Park shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nProspect Park\n\nSection\n\nWest Side and Near-Downtown Neighborhoods\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nBattle Hill\n\nFisher Hill\n\nHighlands\n\nFulton Street"
+    },
+    {
+      "id": "page:/neighborhoods/reynal-park/",
+      "sourceId": "page:/neighborhoods/reynal-park/",
+      "title": "Reynal Park",
+      "url": "/neighborhoods/reynal-park/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Reynal Park, part of Gedney and the South Side.",
+      "text": "Learn about Reynal Park, part of Gedney and the South Side.\n\nGedney and the South Side\n\nReynal Park\n\nReynal Park is a small neighborhood with a distinctly local feel.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nThe name gives it a bit of identity of its own, and the area reads as calm, residential, and tucked into the south side.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nReynal Park shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nReynal Park\n\nSection\n\nGedney and the South Side\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Farms\n\nGedney Circle\n\nGedney Commons"
+    },
+    {
+      "id": "page:/neighborhoods/rocky-dell/",
+      "sourceId": "page:/neighborhoods/rocky-dell/",
+      "title": "Rocky Dell",
+      "url": "/neighborhoods/rocky-dell/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Rocky Dell, part of Gedney and the South Side.",
+      "text": "Learn about Rocky Dell, part of Gedney and the South Side.\n\nGedney and the South Side\n\nRocky Dell\n\nRocky Dell is a tucked-away south-side neighborhood with a slightly more hidden feel.\n\nJohn Rösch, \"Picturesque White Plains\" (1902), via Internet Archive Source Public domain\n\nLocal feel\n\nIts smaller footprint and position near the edge of the city give it a quiet, off-the-main-route quality.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nRocky Dell shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nRocky Dell\n\nSection\n\nGedney and the South Side\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Farms\n\nGedney Circle\n\nGedney Commons"
+    },
+    {
+      "id": "page:/neighborhoods/rosedale/",
+      "sourceId": "page:/neighborhoods/rosedale/",
+      "title": "Rosedale",
+      "url": "/neighborhoods/rosedale/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Rosedale, part of Gedney and the South Side.",
+      "text": "Learn about Rosedale, part of Gedney and the South Side.\n\nGedney and the South Side\n\nRosedale\n\nRosedale is one of the larger and better-known southern neighborhoods in White Plains.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt feels residential, green, and well established, with a calmer pace and a strong sense of continuity from block to block.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nRosedale shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nRosedale\n\nSection\n\nGedney and the South Side\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Farms\n\nGedney Circle\n\nGedney Commons"
+    },
+    {
+      "id": "page:/neighborhoods/saxon-woods/",
+      "sourceId": "page:/neighborhoods/saxon-woods/",
+      "title": "Saxon Woods",
+      "url": "/neighborhoods/saxon-woods/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Saxon Woods, part of Gedney and the South Side.",
+      "text": "Learn about Saxon Woods, part of Gedney and the South Side.\n\nGedney and the South Side\n\nSaxon Woods\n\nSaxon Woods sits at the southern edge of the city near Saxon Woods Park, whose golf course, trails, pool, and recreation areas give this part of White Plains a greener identity.\n\nGottscho-Schleisner Collection via Library of Congress and Wikimedia Commons Source Public domain\n\nLocal feel\n\nThe neighborhood feels more open than the center and carries some of the outdoors-oriented appeal of the park beside it.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nSaxon Woods shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nSaxon Woods\n\nSection\n\nGedney and the South Side\n\nLocal anchors\n\nSaxon Woods Park, golf course, recreation areas, trails, pool\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Farms\n\nGedney Circle\n\nGedney Commons"
+    },
+    {
+      "id": "page:/neighborhoods/soundview/",
+      "sourceId": "page:/neighborhoods/soundview/",
+      "title": "Soundview",
+      "url": "/neighborhoods/soundview/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Soundview, part of Gedney and the South Side.",
+      "text": "Learn about Soundview, part of Gedney and the South Side.\n\nGedney and the South Side\n\nSoundview\n\nSoundview is a long-established residential neighborhood on the southwest side of White Plains.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt has a plainspoken, lived-in feel and comes across as solid, familiar, and easy to understand.\n\nIn the wider picture\n\nThe south side of White Plains, including the Gedney neighborhoods and other established residential pockets.\n\nThis part of White Plains covers the Gedney area and the south side, where many neighborhoods feel greener, calmer, and more residential than the city center.\n\nOn the map\n\nSoundview shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nSoundview\n\nSection\n\nGedney and the South Side\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nGedney Park\n\nGedney Farms\n\nGedney Circle\n\nGedney Commons"
+    },
+    {
+      "id": "page:/neighborhoods/westchester-avenue/",
+      "sourceId": "page:/neighborhoods/westchester-avenue/",
+      "title": "Westchester Avenue",
+      "url": "/neighborhoods/westchester-avenue/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Westchester Avenue, part of North and Northeast.",
+      "text": "Learn about Westchester Avenue, part of North and Northeast.\n\nNorth and Northeast\n\nWestchester Avenue\n\nWestchester Avenue is shaped by one of White Plains' main east-west routes, so convenience is a big part of its identity.\n\nMr. Matté via Wikimedia Commons Source CC BY-SA 4.0\n\nLocal feel\n\nIt feels connected, visible, and easy to place, with quick links to the eastern neighborhoods and the center of the city.\n\nIn the wider picture\n\nNeighborhoods north and east of the center, ranging from prominent corridors to quieter hillside pockets.\n\nThis part of White Plains stretches north and northeast from the center, mixing major corridors with quieter hillside and residential areas.\n\nOn the map\n\nWestchester Avenue shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nWestchester Avenue\n\nSection\n\nNorth and Northeast\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nNorth Broadway\n\nGood Counsel\n\nWestminster Ridge\n\nWoodcrest Heights"
+    },
+    {
+      "id": "page:/neighborhoods/westminster-ridge/",
+      "sourceId": "page:/neighborhoods/westminster-ridge/",
+      "title": "Westminster Ridge",
+      "url": "/neighborhoods/westminster-ridge/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Westminster Ridge, part of North and Northeast.",
+      "text": "Learn about Westminster Ridge, part of North and Northeast.\n\nNorth and Northeast\n\nWestminster Ridge\n\nWestminster Ridge sits just north of the city center and has a quiet hillside feel.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nIt comes across as settled and residential, with a little separation from Downtown while still staying close to it.\n\nIn the wider picture\n\nNeighborhoods north and east of the center, ranging from prominent corridors to quieter hillside pockets.\n\nThis part of White Plains stretches north and northeast from the center, mixing major corridors with quieter hillside and residential areas.\n\nOn the map\n\nWestminster Ridge shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nWestminster Ridge\n\nSection\n\nNorth and Northeast\n\nLocal anchors\n\nDowntown\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nNorth Broadway\n\nGood Counsel\n\nWoodcrest Heights\n\nWhite Plains Reservoir"
+    },
+    {
+      "id": "page:/neighborhoods/white-plains-reservoir/",
+      "sourceId": "page:/neighborhoods/white-plains-reservoir/",
+      "title": "White Plains Reservoir",
+      "url": "/neighborhoods/white-plains-reservoir/",
+      "type": "neighborhood",
+      "excerpt": "Learn about White Plains Reservoir, part of North and Northeast.",
+      "text": "Learn about White Plains Reservoir, part of North and Northeast.\n\nNorth and Northeast\n\nWhite Plains Reservoir\n\nWhite Plains Reservoir occupies the far northern part of the map and feels more open than the middle of the city.\n\nJohn Rösch, \"Picturesque White Plains\" (1902), via Internet Archive Source Public domain\n\nLocal feel\n\nIts position gives it a sense of extra space and a more outlying, edge-of-town character.\n\nIn the wider picture\n\nNeighborhoods north and east of the center, ranging from prominent corridors to quieter hillside pockets.\n\nThis part of White Plains stretches north and northeast from the center, mixing major corridors with quieter hillside and residential areas.\n\nOn the map\n\nWhite Plains Reservoir shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nWhite Plains Reservoir\n\nSection\n\nNorth and Northeast\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nNorth Broadway\n\nGood Counsel\n\nWestminster Ridge\n\nWoodcrest Heights"
+    },
+    {
+      "id": "page:/neighborhoods/winbrook/",
+      "sourceId": "page:/neighborhoods/winbrook/",
+      "title": "Winbrook",
+      "url": "/neighborhoods/winbrook/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Winbrook, part of Central White Plains.",
+      "text": "Learn about Winbrook, part of Central White Plains.\n\nCentral White Plains\n\nWinbrook\n\nWinbrook is close to the center of the city and has long been one of White Plains' better-known residential areas.\n\nGottscho-Schleisner Collection via Library of Congress and Wikimedia Commons Source Public domain\n\nLocal feel\n\nThe Brookfield Commons redevelopment has added new affordable housing and community space, so the neighborhood now combines an established presence with visible new investment.\n\nIn the wider picture\n\nThe city's core, where Downtown, civic buildings, transit, and close-in residential blocks meet.\n\nThis part of White Plains is where the city feels most concentrated, with public buildings, major streets, and close-in residential blocks all close together.\n\nOn the map\n\nWinbrook shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nWinbrook\n\nSection\n\nCentral White Plains\n\nLocal anchors\n\nBrookfield Commons\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nDowntown\n\nChurch Street\n\nGovernment Center\n\nHealth Center"
+    },
+    {
+      "id": "page:/neighborhoods/woodcrest-heights/",
+      "sourceId": "page:/neighborhoods/woodcrest-heights/",
+      "title": "Woodcrest Heights",
+      "url": "/neighborhoods/woodcrest-heights/",
+      "type": "neighborhood",
+      "excerpt": "Learn about Woodcrest Heights, part of North and Northeast.",
+      "text": "Learn about Woodcrest Heights, part of North and Northeast.\n\nNorth and Northeast\n\nWoodcrest Heights\n\nWoodcrest Heights has a northeast setting that feels more tucked away than the city core.\n\nWPCNA Source Site illustration\n\nLocal feel\n\nThe name fits the area well: it reads as residential, slightly elevated, and a little quieter than the neighborhoods closer to the station.\n\nIn the wider picture\n\nNeighborhoods north and east of the center, ranging from prominent corridors to quieter hillside pockets.\n\nThis part of White Plains stretches north and northeast from the center, mixing major corridors with quieter hillside and residential areas.\n\nOn the map\n\nWoodcrest Heights shown on the White Plains neighborhood map. Open full map →\n\nAt a Glance\n\nNeighborhood\n\nWoodcrest Heights\n\nSection\n\nNorth and Northeast\n\nCity\n\nWhite Plains\n\nNearby\n\nNearby neighborhoods\n\nNorth Broadway\n\nGood Counsel\n\nWestminster Ridge\n\nWhite Plains Reservoir"
+    },
+    {
+      "id": "page:/posting/",
+      "sourceId": "page:/posting/",
+      "title": "Community Posting",
+      "url": "/posting/",
+      "type": "community-posting",
+      "excerpt": "Submit neighborhood news, civic notices, and community-serving information to WPCNA for review.",
+      "text": "Submit neighborhood news, civic notices, and community-serving information to WPCNA for review.\n\nShare With Your Neighbors\n\nCommunity posting\n\nSend local information to WPCNA for review and possible posting on this site.\n\nA curated community board\n\nThis is not an open bulletin board or a classifieds page. WPCNA reviews submissions before posting anything, with an eye toward whether the information is community-serving, non-commercial, and relevant to White Plains residents.\n\nIf something fits, WPCNA may post it on the site, share it through the council, or use it to help residents stay informed. If it does not fit, it will not be posted.\n\nWhat's welcome\n\nLocal, civic, and neighborhood-serving information\n\nCommunity events such as school picnics, cleanup days, and neighborhood efforts\n\nCivic initiatives such as sustainability newsletters, awareness campaigns, and public-interest updates\n\nCity-related notices such as hydrant flushing, road work, and other resident-facing information\n\nWhat is not posted\n\nNot a classifieds or advertising feed\n\nYard sales and personal listings\n\nBusiness advertising and commercial promotions\n\nUnmoderated open posting or anything that needs to appear without review\n\nWhat to send\n\nPlease include the basics residents will need: what it is, who it is for, when it happens, where it takes place, and any link WPCNA should use if the item is posted. The clearer the information, the easier it is to review.\n\nSubmission form\n\nSend something for review\n\nSubmissions go to WPCNA and are reviewed before anything is posted.\n\nReview note\n\nBefore something goes live\n\nWPCNA reviews submissions for neighborhood relevance, clarity, and fit. Posting is selective so the page stays useful and does not turn into a general-purpose feed."
+    },
+    {
+      "id": "page:/workshops/",
+      "sourceId": "page:/workshops/",
+      "title": "CNA Workshop Handbook",
+      "url": "/workshops/",
+      "type": "handbook",
+      "excerpt": "A practical guide from WPCNA's workshop materials for residents starting, reviving, or strengthening a neighborhood association.",
+      "text": "A practical guide from WPCNA's workshop materials for residents starting, reviving, or strengthening a neighborhood association.\n\nCNA Workshop Handbook\n\nA practical guide for White Plains residents who want to start, revive, or strengthen a neighborhood association.\n\nA practical starting point\n\nWPCNA supports residents who want to build stronger neighborhood organizations in White Plains. This handbook grows out of last year's workshop and is meant to be a practical guide for people who are starting fresh, reviving an older association, or figuring out what organized neighborhood work looks like in real life.\n\nThe material below walks through the basics: building a contact list, setting a regular meeting rhythm, working with the City, and staying connected to other neighborhood groups through WPCNA.\n\nWorkshop guide and slides\n\nFull presentation deck from the March 11, 2025 workshop, covering organizing basics, sample agendas, and practical templates.\n\nDownload slides (PDF)\n\nWorkshop flyer\n\nThe original flyer with the workshop date, location, and agenda.\n\nDownload flyer (PDF)\n\nUse it with WPCNA\n\nIf you are thinking about starting a neighborhood association, this is a good first resource. Use it to get oriented, then reach out to WPCNA if you want help talking through the next step, finding out how other associations are organized, or getting connected to the wider council.\n\nGet support\n\nStarting something in your neighborhood?\n\nCommunity members who want to organize their block, revive an association, or get neighbors talking can use this handbook and then contact WPCNA for help.\n\nKeep going\n\nSee the council in action\n\nWPCNA usually meets on the second Tuesday of each month. Recent agendas and minutes are posted on the agendas page."
+    },
+    {
+      "id": "resource:white-plains-public-library-calendar",
+      "sourceId": "resource:https://calendar.whiteplainslibrary.org/",
+      "title": "White Plains Public Library calendar",
+      "url": "https://calendar.whiteplainslibrary.org/",
+      "type": "community-resource",
+      "excerpt": "Approved local civic resource linked from the WPCNA site.",
+      "text": "White Plains Public Library calendar. Approved local civic resource linked from the WPCNA site for White Plains residents."
+    },
+    {
+      "id": "resource:city-of-white-plains-calendar",
+      "sourceId": "resource:https://www.cityofwhiteplains.com/Calendar.aspx",
+      "title": "City of White Plains calendar",
+      "url": "https://www.cityofwhiteplains.com/Calendar.aspx",
+      "type": "community-resource",
+      "excerpt": "Approved local civic resource linked from the WPCNA site.",
+      "text": "City of White Plains calendar. Approved local civic resource linked from the WPCNA site for White Plains residents."
+    }
+  ]
+};
