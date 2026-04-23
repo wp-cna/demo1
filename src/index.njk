@@ -153,6 +153,14 @@ metaDescription: The neighborhood-centered civic hub for agendas, events, repres
               <p>{{ paragraph }}</p>
             {% endfor %}
 
+            {% if neighborhood.resourceLinks and neighborhood.resourceLinks.length %}
+              <div class="represented-modal-links">
+                {% for link in neighborhood.resourceLinks %}
+                  <a class="link-arrow" href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>
+                {% endfor %}
+              </div>
+            {% endif %}
+
             {% if neighborhood.mapRegion %}
               <div class="represented-modal-map">
                 <p class="eyebrow">On the map</p>

@@ -45,6 +45,7 @@ function escapeHtml(value = "") {
 
 module.exports = function (eleventyConfig) {
   const pathPrefix = process.env.SITE_PATH_PREFIX || "/";
+  const outputDir = process.env.SITE_OUTPUT_DIR || "_site";
 
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
 
@@ -112,7 +113,7 @@ module.exports = function (eleventyConfig) {
       input: "src",
       includes: "_includes",
       data: "_data",
-      output: "_site"
+      output: outputDir
     }
   };
 };

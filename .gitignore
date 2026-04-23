@@ -1,6 +1,7 @@
 node_modules
 worker/node_modules
 _site
+.site-local
 .DS_Store
 
 .claude/

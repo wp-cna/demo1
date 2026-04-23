@@ -1,5 +1,6 @@
 const neighborhoods = require("./neighborhoods");
 const neighborhoodHeroes = require("./neighborhood-heroes.json");
+const { createPlaceholderHero, createProvidedHero } = require("./neighborhoodHeroHelpers");
 
 const groupDescriptions = {
   "Central White Plains":
@@ -89,6 +90,46 @@ const heroBySlug = Object.fromEntries(
     ])
 );
 
+const heroOverridesBySlug = {
+  "gedney-farms": createProvidedHero({
+    neighborhoodName: "Gedney Farms",
+    filename: "gedney-farms-provided.jpg",
+    altText:
+      "Tree-lined residential street in Gedney Farms with large homes, deep front lawns, and a mature canopy in White Plains.",
+    note: "Imported from a user-provided photo and cropped to remove the on-screen close control."
+  }),
+  "gedney-meadows": createProvidedHero({
+    neighborhoodName: "Gedney Meadows",
+    filename: "gedney-meadows-provided.jpg",
+    altText:
+      "Aerial view over Gedney Meadows with White Plains homes and trees in the foreground and the downtown skyline in the distance."
+  }),
+  highlands: createPlaceholderHero("Highlands"),
+  "north-broadway": createPlaceholderHero("North Broadway"),
+  "north-street": createProvidedHero({
+    neighborhoodName: "North Street",
+    filename: "north-street-provided.jpg",
+    altText:
+      "School and campus buildings along North Street in White Plains with an open lawn and neighborhood edge in view."
+  }),
+  "old-oak-ridge": createPlaceholderHero("Old Oak Ridge"),
+  rosedale: createProvidedHero({
+    neighborhoodName: "Rosedale",
+    filename: "rosedale-provided.jpg",
+    altText:
+      "Aerial view across Rosedale in White Plains with curving residential streets, treetops, and homes spreading across the neighborhood."
+  })
+};
+
+const resourceLinksBySlug = {
+  rosedale: [
+    {
+      label: "Rosedale local resources",
+      url: "https://wprra.org/local-resources/"
+    }
+  ]
+};
+
 const baseNeighborhoods = neighborhoods.map((item, index) => {
   const groupSlug = toKebab(item.group);
   const detailUrl = `/neighborhoods/${item.slug}/`;
@@ -111,7 +152,8 @@ const baseNeighborhoods = neighborhoods.map((item, index) => {
     groupSlug,
     groupDescription: groupDescriptions[item.group] || "",
     orientationNote: groupOrientationNotes[item.group] || "",
-    hero: heroBySlug[item.slug] || null,
+    hero: heroOverridesBySlug[item.slug] || heroBySlug[item.slug] || null,
+    resourceLinks: resourceLinksBySlug[item.slug] || [],
     detailUrl,
     teaser: sentences[0] || firstSentence(item.description),
     detailParagraphs,

@@ -4,11 +4,11 @@
   "private": true,
   "description": "Modern static civic events website for the White Plains Council of Neighborhood Associations.",
   "scripts": {
-    "start": "eleventy --serve",
+    "start": "SITE_OUTPUT_DIR=.site-local eleventy --serve",
     "build:site": "eleventy",
     "build:ai-index": "node ./scripts/build-ai-index.mjs",
     "build": "npm run build:site && npm run build:ai-index",
-    "clean": "rm -rf _site",
+    "clean": "rm -rf _site .site-local",
     "update-agendas": "node ./scripts/update-agendas.mjs",
     "update-events": "node ./scripts/update-events.mjs",
     "worker:dev": "npm --prefix ./worker run dev",

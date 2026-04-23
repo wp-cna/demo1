@@ -21,9 +21,11 @@ eleventyComputed:
     {% if neighborhood.hero %}
       <figure class="page-hero-figure">
         <img src="{{ neighborhood.hero.imagePath | withPrefix }}" alt="{{ neighborhood.hero.altText }}" loading="eager">
+        {% set heroAttributionUrl = neighborhood.hero.attributionUrl or '' %}
+        {% set heroAttributionExternal = heroAttributionUrl.startsWith('http') %}
         <figcaption class="page-hero-credit">
           <span>{{ neighborhood.hero.attributionText }}</span>
-          <a href="{{ neighborhood.hero.attributionUrl }}" rel="external noopener">Source</a>
+          <a href="{{ heroAttributionUrl if heroAttributionExternal else (heroAttributionUrl | withPrefix) }}"{% if heroAttributionExternal %} rel="external noopener"{% endif %}>Source</a>
           <span>{{ neighborhood.hero.license }}</span>
         </figcaption>
       </figure>
@@ -49,6 +51,16 @@ eleventyComputed:
           <h3>In the wider picture</h3>
           <p>{{ neighborhood.groupDescription }}</p>
           <p>{{ neighborhood.orientationNote }}</p>
+          {% if neighborhood.resourceLinks and neighborhood.resourceLinks.length %}
+            <div class="detail-resource-links">
+              <h3>Local resources</h3>
+              <ul>
+                {% for link in neighborhood.resourceLinks %}
+                  <li><a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
         </div>
 
         {% set mapBox = mapBoxes.boxes[neighborhood.slug] %}

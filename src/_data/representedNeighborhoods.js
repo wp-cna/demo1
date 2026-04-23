@@ -1,5 +1,6 @@
 const neighborhoodStore = require("./neighborhoodStore");
 const featuredNeighborhoodMap = require("./featuredNeighborhoodMap");
+const { createPlaceholderHero } = require("./neighborhoodHeroHelpers");
 const mapRegionBySlug = new Map(
   featuredNeighborhoodMap.regions.map((region) => [region.slug, region])
 );
@@ -55,6 +56,7 @@ function buildExisting(slug, overrides = {}) {
           altText: neighborhood.hero.altText
         }
       : null,
+    resourceLinks: neighborhood.resourceLinks || [],
     detailUrl: neighborhood.detailUrl,
     reviewNote: overrides.reviewNote || "",
     isPlaceholder: false,
@@ -79,10 +81,11 @@ function buildPlaceholder(config) {
     group: config.group || "WPCNA represented neighborhood",
     teaser: config.teaser,
     bodyParagraphs,
-    hero: null,
+    hero: config.hero || null,
     detailUrl: "",
     reviewNote: config.reviewNote || "",
     isPlaceholder: true,
+    resourceLinks: config.resourceLinks || [],
     mapRegionSlug: "",
     mapRegion: null
   };
@@ -118,7 +121,8 @@ const items = [
       "Recent WPCNA meeting minutes list Stewart Ross among the neighborhoods represented in the council's current roster.",
       "A fuller public profile is being reviewed before publication so the site can reflect the association accurately without overstating details."
     ],
-    reviewNote: "Profile under review"
+    reviewNote: "Profile under review",
+    hero: createPlaceholderHero("Stewart Ross")
   })
 ];
 
