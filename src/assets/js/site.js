@@ -33,6 +33,63 @@ if (navToggle && navMenu) {
 
 /* Event filtering */
 const filterForm = document.querySelector("[data-event-filters]");
+const EVENT_TIME_ZONE = "America/New_York";
+
+const getTimeZoneParts = (date) => {
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: EVENT_TIME_ZONE,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    hourCycle: "h23"
+  }).formatToParts(date);
+
+  return Object.fromEntries(parts.map((part) => [part.type, part.value]));
+};
+
+const getNowKey = () => {
+  const parts = getTimeZoneParts(new Date());
+  return `${parts.year}-${parts.month}-${parts.day}T${parts.hour}:${parts.minute}`;
+};
+
+const getEventEndKey = (card) => {
+  const endDate = card.dataset.endDate || card.dataset.startDate;
+  if (!endDate) return "";
+  return `${endDate}T${card.dataset.endTime || "23:59"}`;
+};
+
+const markStaleUpcomingCards = () => {
+  const nowKey = getNowKey();
+
+  document.querySelectorAll("[data-upcoming-events] [data-event-card]").forEach((card) => {
+    const endKey = getEventEndKey(card);
+    const isPast = endKey && endKey < nowKey;
+    card.dataset.clientPast = isPast ? "true" : "false";
+    card.hidden = isPast;
+  });
+};
+
+const updateEventSectionStates = (sections) => {
+  sections.forEach((sec) => {
+    const visible = sec.querySelectorAll("[data-event-card]:not([hidden])").length;
+    const active = sec.querySelectorAll("[data-event-card]:not([data-client-past='true'])").length;
+    const count = sec.querySelector("[data-event-count]");
+    const filterEmpty = sec.querySelector("[data-filter-empty]");
+    const upcomingEmpty = sec.querySelector("[data-upcoming-empty]");
+
+    if (count) count.textContent = `${visible} event${visible === 1 ? "" : "s"}`;
+    if (filterEmpty) filterEmpty.hidden = visible !== 0 || active === 0;
+    if (upcomingEmpty) upcomingEmpty.hidden = active !== 0;
+  });
+};
+
+markStaleUpcomingCards();
+updateEventSectionStates(Array.from(new Set([
+  ...document.querySelectorAll("[data-event-section]"),
+  ...document.querySelectorAll("[data-upcoming-events]")
+])));
 
 if (filterForm) {
   const cards = Array.from(document.querySelectorAll("[data-event-card]"));
@@ -46,21 +103,17 @@ if (filterForm) {
 
     cards.forEach((card) => {
       card.hidden = !(
+        card.dataset.clientPast !== "true" &&
         (!search || card.dataset.search.includes(search)) &&
         (!category || card.dataset.category === category) &&
         (!month || card.dataset.month === month)
       );
     });
 
-    sections.forEach((sec) => {
-      const visible = sec.querySelectorAll("[data-event-card]:not([hidden])").length;
-      const count = sec.querySelector("[data-event-count]");
-      const empty = sec.querySelector("[data-filter-empty]");
-      if (count) count.textContent = `${visible} event${visible === 1 ? "" : "s"}`;
-      if (empty) empty.hidden = visible !== 0;
-    });
+    updateEventSectionStates(sections);
   };
 
+  apply();
   filterForm.addEventListener("input", apply);
   filterForm.addEventListener("change", apply);
   filterForm.addEventListener("reset", () => requestAnimationFrame(apply));

@@ -195,7 +195,7 @@ metaDescription: The neighborhood-centered civic hub for agendas, events, repres
   </div>
 </div>
 
-<section class="section">
+<section class="section" data-upcoming-events>
   <div class="wrap">
     <div class="section-header">
       <div>
@@ -211,6 +211,11 @@ metaDescription: The neighborhood-centered civic hub for agendas, events, repres
         {% for event in eventStore.homeUpcoming %}
           {{ eventCard(event, true) }}
         {% endfor %}
+      </div>
+      <div class="empty-state" hidden data-upcoming-empty>
+        <h3>No upcoming events right now.</h3>
+        <p>Check back soon or browse past events.</p>
+        <a class="btn btn-primary" href="{{ '/events/' | withPrefix }}">Browse events</a>
       </div>
     {% else %}
       <div class="empty-state">

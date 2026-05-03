@@ -5,6 +5,10 @@
     data-category="{{ event.category }}"
     data-month="{{ event.monthKey }}"
     data-status="{{ event.status }}"
+    data-start-date="{{ event.startDate }}"
+    data-end-date="{{ event.endDate or event.startDate }}"
+    data-start-time="{{ event.startTime or '' }}"
+    data-end-time="{{ event.endTime or '' }}"
     data-search="{{ event.searchText }}"
   >
     {% if featured and event.displayImage %}

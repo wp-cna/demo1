@@ -59,10 +59,11 @@ This site can now refresh its event feed automatically every day.
 
 What happens:
 
-- GitHub Actions runs the importer once a day.
+- GitHub Actions runs the importer daily, including just after midnight Eastern so stale events roll over promptly.
 - The importer pulls live event data from official White Plains sources.
 - New or changed events are written to [`src/_data/events.auto.json`](./src/_data/events.auto.json).
-- If the auto-generated file changed, the workflow commits it and republishes the site.
+- The site rebuilds and republishes every day, even if the feed file did not change, so date-based upcoming/past rollovers still reach GitHub Pages automatically.
+- If the auto-generated file or generated search index changed, the workflow commits those updates.
 
 Current automated sources:
 
