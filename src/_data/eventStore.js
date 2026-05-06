@@ -153,9 +153,41 @@ function normalizeCtaLabel(event) {
   return label;
 }
 
+function normalizeLocationName(event) {
+  const organizer = cleanVisibleText(event.organizer);
+  const cleaned = cleanVisibleText(event.locationName)
+    .replace(/\bAsk Staff For More Information\b/gi, "")
+    .replace(/\bMamaroneck Ave(?=\.|\b)/gi, "Mamaroneck Avenue")
+    .replace(/\bCourt St(?=\.|\b)/gi, "Court Street")
+    .replace(/\bAvenue\./g, "Avenue")
+    .replace(/\bStreet\./g, "Street")
+    .replace(/\s*\/\s*/g, " / ")
+    .replace(/\.\.+/g, ".")
+    .replace(/\s*,\s*$/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (organizer === "White Plains Public Library" && /White Plains Public Library/i.test(cleaned)) {
+    return "White Plains Public Library";
+  }
+
+  return cleaned;
+}
+
+function normalizeLocationAddress(event) {
+  return cleanVisibleText(event.locationAddress)
+    .replace(/\bMamaroneck Ave(?=\.|\b)/gi, "Mamaroneck Avenue")
+    .replace(/\bCourt St(?=\.|\b)/gi, "Court Street")
+    .replace(/\bAvenue\./g, "Avenue")
+    .replace(/\bStreet\./g, "Street")
+    .replace(/\.\.+/g, ".")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function buildGenericCitySummary(event) {
   const title = normalizeImportedTitle(event.title);
-  const location = cleanVisibleText(event.locationName);
+  const location = normalizeLocationName(event);
 
   if (/meeting|board|commission|council|hearing|agency|corporation|review/i.test(title)) {
     if (location && location.toLowerCase() !== "white plains") {
@@ -189,7 +221,7 @@ function normalizeShortSummary(event) {
 function normalizeFullDescription(event) {
   const cleaned = cleanParagraphText(event.fullDescription);
   const title = normalizeImportedTitle(event.title);
-  const location = cleanVisibleText(event.locationName);
+  const location = normalizeLocationName(event);
 
   if (/is listed on the official White Plains city calendar/i.test(cleaned)) {
     if (/meeting|board|commission|council|hearing|agency|corporation|review/i.test(title)) {
@@ -218,8 +250,8 @@ function normalizeEventCopy(event) {
     fullDescription: normalizeFullDescription(event),
     category: cleanVisibleText(event.category),
     organizer: cleanVisibleText(event.organizer),
-    locationName: cleanVisibleText(event.locationName),
-    locationAddress: cleanVisibleText(event.locationAddress),
+    locationName: normalizeLocationName(event),
+    locationAddress: normalizeLocationAddress(event),
     sourceLabel: normalizeSourceLabel(event),
     ctaLabel: normalizeCtaLabel(event),
     tags: (event.tags || []).map((tag) => cleanVisibleText(tag)).filter(Boolean)
@@ -443,6 +475,58 @@ function eventSeriesKey(event) {
   return normalizeText(base);
 }
 
+function displayDedupeKey(event) {
+  let title = normalizeText(event.title)
+    .replace(
+      /^(january|february|march|april|may|june|july|august|september|october|november|december)\s+\d{1,2}\s+[—-]\s+/,
+      ""
+    )
+    .replace(/\b20\d{2}\b/g, "")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+
+  if (/rock the block/.test(title)) {
+    title = "downtown white plains rock the block";
+  }
+
+  if (/soccer fest/.test(title) && /(white plains soccer fest|block party|fan fest)/.test(title)) {
+    title = "white plains soccer fest block party";
+  }
+
+  return [event.startDate, event.startTime || "", title].join("|");
+}
+
+function displayDedupePriority(event) {
+  if (!event.importSource) return 100;
+  if (event.importSource === "bid") return 30;
+  if (event.importSource === "wppac") return 25;
+  if (event.importSource === "library") return 20;
+  if (event.importSource === "city") return 15;
+  return 10;
+}
+
+function dedupeDisplayEvents(events) {
+  const selected = [];
+  const keyToIndex = new Map();
+
+  for (const event of events) {
+    const key = displayDedupeKey(event);
+    const existingIndex = keyToIndex.get(key);
+
+    if (existingIndex === undefined) {
+      keyToIndex.set(key, selected.push(event) - 1);
+      continue;
+    }
+
+    const existing = selected[existingIndex];
+    if (displayDedupePriority(event) > displayDedupePriority(existing)) {
+      selected[existingIndex] = event;
+    }
+  }
+
+  return selected.sort(compareUpcoming);
+}
+
 function limitUpcomingByMonth(events) {
   const monthMap = new Map();
 
@@ -538,10 +622,13 @@ const all = mergedEvents.map((rawEvent) => {
 });
 
 const rawUpcoming = all.filter((event) => event.status === "upcoming").sort(compareUpcoming);
-const upcoming = limitUpcomingByMonth(rawUpcoming);
-const upcomingSlugSet = new Set(upcoming.map((event) => event.slug));
+const selectedUpcoming = limitUpcomingByMonth(rawUpcoming);
+const upcoming = dedupeDisplayEvents(selectedUpcoming);
+const selectedUpcomingSlugSet = new Set(selectedUpcoming.map((event) => event.slug));
 const past = all.filter((event) => event.status === "past").sort(comparePast);
-const visibleAll = all.filter((event) => event.status === "past" || upcomingSlugSet.has(event.slug));
+const visibleAll = all.filter(
+  (event) => event.status === "past" || selectedUpcomingSlugSet.has(event.slug)
+);
 
 const bySlug = new Map(visibleAll.map((event) => [event.slug, event]));
 

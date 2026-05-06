@@ -61,8 +61,7 @@ eleventyExcludeFromCollections: true
       <form class="contact-form" data-posting-form data-posting-api="{{ site.postingApiUrl }}">
         {# Honeypot hidden from real users; catches automated submissions. #}
         <div class="form-honeypot" hidden aria-hidden="true">
-          <label for="posting-website">Leave blank</label>
-          <input id="posting-website" name="website" type="text" tabindex="-1" autocomplete="off">
+          <input id="posting-website" name="website" type="text" tabindex="-1" autocomplete="off" aria-label="Website">
         </div>
 
         <div class="form-field">

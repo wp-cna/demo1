@@ -37,24 +37,25 @@ metaDescription: The neighborhood-centered civic hub for agendas, events, repres
           >
           <svg
             class="interactive-map-svg represented-map-svg"
-            viewBox="0 0 {{ representedNeighborhoods.imageWidth }} {{ representedNeighborhoods.imageHeight }}"
+            viewBox="0 0 {{ representedNeighborhoods.viewBoxWidth }} {{ representedNeighborhoods.viewBoxHeight }}"
             aria-label="Interactive map of the WPCNA neighborhoods represented on the homepage"
             role="img"
             focusable="false"
             preserveAspectRatio="xMidYMid meet"
           >
             {% for neighborhood in representedNeighborhoods.mappedItems %}
-              <a
-                href="{{ neighborhood.detailUrl | withPrefix }}"
+              <path
+                class="represented-map-region"
+                d="{{ neighborhood.mapRegion.pathD }}"
                 data-map-region="{{ neighborhood.slug }}"
                 data-neighborhood-trigger
                 data-neighborhood-target="{{ neighborhood.slug }}"
                 aria-controls="represented-neighborhood-modal"
                 aria-haspopup="dialog"
+                role="button"
+                tabindex="0"
                 aria-label="Open {{ neighborhood.name }} neighborhood profile"
-              >
-                <polygon points="{{ neighborhood.mapRegion.points }}"></polygon>
-              </a>
+              ></path>
             {% endfor %}
           </svg>
         </div>
@@ -68,6 +69,12 @@ metaDescription: The neighborhood-centered civic hub for agendas, events, repres
 
         <div class="represented-neighborhood-grid">
           {% for neighborhood in representedNeighborhoods.items %}
+            {% set thumbSrc = '/assets/img/neighborhoods/placeholders/image-coming-soon.svg' %}
+            {% set thumbAlt = 'Image coming soon for the ' + neighborhood.name + ' neighborhood in White Plains.' %}
+            {% if neighborhood.hero %}
+              {% set thumbSrc = neighborhood.hero.cardImagePath or neighborhood.hero.imagePath %}
+              {% set thumbAlt = neighborhood.hero.cardAltText or neighborhood.hero.altText %}
+            {% endif %}
             <button
               class="represented-neighborhood-card"
               type="button"
@@ -76,14 +83,12 @@ metaDescription: The neighborhood-centered civic hub for agendas, events, repres
               data-neighborhood-target="{{ neighborhood.slug }}"
               aria-controls="represented-neighborhood-modal"
               aria-haspopup="dialog"
+              aria-label="Open {{ neighborhood.name }} neighborhood profile"
             >
-              <span class="represented-neighborhood-card-header">
-                <strong>{{ neighborhood.name }}</strong>
-                {% if neighborhood.reviewNote %}
-                  <span class="tag tag-muted">{{ neighborhood.reviewNote }}</span>
-                {% endif %}
+              <span class="represented-neighborhood-card-thumb">
+                <img src="{{ thumbSrc | withPrefix }}" alt="{{ thumbAlt }}" loading="lazy">
               </span>
-              <span class="represented-neighborhood-card-copy">{{ neighborhood.teaser }}</span>
+              <strong>{{ neighborhood.name }}</strong>
             </button>
           {% endfor %}
         </div>
@@ -92,12 +97,12 @@ metaDescription: The neighborhood-centered civic hub for agendas, events, repres
   </div>
 </section>
 
-<div class="represented-modal-backdrop" id="represented-neighborhood-modal" data-neighborhood-modal hidden>
+<div class="represented-modal-backdrop" id="represented-neighborhood-modal" data-neighborhood-modal hidden aria-hidden="true" inert>
   <div class="represented-modal-shell" role="dialog" aria-modal="true" tabindex="-1" data-neighborhood-dialog>
     <button class="represented-modal-close" type="button" data-neighborhood-close aria-label="Close neighborhood profile">Close</button>
 
     {% for neighborhood in representedNeighborhoods.items %}
-      <article class="represented-modal-panel" data-neighborhood-panel="{{ neighborhood.slug }}" aria-hidden="true">
+      <article class="represented-modal-panel" data-neighborhood-panel="{{ neighborhood.slug }}" aria-hidden="true" hidden>
         <div class="represented-modal-layout{% if neighborhood.hero %} represented-modal-layout-media{% endif %}">
           {% if neighborhood.hero %}
             <figure class="represented-modal-figure">
@@ -121,34 +126,6 @@ metaDescription: The neighborhood-centered civic hub for agendas, events, repres
                 {% for link in neighborhood.resourceLinks %}
                   <a class="link-arrow" href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>
                 {% endfor %}
-              </div>
-            {% endif %}
-
-            {% if neighborhood.mapRegion %}
-              <div class="represented-modal-map">
-                <p class="eyebrow">On the map</p>
-                <figure class="represented-modal-map-frame">
-                  <img
-                    src="{{ representedNeighborhoods.imagePath | withPrefix }}?v={{ representedNeighborhoods.imageVersion }}"
-                    alt="White Plains neighborhood map with {{ neighborhood.name }} outlined."
-                    loading="lazy"
-                  >
-                  <svg
-                    class="represented-modal-map-svg"
-                    viewBox="0 0 {{ representedNeighborhoods.imageWidth }} {{ representedNeighborhoods.imageHeight }}"
-                    aria-hidden="true"
-                    focusable="false"
-                    preserveAspectRatio="xMidYMid meet"
-                  >
-                    <polygon class="represented-modal-map-polygon represented-modal-map-polygon-halo" points="{{ neighborhood.mapRegion.points }}"></polygon>
-                    <polygon class="represented-modal-map-polygon" points="{{ neighborhood.mapRegion.points }}"></polygon>
-                  </svg>
-                </figure>
-                <p class="represented-modal-map-caption">{{ neighborhood.name }} shown on the White Plains neighborhood map.</p>
-              </div>
-            {% elif neighborhood.reviewNote %}
-              <div class="represented-modal-map-unavailable">
-                <p>Map location is being confirmed for this neighborhood.</p>
               </div>
             {% endif %}
           </div>
@@ -200,11 +177,6 @@ metaDescription: The neighborhood-centered civic hub for agendas, events, repres
         {% for event in eventStore.homeUpcoming %}
           {{ eventCard(event, true) }}
         {% endfor %}
-      </div>
-      <div class="empty-state" hidden data-upcoming-empty>
-        <h3>No upcoming events right now.</h3>
-        <p>Check back soon or browse past events.</p>
-        <a class="btn btn-primary" href="{{ '/events/' | withPrefix }}">Browse events</a>
       </div>
     {% else %}
       <div class="empty-state">

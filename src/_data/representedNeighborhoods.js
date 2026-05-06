@@ -2,8 +2,12 @@ const neighborhoodStore = require("./neighborhoodStore");
 const featuredNeighborhoodMap = require("./featuredNeighborhoodMap");
 const { createPlaceholderHero } = require("./neighborhoodHeroHelpers");
 const mapRegionBySlug = new Map(
-  featuredNeighborhoodMap.regions.map((region) => [region.slug, region])
+  (featuredNeighborhoodMap.allRegions || featuredNeighborhoodMap.regions).map((region) => [
+    region.slug,
+    region
+  ])
 );
+const includeGedneyMeadows = false;
 
 function uniqueParagraphs(paragraphs = []) {
   const seen = new Set();
@@ -53,23 +57,29 @@ function buildExisting(slug, overrides = {}) {
     hero: neighborhood.hero
       ? {
           imagePath: neighborhood.hero.imagePath,
-          altText: neighborhood.hero.altText
+          cardImagePath: neighborhood.hero.cardImagePath,
+          altText: neighborhood.hero.altText,
+          cardAltText: neighborhood.hero.cardAltText
         }
       : null,
     resourceLinks: neighborhood.resourceLinks || [],
     detailUrl: neighborhood.detailUrl,
     reviewNote: overrides.reviewNote || "",
+    aliases: overrides.aliases || [],
     isPlaceholder: false,
     mapRegionSlug: mapRegion ? mapSlug : "",
     mapRegion: mapRegion
       ? {
-          points: mapRegion.points
+          pathD: mapRegion.pathD,
+          points: mapRegion.points || ""
         }
       : null
   };
 }
 
 function buildPlaceholder(config) {
+  const mapSlug = config.mapSlug || config.slug;
+  const mapRegion = mapRegionBySlug.get(mapSlug) || null;
   const bodyParagraphs = removeLeadDupes(
     uniqueParagraphs(config.bodyParagraphs),
     config.teaser
@@ -84,47 +94,46 @@ function buildPlaceholder(config) {
     hero: config.hero || null,
     detailUrl: "",
     reviewNote: config.reviewNote || "",
+    aliases: config.aliases || [],
     isPlaceholder: true,
     resourceLinks: config.resourceLinks || [],
-    mapRegionSlug: "",
-    mapRegion: null
+    mapRegionSlug: mapRegion ? mapSlug : "",
+    mapRegion: mapRegion
+      ? {
+          pathD: mapRegion.pathD,
+          points: mapRegion.points || ""
+        }
+      : null
   };
 }
 
 const items = [
+  buildExisting("north-broadway"),
   buildExisting("battle-hill"),
+  buildExisting("fisher-hill"),
+  buildExisting("highlands"),
   buildPlaceholder({
     slug: "carhart",
     name: "Carhart",
+    mapSlug: "carhart",
     teaser: "Carhart is among the White Plains neighborhoods currently represented through WPCNA.",
     bodyParagraphs: [
       "Recent WPCNA meeting minutes list Carhart among the neighborhood associations currently represented in council meetings.",
       "A fuller public profile is being reviewed before publication. This placeholder keeps the represented-neighborhood list current without adding claims that still need final confirmation."
     ],
-    reviewNote: "Profile under review"
-  }),
-  buildExisting("fisher-hill"),
-  buildExisting("gedney-farms"),
-  buildExisting("gedney-meadows", {
-    name: "Gedney Meadow"
-  }),
-  buildExisting("highlands"),
-  buildExisting("north-broadway"),
-  buildExisting("north-street"),
-  buildExisting("old-oak-ridge"),
-  buildExisting("rosedale"),
-  buildPlaceholder({
-    slug: "stewart-ross",
-    name: "Stewart Ross",
-    teaser: "Stewart Ross is one of the neighborhood associations currently represented through WPCNA.",
-    bodyParagraphs: [
-      "Recent WPCNA meeting minutes list Stewart Ross among the neighborhoods represented in the council's current roster.",
-      "A fuller public profile is being reviewed before publication so the site can reflect the association accurately without overstating details."
-    ],
     reviewNote: "Profile under review",
-    hero: createPlaceholderHero("Stewart Ross")
-  })
+    aliases: ["Carhartt"],
+    hero: createPlaceholderHero("Carhart")
+  }),
+  buildExisting("gedney-farms"),
+  buildExisting("north-street"),
+  buildExisting("rosedale"),
+  buildExisting("old-oak-ridge")
 ];
+
+if (includeGedneyMeadows) {
+  items.push(buildExisting("gedney-meadows"));
+}
 
 module.exports = {
   imagePath: featuredNeighborhoodMap.imagePath,
@@ -133,6 +142,9 @@ module.exports = {
     "White Plains neighborhood map with clickable highlights for the neighborhoods currently represented through WPCNA.",
   imageWidth: featuredNeighborhoodMap.imageWidth,
   imageHeight: featuredNeighborhoodMap.imageHeight,
+  viewBoxWidth: featuredNeighborhoodMap.viewBoxWidth,
+  viewBoxHeight: featuredNeighborhoodMap.viewBoxHeight,
+  includeGedneyMeadows,
   items,
   mappedItems: items.filter((item) => item.mapRegion)
 };

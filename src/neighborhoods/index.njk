@@ -27,7 +27,7 @@ metaDescription: Explore White Plains through an interactive neighborhood map an
           >
           <svg
             class="interactive-map-svg"
-            viewBox="0 0 {{ featuredNeighborhoodMap.imageWidth }} {{ featuredNeighborhoodMap.imageHeight }}"
+            viewBox="0 0 {{ featuredNeighborhoodMap.viewBoxWidth }} {{ featuredNeighborhoodMap.viewBoxHeight }}"
             aria-label="Interactive map of featured White Plains neighborhoods"
             role="img"
             focusable="false"
@@ -39,7 +39,7 @@ metaDescription: Explore White Plains through an interactive neighborhood map an
                 data-map-region="{{ region.slug }}"
                 aria-label="Open {{ neighborhood.name }}"
               >
-                <polygon points="{{ region.points }}"></polygon>
+                <path d="{{ region.pathD }}"></path>
               </a>
             {% endfor %}
           </svg>

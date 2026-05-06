@@ -381,6 +381,18 @@ if (neighborhoodModal) {
   const triggers = Array.from(document.querySelectorAll("[data-neighborhood-trigger]"));
   let lastTrigger = null;
 
+  const setModalAvailability = (isOpen) => {
+    neighborhoodModal.hidden = !isOpen;
+    neighborhoodModal.toggleAttribute("hidden", !isOpen);
+    neighborhoodModal.setAttribute("aria-hidden", String(!isOpen));
+
+    if ("inert" in neighborhoodModal) {
+      neighborhoodModal.inert = !isOpen;
+    } else {
+      neighborhoodModal.toggleAttribute("inert", !isOpen);
+    }
+  };
+
   const getFocusableElements = () => {
     if (!dialog) return [];
 
@@ -411,6 +423,8 @@ if (neighborhoodModal) {
 
     panels.forEach((item) => {
       const isActive = item === panel;
+      item.hidden = !isActive;
+      item.toggleAttribute("hidden", !isActive);
       item.classList.toggle("is-active", isActive);
       item.setAttribute("aria-hidden", String(!isActive));
     });
@@ -431,8 +445,7 @@ if (neighborhoodModal) {
     if (!dialog) return;
 
     lastTrigger = trigger || null;
-    neighborhoodModal.hidden = false;
-    neighborhoodModal.removeAttribute("hidden");
+    setModalAvailability(true);
     document.body.classList.add("has-modal-open");
 
     window.requestAnimationFrame(() => {
@@ -449,22 +462,18 @@ if (neighborhoodModal) {
   const closeModal = () => {
     if (neighborhoodModal.hidden) return;
 
-    neighborhoodModal.hidden = true;
-    neighborhoodModal.setAttribute("hidden", "");
+    setModalAvailability(false);
     document.body.classList.remove("has-modal-open");
     panels.forEach((panel) => {
+      panel.hidden = true;
+      panel.setAttribute("hidden", "");
       panel.classList.remove("is-active");
       panel.setAttribute("aria-hidden", "true");
     });
     setActiveTriggers("");
 
-    const returnTarget =
-      lastTrigger?.dataset.mapRegion && lastTrigger.dataset.neighborhoodTarget
-        ? document.querySelector(`[data-map-tile="${lastTrigger.dataset.neighborhoodTarget}"]`) || lastTrigger
-        : lastTrigger;
-
-    if (returnTarget && typeof returnTarget.focus === "function") {
-      returnTarget.focus();
+    if (lastTrigger && typeof lastTrigger.focus === "function") {
+      lastTrigger.focus();
     }
   };
 
@@ -474,6 +483,14 @@ if (neighborhoodModal) {
         event.preventDefault();
       }
 
+      openModal(trigger.dataset.neighborhoodTarget || "", trigger);
+    });
+
+    trigger.addEventListener("keydown", (event) => {
+      if (trigger.tagName.toLowerCase() === "button") return;
+      if (event.key !== "Enter" && event.key !== " ") return;
+
+      event.preventDefault();
       openModal(trigger.dataset.neighborhoodTarget || "", trigger);
     });
   });
