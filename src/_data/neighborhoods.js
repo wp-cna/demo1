@@ -154,6 +154,13 @@ module.exports = [
       "Old Mamaroneck Road feels defined by one of the city's long-running routes. It sits in a useful middle ground between central White Plains and the southeastern residential areas, with a familiar, well-established neighborhood feel."
   },
   {
+    slug: "carhart",
+    name: "Carhart",
+    group: "East Side and Institutional Anchors",
+    description:
+      "Carhart is a compact neighborhood area near the middle of White Plains, positioned between the close-in residential blocks, institutional anchors, and larger south-side neighborhoods around it. It is one of the neighborhood associations currently represented through WPCNA, giving residents another point of connection within the council."
+  },
+  {
     slug: "kirkbride-asylum",
     name: "Kirkbride Asylum",
     group: "East Side and Institutional Anchors",

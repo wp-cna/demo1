@@ -3,6 +3,17 @@ const canonicalPathPrefix = process.env.CANONICAL_PATH_PREFIX || process.env.SIT
 const deployBaseUrl = process.env.SITE_BASE_URL || "https://never-nude.github.io";
 const cleanCanonicalPrefix = canonicalPathPrefix === "/" ? "" : canonicalPathPrefix.replace(/\/$/, "");
 const homeHeroImage = "/assets/img/home/legacy-carousel/White-Plains.jpeg";
+const aboutImage = "/assets/img/home/old-site/WPP-pano.jpg";
+const eventHeroImage = "/assets/img/heroes/events-community-picnic.jpg";
+const handbookHeroImage = "/assets/img/heroes/cna-workshop-classroom.jpg";
+const postingHeroImage = "/assets/img/heroes/wpcna-parade-community-posting.png";
+const pageHeroImages = new Set([
+  homeHeroImage,
+  aboutImage,
+  eventHeroImage,
+  handbookHeroImage,
+  postingHeroImage
+]);
 const legacyCarousel = [
   {
     src: "/assets/img/home/legacy-carousel/white-plains-new-york-pano.jpg",
@@ -58,15 +69,17 @@ module.exports = {
   heroImage: homeHeroImage,
   heroImageAlt:
     "Golden-hour aerial view of downtown White Plains with neighborhoods, treetops, and streets stretching toward the horizon.",
-  aboutImage: "/assets/img/home/old-site/WPP-pano.jpg",
+  aboutImage,
   aboutImageAlt:
     "Panoramic view of downtown White Plains with the skyline rising above nearby homes and tree-lined blocks.",
-  eventHeroImage: "/assets/img/home/old-site/white-plains-farmers-market.jpg",
-  eventHeroImageAlt: "Residents walking between vendor tents at the White Plains farmers market downtown.",
-  postingHeroImage: "/assets/img/heroes/wpcna-parade-community-posting.png",
+  eventHeroImage,
+  eventHeroImageAlt: "Children and families gathered on a park lawn during an outdoor community picnic.",
+  handbookHeroImage,
+  handbookHeroImageAlt: "An instructor teaching adults in a classroom during a workshop.",
+  postingHeroImage,
   postingHeroImageAlt: "WPCNA members and neighbors holding a WPCNA banner during a White Plains parade.",
   legacyCarousel,
-  closerLookCarousel: legacyCarousel.filter((photo) => photo.src !== homeHeroImage),
+  closerLookCarousel: legacyCarousel.filter((photo) => !pageHeroImages.has(photo.src)),
   mission:
     "WPCNA brings neighborhood associations together, shares civic information across the city, and helps residents stay connected to public life in White Plains.",
   purpose:

@@ -105,6 +105,7 @@ const heroOverridesBySlug = {
       "Aerial view over Gedney Meadows with White Plains homes and trees in the foreground and the downtown skyline in the distance."
   }),
   highlands: createPlaceholderHero("Highlands"),
+  carhart: createPlaceholderHero("Carhart"),
   "north-broadway": createPlaceholderHero("North Broadway"),
   "north-street": createProvidedHero({
     neighborhoodName: "North Street",

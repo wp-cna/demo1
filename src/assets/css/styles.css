@@ -504,15 +504,19 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 }
 
 .image-hero-home img {
-  object-position: center top;
+  object-position: center 26%;
 }
 
 .image-hero-events img {
-  object-position: center 52%;
+  object-position: center 30%;
 }
 
 .image-hero-posting img {
   object-position: center 44%;
+}
+
+.image-hero-handbook img {
+  object-position: 20% 45%;
 }
 
 .image-hero-about img {
@@ -2039,16 +2043,19 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   height: 100%;
 }
 
-.interactive-map-svg a {
+.interactive-map-svg a,
+.interactive-map-svg [role="img"][tabindex] {
   cursor: pointer;
 }
 
-.interactive-map-svg a:focus {
+.interactive-map-svg a:focus,
+.interactive-map-svg [role="img"][tabindex]:focus {
   outline: none;
   box-shadow: none;
 }
 
-.interactive-map-svg a:focus-visible {
+.interactive-map-svg a:focus-visible,
+.interactive-map-svg [role="img"][tabindex]:focus-visible {
   outline: none;
   box-shadow: none;
 }
@@ -2062,7 +2069,10 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 
 .interactive-map-svg a:hover :is(path, polygon),
 .interactive-map-svg a:focus :is(path, polygon),
-.interactive-map-svg a.is-active :is(path, polygon) {
+.interactive-map-svg a.is-active :is(path, polygon),
+.interactive-map-svg [role="img"][tabindex]:hover :is(path, polygon),
+.interactive-map-svg [role="img"][tabindex]:focus :is(path, polygon),
+.interactive-map-svg [role="img"][tabindex].is-active :is(path, polygon) {
   fill: rgba(180, 77, 27, 0.28);
   filter: drop-shadow(0 0 6px rgba(180, 77, 27, 0.22));
 }
@@ -2095,12 +2105,15 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 }
 
 .map-tile:hover,
+.map-tile:focus-visible,
+.map-tile:focus-within,
 .map-tile.is-active {
   border-color: var(--brand);
   background: var(--brand-soft);
 }
 
-.map-tile a {
+.map-tile a,
+.map-tile-card {
   display: grid;
   grid-template-rows: auto 1fr;
   height: 100%;
@@ -2144,6 +2157,14 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   color: var(--ink-secondary);
   font-size: 0.88rem;
   line-height: 1.5;
+}
+
+.map-tile-body .map-tile-status {
+  color: var(--brand);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
 }
 
 /* ─── Neighborhood group ─── */

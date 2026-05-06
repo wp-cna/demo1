@@ -1,6 +1,5 @@
 const neighborhoodStore = require("./neighborhoodStore");
 const featuredNeighborhoodMap = require("./featuredNeighborhoodMap");
-const { createPlaceholderHero } = require("./neighborhoodHeroHelpers");
 const mapRegionBySlug = new Map(
   (featuredNeighborhoodMap.allRegions || featuredNeighborhoodMap.regions).map((region) => [
     region.slug,
@@ -77,54 +76,12 @@ function buildExisting(slug, overrides = {}) {
   };
 }
 
-function buildPlaceholder(config) {
-  const mapSlug = config.mapSlug || config.slug;
-  const mapRegion = mapRegionBySlug.get(mapSlug) || null;
-  const bodyParagraphs = removeLeadDupes(
-    uniqueParagraphs(config.bodyParagraphs),
-    config.teaser
-  );
-
-  return {
-    slug: config.slug,
-    name: config.name,
-    group: config.group || "WPCNA represented neighborhood",
-    teaser: config.teaser,
-    bodyParagraphs,
-    hero: config.hero || null,
-    detailUrl: "",
-    reviewNote: config.reviewNote || "",
-    aliases: config.aliases || [],
-    isPlaceholder: true,
-    resourceLinks: config.resourceLinks || [],
-    mapRegionSlug: mapRegion ? mapSlug : "",
-    mapRegion: mapRegion
-      ? {
-          pathD: mapRegion.pathD,
-          points: mapRegion.points || ""
-        }
-      : null
-  };
-}
-
 const items = [
   buildExisting("north-broadway"),
   buildExisting("battle-hill"),
   buildExisting("fisher-hill"),
   buildExisting("highlands"),
-  buildPlaceholder({
-    slug: "carhart",
-    name: "Carhart",
-    mapSlug: "carhart",
-    teaser: "Carhart is among the White Plains neighborhoods currently represented through WPCNA.",
-    bodyParagraphs: [
-      "Recent WPCNA meeting minutes list Carhart among the neighborhood associations currently represented in council meetings.",
-      "A fuller public profile is being reviewed before publication. This placeholder keeps the represented-neighborhood list current without adding claims that still need final confirmation."
-    ],
-    reviewNote: "Profile under review",
-    aliases: ["Carhartt"],
-    hero: createPlaceholderHero("Carhart")
-  }),
+  buildExisting("carhart", { aliases: ["Carhartt"] }),
   buildExisting("gedney-farms"),
   buildExisting("north-street"),
   buildExisting("rosedale"),

@@ -19,47 +19,61 @@ metaDescription: Explore White Plains through an interactive neighborhood map an
       <div class="interactive-map-panel">
         <div class="interactive-map-frame">
           <img
-            src="{{ featuredNeighborhoodMap.imagePath | withPrefix }}?v={{ featuredNeighborhoodMap.imageVersion }}"
-            alt="{{ featuredNeighborhoodMap.imageAlt }}"
-            width="{{ featuredNeighborhoodMap.imageWidth }}"
-            height="{{ featuredNeighborhoodMap.imageHeight }}"
+            src="{{ representedNeighborhoods.imagePath | withPrefix }}?v={{ representedNeighborhoods.imageVersion }}"
+            alt="{{ representedNeighborhoods.imageAlt }}"
+            width="{{ representedNeighborhoods.imageWidth }}"
+            height="{{ representedNeighborhoods.imageHeight }}"
             loading="eager"
           >
           <svg
             class="interactive-map-svg"
-            viewBox="0 0 {{ featuredNeighborhoodMap.viewBoxWidth }} {{ featuredNeighborhoodMap.viewBoxHeight }}"
-            aria-label="Interactive map of featured White Plains neighborhoods"
+            viewBox="0 0 {{ representedNeighborhoods.viewBoxWidth }} {{ representedNeighborhoods.viewBoxHeight }}"
+            aria-label="Interactive map of WPCNA represented White Plains neighborhoods"
             role="img"
             focusable="false"
           >
-            {% for region in featuredNeighborhoodMap.regions %}
-              {% set neighborhood = neighborhoodStore.bySlug[region.slug] %}
-              <a
-                href="{{ neighborhood.detailUrl | withPrefix }}"
-                data-map-region="{{ region.slug }}"
-                aria-label="Open {{ neighborhood.name }} profile"
-              >
-                <title>Open {{ neighborhood.name }} profile</title>
-                <path d="{{ region.pathD }}"></path>
-              </a>
+            {% for neighborhood in representedNeighborhoods.mappedItems %}
+              {% if neighborhood.detailUrl %}
+                <a
+                  href="{{ neighborhood.detailUrl | withPrefix }}"
+                  data-map-region="{{ neighborhood.slug }}"
+                  aria-label="Open {{ neighborhood.name }} profile"
+                >
+                  <title>Open {{ neighborhood.name }} profile</title>
+                  <path d="{{ neighborhood.mapRegion.pathD }}"></path>
+                </a>
+              {% else %}
+                <g
+                  data-map-region="{{ neighborhood.slug }}"
+                  role="img"
+                  tabindex="0"
+                  aria-label="{{ neighborhood.name }} is represented through WPCNA; profile under review"
+                >
+                  <title>{{ neighborhood.name }} profile under review</title>
+                  <path d="{{ neighborhood.mapRegion.pathD }}"></path>
+                </g>
+              {% endif %}
             {% endfor %}
           </svg>
         </div>
-        <p class="interactive-map-caption">Hover or tap one of the highlighted neighborhoods to connect the map and the guide cards.</p>
+        <p class="interactive-map-caption">Hover or tap one of the highlighted WPCNA-represented neighborhoods to connect the map and the guide cards.</p>
       </div>
 
       <div class="interactive-map-sidebar">
         <div class="interactive-map-sidebar-intro">
           <p class="eyebrow">Featured Neighborhoods</p>
-          <h2>Featured neighborhood areas</h2>
-          <p>These highlighted neighborhoods give residents a practical starting point within the larger White Plains neighborhood guide.</p>
+          <h2>WPCNA-represented neighborhoods</h2>
+          <p>These {{ representedNeighborhoods.items.length }} featured neighborhoods are currently represented through WPCNA.</p>
         </div>
 
         <div class="map-tile-grid">
-          {% for slug in featuredNeighborhoodMap.featuredSlugs %}
-            {% set neighborhood = neighborhoodStore.bySlug[slug] %}
-            <article class="map-tile" data-map-tile="{{ slug }}">
-              <a href="{{ neighborhood.detailUrl | withPrefix }}">
+          {% for neighborhood in representedNeighborhoods.items %}
+            <article class="map-tile" data-map-tile="{{ neighborhood.slug }}"{% if not neighborhood.detailUrl %} tabindex="0" aria-label="{{ neighborhood.name }} profile under review"{% endif %}>
+              {% if neighborhood.detailUrl %}
+                <a href="{{ neighborhood.detailUrl | withPrefix }}">
+              {% else %}
+                <div class="map-tile-card" aria-hidden="true">
+              {% endif %}
                 {% if neighborhood.hero %}
                   <span class="map-tile-media">
                     <img
@@ -73,8 +87,15 @@ metaDescription: Explore White Plains through an interactive neighborhood map an
                   <span class="map-tile-group">{{ neighborhood.group }}</span>
                   <strong>{{ neighborhood.name }}</strong>
                   <span>{{ neighborhood.teaser }}</span>
+                  {% if not neighborhood.detailUrl %}
+                    <span class="map-tile-status">Profile under review</span>
+                  {% endif %}
                 </span>
-              </a>
+              {% if neighborhood.detailUrl %}
+                </a>
+              {% else %}
+                </div>
+              {% endif %}
             </article>
           {% endfor %}
         </div>
