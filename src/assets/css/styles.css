@@ -145,9 +145,9 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   display: grid;
   gap: 0.02rem;
   color: #fff;
-  font-family: "Roboto Condensed", "Arial Narrow", "Helvetica Neue Condensed", sans-serif;
-  font-size: clamp(1.65rem, 2.6vw, 2.1rem);
-  font-weight: 900;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 21pt;
+  font-weight: 400;
   text-transform: none;
   line-height: 1.02;
   letter-spacing: 0;
@@ -165,8 +165,9 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   display: block;
   padding: 0.95rem 1rem;
   color: #fff;
-  font-size: 0.9rem;
-  font-weight: 800;
+  font-family: "Franklin Gothic Heavy", "Franklin Gothic Demi", "Arial Black", sans-serif;
+  font-size: 16pt;
+  font-weight: 900;
   letter-spacing: 0;
   text-transform: none;
   text-decoration: none;
@@ -501,6 +502,24 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.image-hero-label {
+  position: absolute;
+  right: clamp(1rem, 3vw, 2rem);
+  bottom: clamp(1rem, 3vw, 2rem);
+  z-index: 1;
+  max-width: min(28rem, calc(100% - 2rem));
+  margin: 0;
+  padding: 0.7rem 1rem;
+  background: var(--brand);
+  color: #fff;
+  font-family: "Franklin Gothic Heavy", "Franklin Gothic Demi", "Arial Black", sans-serif;
+  font-size: 16pt;
+  font-weight: 900;
+  line-height: 1.08;
+  letter-spacing: 0;
+  text-align: left;
 }
 
 .image-hero-home img {
@@ -2532,7 +2551,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   .represented-modal-layout-media { grid-template-columns: 1fr; }
 }
 
-@media (min-width: 769px) {
+@media (min-width: 1200px) {
   .nav-toggle { display: none; }
 
   .site-nav {
@@ -2546,9 +2565,9 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   }
 
   .site-nav .nav-list {
-    display: flex;
-    justify-content: space-around;
-    gap: clamp(0.8rem, 1.8vw, 2.2rem);
+    display: grid;
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+    gap: 0;
     align-items: center;
     height: var(--header-h);
     width: 100%;
@@ -2566,7 +2585,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
     justify-content: center;
     padding: 0 0.35rem;
     color: #fff;
-    font-size: clamp(0.78rem, 0.95vw, 0.95rem);
+    font-size: 16pt;
     line-height: 1.08;
     text-align: center;
   }
@@ -2582,7 +2601,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1199px) {
   :root { --header-h: 104px; }
 
   .header-inner {
@@ -2600,7 +2619,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   }
 
   .brand-lockup {
-    font-size: clamp(1.55rem, 7.5vw, 2rem);
+    font-size: clamp(1.35rem, 6.6vw, 21pt);
   }
 
   .nav-toggle { display: inline-flex; }
@@ -2627,7 +2646,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
     padding: 0.9rem 1rem;
     border-bottom: 1px solid var(--border);
     color: var(--ink);
-    font-size: 0.82rem;
+    font-size: 16pt;
     letter-spacing: 0;
   }
 

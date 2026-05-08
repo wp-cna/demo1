@@ -166,7 +166,7 @@ module.exports = {
   baseUrl: `${deployBaseUrl.replace(/\/$/, "")}${cleanCanonicalPrefix}`,
   pathPrefix: runtimePathPrefix,
   themeColor: "#d9581f",
-  assetVersion: "2026-05-08-brand-font-divider",
+  assetVersion: "2026-05-08-impact-franklin-hero-label",
   contactName: "Michael Dalton, President",
   email: "info@wpcna.org",
   contactFormAction: "https://formsubmit.co/info@wpcna.org",
