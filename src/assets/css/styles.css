@@ -523,6 +523,14 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   object-position: center 45%;
 }
 
+.image-hero-neighborhoods {
+  min-height: clamp(20rem, 52vw, 36rem);
+}
+
+.image-hero-neighborhoods img {
+  object-position: center 38%;
+}
+
 .neighborhood-detail-hero {
   position: relative;
   aspect-ratio: 4032 / 2394;
@@ -667,6 +675,10 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 
 .image-hero-about .image-hero-block {
   width: min(100%, 42rem);
+}
+
+.image-hero-block-neighborhoods {
+  width: min(100%, 24rem);
 }
 
 .image-hero-placeholder {

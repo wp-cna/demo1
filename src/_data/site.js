@@ -1,16 +1,18 @@
 const neighborhoodStore = require("./neighborhoodStore");
 
 const runtimePathPrefix = process.env.SITE_PATH_PREFIX || "/";
-const canonicalPathPrefix = process.env.CANONICAL_PATH_PREFIX || process.env.SITE_PATH_PREFIX || "/wpcna10";
+const canonicalPathPrefix = process.env.CANONICAL_PATH_PREFIX || process.env.SITE_PATH_PREFIX || "/wpcna11";
 const deployBaseUrl = process.env.SITE_BASE_URL || "https://never-nude.github.io";
 const cleanCanonicalPrefix = canonicalPathPrefix === "/" ? "" : canonicalPathPrefix.replace(/\/$/, "");
 const homeHeroImage = "/assets/img/home/legacy-carousel/White-Plains.jpeg";
+const neighborhoodsHeroImage = "/assets/img/home/legacy-carousel/white-plains-new-york-pano.jpg";
 const aboutImage = "/assets/img/home/old-site/WPP-pano.jpg";
 const eventHeroImage = "/assets/img/heroes/events-community-picnic.jpg";
 const handbookHeroImage = "/assets/img/heroes/cna-workshop-classroom.jpg";
 const postingHeroImage = "/assets/img/heroes/wpcna-parade-community-posting.png";
 const pageHeroImages = new Set([
   homeHeroImage,
+  neighborhoodsHeroImage,
   aboutImage,
   eventHeroImage,
   handbookHeroImage,
@@ -176,6 +178,9 @@ module.exports = {
   heroImage: homeHeroImage,
   heroImageAlt:
     "Golden-hour aerial view of downtown White Plains with neighborhoods, treetops, and streets stretching toward the horizon.",
+  neighborhoodsHeroImage,
+  neighborhoodsHeroImageAlt:
+    "Aerial view across White Plains with downtown towers rising above nearby homes and tree-lined streets.",
   aboutImage,
   aboutImageAlt:
     "Panoramic view of downtown White Plains with the skyline rising above nearby homes and tree-lined blocks.",

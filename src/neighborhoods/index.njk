@@ -5,11 +5,12 @@ metaDescription: Explore White Plains through an interactive neighborhood map an
 ---
 {% from "components/macros.njk" import neighborhoodCard %}
 
-<section class="page-hero">
-  <div class="wrap">
-    <p class="eyebrow">Neighborhood Guide</p>
-    <h1>Explore White Plains by neighborhood</h1>
-    <p>Start with the updated neighborhood map, then browse neighborhood areas grouped by part of the city.</p>
+<section class="image-hero image-hero-neighborhoods">
+  <img src="{{ site.neighborhoodsHeroImage | withPrefix }}" alt="{{ site.neighborhoodsHeroImageAlt }}" loading="eager">
+  <div class="image-hero-content">
+    <div class="image-hero-block image-hero-block-neighborhoods">
+      <h1>Neighborhoods</h1>
+    </div>
   </div>
 </section>
 
