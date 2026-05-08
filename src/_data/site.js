@@ -166,7 +166,7 @@ module.exports = {
   baseUrl: `${deployBaseUrl.replace(/\/$/, "")}${cleanCanonicalPrefix}`,
   pathPrefix: runtimePathPrefix,
   themeColor: "#b44d1b",
-  assetVersion: "2026-05-08-hero-title-fit",
+  assetVersion: "2026-05-08-hero-title-tight",
   contactName: "Michael Dalton, President",
   email: "info@wpcna.org",
   contactFormAction: "https://formsubmit.co/info@wpcna.org",

@@ -682,10 +682,12 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 }
 
 .image-hero-block-neighborhoods {
-  width: min(calc(100vw - 2rem), 40rem);
+  width: max-content;
+  max-width: calc(100vw - 2rem);
 }
 
 .image-hero-block-neighborhoods h1 {
+  font-size: clamp(2rem, 4vw, 4rem);
   white-space: nowrap;
 }
 
@@ -2762,7 +2764,8 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   }
 
   .image-hero-block-neighborhoods {
-    width: min(calc(100vw - 2rem), 40rem);
+    width: max-content;
+    max-width: calc(100vw - 2rem);
   }
 
   .neighborhood-detail-hero-block {
@@ -2830,7 +2833,8 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   }
 
   .image-hero-block-neighborhoods {
-    width: min(calc(100vw - 2rem), 40rem);
+    width: max-content;
+    max-width: calc(100vw - 2rem);
   }
 
   .neighborhood-detail-hero-block {
