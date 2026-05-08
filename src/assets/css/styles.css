@@ -192,7 +192,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 }
 
 .site-nav a:hover {
-  background: rgba(255,255,255,0.14);
+  background: transparent;
   color: #fff;
   text-decoration: none;
 }
@@ -2638,7 +2638,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   }
 
   .site-nav a:hover {
-    background: rgba(255,255,255,0.14);
+    background: transparent;
     color: #fff;
   }
 
@@ -2699,7 +2699,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   }
 
   .site-nav a:hover {
-    background: var(--brand-soft);
+    background: transparent;
     color: var(--ink);
   }
 
