@@ -857,6 +857,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 .represented-neighborhoods-intro p {
   max-width: 34rem;
   margin: 0;
+  padding-left: 0.04em;
   color: var(--ink);
   font-family: "WPCNA Franklin Heavy", "Franklin Gothic Heavy", "Franklin Gothic Demi", "Arial Black", sans-serif;
   font-size: clamp(1.35rem, 2vw, 1.85rem);
@@ -864,6 +865,11 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   line-height: 1.16;
   letter-spacing: 0;
   text-wrap: balance;
+  overflow: visible;
+}
+
+.represented-neighborhoods-intro p span {
+  display: block;
 }
 
 .represented-neighborhood-grid {
@@ -2027,6 +2033,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 
 .posting-listing-section .section-header p {
   margin: 0;
+  max-width: 42rem;
 }
 
 .posting-listing-section .archive-count {
@@ -2079,6 +2086,15 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 
 .contact-page {
   max-width: 48rem;
+}
+
+.contact-page-hero .wrap {
+  text-align: center;
+}
+
+.contact-page-hero p {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .contact-page-form {
@@ -2411,6 +2427,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 .neighborhood-map-lead {
   max-width: 34rem;
   margin: 0;
+  padding-left: 0.04em;
   color: var(--ink);
   font-family: "WPCNA Franklin Heavy", "Franklin Gothic Heavy", "Franklin Gothic Demi", "Arial Black", sans-serif;
   font-size: clamp(1.35rem, 2vw, 1.85rem);
@@ -2418,6 +2435,11 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   line-height: 1.16;
   letter-spacing: 0;
   text-wrap: balance;
+  overflow: visible;
+}
+
+.neighborhood-map-lead span {
+  display: block;
 }
 
 .map-tile-grid {
