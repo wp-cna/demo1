@@ -859,7 +859,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   margin: 0;
   padding-left: 0.04em;
   color: var(--ink);
-  font-family: "WPCNA Franklin Heavy", "Franklin Gothic Heavy", "Franklin Gothic Demi", "Arial Black", sans-serif;
+  font-family: "Arial Black", "WPCNA Franklin Heavy", "Franklin Gothic Heavy", "Franklin Gothic Demi", sans-serif;
   font-size: clamp(1.35rem, 2vw, 1.85rem);
   font-weight: 900;
   line-height: 1.16;
@@ -2429,7 +2429,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   margin: 0;
   padding-left: 0.04em;
   color: var(--ink);
-  font-family: "WPCNA Franklin Heavy", "Franklin Gothic Heavy", "Franklin Gothic Demi", "Arial Black", sans-serif;
+  font-family: "Arial Black", "WPCNA Franklin Heavy", "Franklin Gothic Heavy", "Franklin Gothic Demi", sans-serif;
   font-size: clamp(1.35rem, 2vw, 1.85rem);
   font-weight: 900;
   line-height: 1.16;
