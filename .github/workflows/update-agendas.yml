@@ -46,7 +46,7 @@ jobs:
       - name: Check for agenda changes
         id: changes
         run: |
-          if git diff --quiet -- src/_data/agendas.json ai/content-index.json worker/src/content-index.js; then
+          if git diff --quiet -- src/_data/agendas.json; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
