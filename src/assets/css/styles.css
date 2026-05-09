@@ -536,7 +536,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   background: var(--brand);
   color: #fff;
   font-family: "Arial Black", "WPCNA Franklin Heavy", "Franklin Gothic Heavy", "Franklin Gothic Demi", sans-serif;
-  font-size: clamp(27pt, 2.175vw, 30pt);
+  font-size: clamp(20pt, 1.65vw, 22.5pt);
   font-weight: 900;
   line-height: 1.1;
   letter-spacing: 0;
@@ -571,6 +571,9 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 
 .image-hero-home .image-hero-label span {
   white-space: normal;
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
 }
 
 @media (min-width: 1350px) {
@@ -2868,16 +2871,18 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   .image-hero-label {
     right: 1rem;
     bottom: 1rem;
-    max-width: calc(50% - 1rem);
+    max-width: min(82vw, 30rem);
     padding: 0.8rem 1rem;
     font-size: clamp(27pt, 6.6vw, 30pt);
+    overflow-wrap: normal;
+    word-break: normal;
   }
 
   .image-hero-home .image-hero-label {
     right: 1rem;
     bottom: 1rem;
-    width: min(42.9375vw, calc(50% - 1rem));
-    max-width: calc(50% - 1rem);
+    width: min(82vw, calc(100% - 2rem));
+    max-width: min(82vw, calc(100% - 2rem));
     min-height: 0;
     padding: 0.65rem 0.75rem;
     font-size: clamp(0.72rem, 2.8vw, 1rem);
