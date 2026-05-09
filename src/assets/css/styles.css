@@ -2342,7 +2342,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 
 /* ─── Interactive neighborhood map ─── */
 .neighborhood-map-section {
-  padding: clamp(1rem, 2vw, 1.5rem) 0 clamp(3.25rem, 5vw, 5.5rem);
+  padding: clamp(1.25rem, 2.4vw, 1.85rem) 0 clamp(2.75rem, 4vw, 4.75rem);
   background: var(--bg);
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
@@ -2351,7 +2351,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 .interactive-map-layout {
   display: grid;
   grid-template-columns: minmax(0, 1.02fr) minmax(320px, 0.98fr);
-  gap: 2rem;
+  gap: clamp(1.35rem, 2.8vw, 2.25rem);
   align-items: start;
 }
 
@@ -2421,25 +2421,28 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 }
 
 .interactive-map-sidebar-intro {
-  margin-bottom: 1rem;
+  margin-bottom: 1.15rem;
 }
 
-.neighborhood-map-lead {
+.neighborhood-map-title {
   max-width: 34rem;
   margin: 0;
-  padding-left: 0.04em;
   color: var(--ink);
-  font-family: "Arial Black", "WPCNA Franklin Heavy", "Franklin Gothic Heavy", "Franklin Gothic Demi", sans-serif;
-  font-size: clamp(1.35rem, 2vw, 1.85rem);
-  font-weight: 900;
-  line-height: 1.16;
+  font-family: "Inter Tight", "Inter", "Helvetica Neue", Arial, system-ui, sans-serif;
+  font-size: clamp(1.45rem, 2.25vw, 2.1rem);
+  font-weight: 760;
+  line-height: 1.12;
   letter-spacing: 0;
   text-wrap: balance;
   overflow: visible;
 }
 
-.neighborhood-map-lead span {
-  display: block;
+.neighborhood-map-subtitle {
+  max-width: 28rem;
+  margin: 0.45rem 0 0;
+  color: var(--ink-muted);
+  font-size: 0.98rem;
+  line-height: 1.35;
 }
 
 .map-tile-grid {
@@ -2479,6 +2482,20 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
   background: var(--brand-light);
 }
 
+.map-tile-placeholder {
+  background: #fbf1eb;
+  color: #a9613b;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.13em;
+  line-height: 1.2;
+}
+
+.map-tile-placeholder span {
+  padding: 0.55rem 0.7rem;
+  opacity: 0.82;
+}
+
 .map-tile-media img {
   width: 100%;
   height: 100%;
@@ -2488,7 +2505,7 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 .map-tile-body {
   display: grid;
   gap: 0;
-  padding: 0.95rem 1rem;
+  padding: 1rem 1.05rem 1.08rem;
 }
 
 .map-tile-body-simple {
@@ -2504,8 +2521,9 @@ h3 { font-size: clamp(1.12rem, 1.8vw, 1.38rem); }
 }
 
 .map-tile-body strong {
-  font-size: 1rem;
-  line-height: 1.15;
+  font-size: 1.02rem;
+  font-weight: 720;
+  line-height: 1.2;
 }
 
 .map-tile-body .map-tile-status {
