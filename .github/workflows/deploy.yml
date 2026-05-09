@@ -19,9 +19,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      SITE_BASE_URL: https://never-nude.github.io
-      SITE_PATH_PREFIX: /wpcna15
-      CANONICAL_PATH_PREFIX: /wpcna15
+      SITE_BASE_URL: https://wp-cna.github.io
+      SITE_PATH_PREFIX: /demo1
+      CANONICAL_PATH_PREFIX: /demo1
       ASK_WHITE_PLAINS_API_URL: ${{ vars.ASK_WHITE_PLAINS_API_URL }}
     steps:
       - name: Checkout
