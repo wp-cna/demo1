@@ -72,6 +72,9 @@ eleventyExcludeFromCollections: true
 
       <form class="contact-form" action="{{ site.contactFormAction }}" method="POST">
         <input type="hidden" name="_subject" value="WPCNA community posting submission">
+        {% if site.contactFormCc %}
+          <input type="hidden" name="_cc" value="{{ site.contactFormCc }}">
+        {% endif %}
         <input type="hidden" name="_template" value="table">
         <input type="hidden" name="_next" value="{{ site.baseUrl }}/posting/">
         <input type="text" name="_honey" class="form-honeypot" tabindex="-1" autocomplete="off" aria-hidden="true">

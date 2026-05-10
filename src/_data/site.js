@@ -171,6 +171,7 @@ module.exports = {
   assetVersion: "2026-05-09-demo1-2",
   contactName: "Michael Dalton, President",
   contactFormAction: "https://formsubmit.co/d3e6b1864b641c2a285418e86d7465c8",
+  contactFormCc: "michael@mdalton.com",
   contactFormSubject: "WPCNA website contact",
   askWhitePlainsApiUrl: process.env.ASK_WHITE_PLAINS_API_URL || "",
   // Posting form submits to a Cloudflare Worker — URL set after worker deploy

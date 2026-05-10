@@ -1,5 +1,5 @@
 export default {
-  "generatedAt": "2026-05-10T12:22:32.184Z",
+  "generatedAt": "2026-05-10T12:55:42.169Z",
   "itemCount": 201,
   "items": [
     {
@@ -45,7 +45,7 @@ export default {
       "url": "/contact/",
       "type": "page",
       "excerpt": "Send questions, corrections, meeting information, or neighborhood news to WPCNA.",
-      "text": "Send questions, corrections, meeting information, or neighborhood news to WPCNA.\n\nContact\n\nContact WPCNA\n\nSend questions, corrections, meeting information, or neighborhood news."
+      "text": "Send questions, corrections, meeting information, or neighborhood news to WPCNA.\n\nContact WPCNA\n\nSend questions, corrections, meeting information, or neighborhood news."
     },
     {
       "id": "page:/events/",
