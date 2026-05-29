@@ -2499,7 +2499,7 @@
     "externalUrl": "https://calendar.whiteplainslibrary.org/event/16443335",
     "ctaLabel": "Open library page",
     "featured": false,
-    "status": "upcoming",
+    "status": "past",
     "tags": [
       "art exhibit and gallery opening",
       "families",
@@ -2528,7 +2528,7 @@
     "externalUrl": "https://calendar.whiteplainslibrary.org/event/16355058",
     "ctaLabel": "Open library page",
     "featured": false,
-    "status": "upcoming",
+    "status": "past",
     "tags": [
       "educational presentations",
       "adults",
@@ -4264,6 +4264,7 @@
     "status": "upcoming",
     "tags": [
       "performing arts",
+      "history & genealogy",
       "teens",
       "families",
       "children",
